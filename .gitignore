@@ -1,0 +1,9 @@
+# Ignore the dataset
+data/
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
