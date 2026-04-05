@@ -2,9 +2,9 @@
 
 ## Background
 
-This project is part of an ongoing effort to deepen my technical foundation in financial crimes analytics. My prior work spans account takeover detection, enterprise fraud classification, and fraudulent application scoring across academic and consulting engagements. This project shifts that focus toward the BSA/AML space, specifically the rule-based transaction monitoring layer that sits at the front of most financial crimes programs.
+The intention of this project was to deepen my technical foundation in financial crimes analytics. My prior work spans account takeover detection, enterprise fraud classification, and fraudulent application scoring across academic and consulting engagements. This project shifts that focus toward the BSA/AML space, specifically the rule-based transaction monitoring layer that sits at the front of most financial crimes programs.
 
-The goal was to build something production-informed: a rule engine grounded in real AML typologies, designed the way an actual monitoring system would be designed, and honest about the limitations of the data it runs on.
+The goal was to build a rule engine grounded in real AML typologies, designed the way an actual monitoring system would be designed, and honest about the limitations of the data it runs on.
 
 ---
 
