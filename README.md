@@ -8,6 +8,20 @@ The goal was to build a rule engine grounded in real AML typologies, designed th
 
 ---
 
+## Dashboard Preview
+
+**Overview**
+
+![Overview](screenshots/Overview_page_showing_all_6_KPI_cards.png)
+
+![Top 10 Accounts](screenshots/top_10_accounts_table.png)
+
+**Alerts Explorer**
+
+![Alerts Explorer](screenshots/Alerts_Explorer_with_a_filter_applied.png)
+
+---
+
 ## Project Overview
 
 A Python-based AML transaction monitoring rule engine built on the PaySim synthetic banking dataset. The engine detects four suspicious activity typologies, generates a structured alert output, and surfaces findings through a Streamlit dashboard designed for analyst review.
@@ -20,20 +34,21 @@ The stack is Python, SQLite, Jupyter, and Streamlit.
 
 ```
 aml-rule-engine/
-├── data/                         # PaySim CSV and SQLite database
+├── data/                             # PaySim CSV and SQLite database (not committed)
 ├── notebooks/
 │   ├── 01_ingest_and_explore.ipynb   # Data ingestion and full EDA
 │   └── 02_rule_development.ipynb     # Rule prototyping and design decisions
 ├── src/
-│   ├── ingest.py                 # Reusable data ingestion pipeline
-│   ├── rules.py                  # Four AML detection rule functions
-│   ├── alerts.py                 # Alert generation and CSV export pipeline
-│   └── kpis.py                   # KPI aggregation for the dashboard
+│   ├── ingest.py                     # Reusable data ingestion pipeline
+│   ├── rules.py                      # Four AML detection rule functions
+│   ├── alerts.py                     # Alert generation and CSV export pipeline
+│   └── kpis.py                       # KPI aggregation for the dashboard
 ├── app/
-│   └── streamlit_app.py          # Two page Streamlit dashboard
+│   └── streamlit_app.py              # Two page Streamlit dashboard
 ├── outputs/
 │   └── alerts/
-│       └── alerts.csv            # Generated alert output
+│       └── alerts.csv                # Generated alert output
+├── screenshots/                      # Dashboard preview images
 ├── requirements.txt
 └── README.md
 ```
@@ -109,6 +124,8 @@ streamlit run app/streamlit_app.py
 PaySim is a synthetic financial dataset simulating mobile money transactions. It was generated using real transaction logs from a mobile money service and is commonly used in fraud and AML research.
 
 Source: [PaySim on Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)
+
+The dataset is not committed to this repo due to its size. Download it from Kaggle, rename the file to `paysimdataset.csv`, and place it in the `data/` folder before running the setup steps below.
 
 **Known limitations:** PaySim does not simulate intentional structuring behavior, personal transaction baselines are unreliable due to low per-sender transaction counts, and all fraud is confined to TRANSFER and CASH_OUT transaction types. Rule parameters and design decisions were adapted to reflect what the dataset can actually support.
 
