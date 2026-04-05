@@ -123,11 +123,9 @@ def detect_velocity_spike(df, percentile=95, min_count=2):
     flagged["account_id"] = flagged["nameOrig"]
     flagged["rule"] = "VELOCITY_SPIKE"
     flagged["alert_amount"] = flagged["total_amount"]
+    # Simplified detail string, threshold is surfaced separately in the dashboard
     flagged["alert_details"] = (
-        "Sender total of $" +
-        flagged["total_amount"].round(2).astype(str) +
-        " exceeds the 95th percentile threshold of $" +
-        f"{threshold:,.2f} across " +
+        "Sender exceeds 95th percentile threshold across " +
         flagged["transaction_count"].astype(str) +
         " transactions"
     )
@@ -191,9 +189,9 @@ def detect_dormant_activity(df, min_gap=30, min_reactivation_amount=50000):
     flagged["rule"] = "DORMANT_ACTIVITY"
     flagged["alert_amount"] = flagged["first_transaction_amount"]
     flagged["alert_details"] = (
-        "Account was dormant for " +
+        "Account dormant for " +
         flagged["step_gap"].astype(str) +
-        " steps then reactivated with a transaction of $" +
+        " hours then reactivated with $" +
         flagged["first_transaction_amount"].round(2).astype(str)
     )
 
@@ -242,11 +240,10 @@ def detect_rapid_movement(df, max_step_gap=24):
     chained["rule"] = "RAPID_MOVEMENT"
     chained["alert_amount"] = chained["amount_1"]
     chained["alert_details"] = (
-        "Account " + chained["account_a"] +
-        " sent $" + chained["amount_1"].round(2).astype(str) +
-        " to intermediary " + chained["account_b"] +
-        " which forwarded funds to " + chained["account_c"] +
-        " within " + chained["step_gap"].astype(str) + " steps"
+        "Funds moved through intermediary " +
+        chained["account_b"] +
+        " to " + chained["account_c"] +
+        " within " + chained["step_gap"].astype(str) + " hours"
     )
     chained["transaction_count"] = 2
 

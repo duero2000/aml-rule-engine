@@ -1,0 +1,1680 @@
+account_id,rule,alert_amount,alert_details,transaction_count
+C101359786,VELOCITY_SPIKE,968812.14,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1016949303,VELOCITY_SPIKE,1250604.14,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1021950674,VELOCITY_SPIKE,1154220.93,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1022036948,VELOCITY_SPIKE,3938347.98,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1028766280,VELOCITY_SPIKE,3858106.2,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1029713918,VELOCITY_SPIKE,2635985.86,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1040334487,VELOCITY_SPIKE,1073382.1199999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1068240459,VELOCITY_SPIKE,1340257.4400000002,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1095346997,VELOCITY_SPIKE,1298920.62,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1101705604,VELOCITY_SPIKE,5414515.92,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1114021485,VELOCITY_SPIKE,1561893.56,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1124728833,VELOCITY_SPIKE,1164043.41,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1127304441,VELOCITY_SPIKE,1049698.51,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1141576570,VELOCITY_SPIKE,1004692.28,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1148385029,VELOCITY_SPIKE,1130877.93,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1157650635,VELOCITY_SPIKE,2350471.5,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1162056755,VELOCITY_SPIKE,1737466.49,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1162752767,VELOCITY_SPIKE,983740.28,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1163651971,VELOCITY_SPIKE,3405962.18,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1176328073,VELOCITY_SPIKE,1327038.83,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1185263836,VELOCITY_SPIKE,2690671.54,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1191696703,VELOCITY_SPIKE,3215956.12,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1194120440,VELOCITY_SPIKE,3218753.72,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1197939193,VELOCITY_SPIKE,1005955.5,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1208098630,VELOCITY_SPIKE,1156899.53,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1216137912,VELOCITY_SPIKE,1829604.47,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1221138730,VELOCITY_SPIKE,2340209.65,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1255901219,VELOCITY_SPIKE,8239386.7700000005,Sender exceeds 95th percentile threshold across 2 transactions,2
+C125799853,VELOCITY_SPIKE,1661543.8699999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1258665794,VELOCITY_SPIKE,1184038.22,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1264023677,VELOCITY_SPIKE,1116818.06,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1270394048,VELOCITY_SPIKE,1255017.77,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1275840855,VELOCITY_SPIKE,3290532.39,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1286849685,VELOCITY_SPIKE,1608414.4100000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1291974436,VELOCITY_SPIKE,2013896.59,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1292071977,VELOCITY_SPIKE,1048032.18,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1314700099,VELOCITY_SPIKE,2605680.58,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1317020957,VELOCITY_SPIKE,1192347.44,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1320481595,VELOCITY_SPIKE,3268858.07,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1322202354,VELOCITY_SPIKE,1654074.0899999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1326807568,VELOCITY_SPIKE,1656508.47,Sender exceeds 95th percentile threshold across 2 transactions,2
+C133857826,VELOCITY_SPIKE,1089563.57,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1343875506,VELOCITY_SPIKE,1760812.46,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1373834487,VELOCITY_SPIKE,3165209.9,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1376588103,VELOCITY_SPIKE,1650951.6,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1408209930,VELOCITY_SPIKE,1895470.38,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1426679482,VELOCITY_SPIKE,1178103.6,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1449325492,VELOCITY_SPIKE,998699.3999999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1450089041,VELOCITY_SPIKE,2109690.3200000003,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1492962755,VELOCITY_SPIKE,1554497.3,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1493903724,VELOCITY_SPIKE,1923495.29,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1494691984,VELOCITY_SPIKE,1217708.3499999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1500702169,VELOCITY_SPIKE,1263396.1600000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1507855514,VELOCITY_SPIKE,1092695.46,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1519577654,VELOCITY_SPIKE,3580429.78,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1527160232,VELOCITY_SPIKE,1021594.9199999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1533871698,VELOCITY_SPIKE,2794053.59,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1555086607,VELOCITY_SPIKE,1136640.47,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1566443123,VELOCITY_SPIKE,1821729.8599999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1568634958,VELOCITY_SPIKE,1666437.2200000002,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1573323570,VELOCITY_SPIKE,994619.29,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1580433697,VELOCITY_SPIKE,1495984.51,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1586134436,VELOCITY_SPIKE,1710804.0899999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1587062469,VELOCITY_SPIKE,1604280.58,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1613461249,VELOCITY_SPIKE,1414734.71,Sender exceeds 95th percentile threshold across 2 transactions,2
+C163217219,VELOCITY_SPIKE,8976509.799999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1634254293,VELOCITY_SPIKE,1277283.69,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1642603560,VELOCITY_SPIKE,1447357.93,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1645047159,VELOCITY_SPIKE,972829.9299999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1652119261,VELOCITY_SPIKE,2243820.9099999997,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1663399219,VELOCITY_SPIKE,1061267.1,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1666165344,VELOCITY_SPIKE,1179011.02,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1674410091,VELOCITY_SPIKE,1755513.5099999998,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1674581127,VELOCITY_SPIKE,4918261.4,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1680697412,VELOCITY_SPIKE,1158034.73,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1706882975,VELOCITY_SPIKE,2183765.17,Sender exceeds 95th percentile threshold across 2 transactions,2
+C170843146,VELOCITY_SPIKE,1078492.57,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1726185852,VELOCITY_SPIKE,1886402.16,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1729394025,VELOCITY_SPIKE,1004010.5,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1731491964,VELOCITY_SPIKE,1779633.63,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1741076564,VELOCITY_SPIKE,39137326.35,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1741127261,VELOCITY_SPIKE,1246666.6400000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1755335200,VELOCITY_SPIKE,1424151.21,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1761144927,VELOCITY_SPIKE,3656143.73,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1775459867,VELOCITY_SPIKE,1051231.15,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1804228729,VELOCITY_SPIKE,1048040.6100000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C180571855,VELOCITY_SPIKE,983178.51,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1808834208,VELOCITY_SPIKE,1241455.56,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1812498636,VELOCITY_SPIKE,3341222.62,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1827831859,VELOCITY_SPIKE,3584990.8499999996,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1836651658,VELOCITY_SPIKE,1665166.72,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1837511542,VELOCITY_SPIKE,8167613.59,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1840223033,VELOCITY_SPIKE,1690439.65,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1841367152,VELOCITY_SPIKE,1185862.86,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1854008477,VELOCITY_SPIKE,1122891.23,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1876692743,VELOCITY_SPIKE,1208885.84,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1885333477,VELOCITY_SPIKE,974415.93,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1886544249,VELOCITY_SPIKE,15016660.66,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1900035261,VELOCITY_SPIKE,8167588.16,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1906181934,VELOCITY_SPIKE,1000755.67,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1910840764,VELOCITY_SPIKE,986731.26,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1912085821,VELOCITY_SPIKE,1866725.6500000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1913312301,VELOCITY_SPIKE,1249352.84,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1928194597,VELOCITY_SPIKE,1853932.9,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1929818755,VELOCITY_SPIKE,1210927.23,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1935481284,VELOCITY_SPIKE,2649522.83,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1937148889,VELOCITY_SPIKE,1197747.43,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1938412809,VELOCITY_SPIKE,1091236.67,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1959217095,VELOCITY_SPIKE,1436825.58,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1959234152,VELOCITY_SPIKE,1314444.32,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1967217926,VELOCITY_SPIKE,1119683.58,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1980711244,VELOCITY_SPIKE,1093461.06,Sender exceeds 95th percentile threshold across 2 transactions,2
+C198344877,VELOCITY_SPIKE,1243183.04,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1988205387,VELOCITY_SPIKE,1164496.66,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1988597539,VELOCITY_SPIKE,2961712.92,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1991548082,VELOCITY_SPIKE,1252013.74,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1991760030,VELOCITY_SPIKE,1019279.54,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1995120350,VELOCITY_SPIKE,1172416.51,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2004363483,VELOCITY_SPIKE,1300743.1199999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2009865645,VELOCITY_SPIKE,1502073.14,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2041919978,VELOCITY_SPIKE,1113882.82,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2053853369,VELOCITY_SPIKE,1428148.05,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2054218084,VELOCITY_SPIKE,960939.55,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2055027956,VELOCITY_SPIKE,1574809.02,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2063296720,VELOCITY_SPIKE,1182632.78,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2076561122,VELOCITY_SPIKE,2073993.01,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2102401176,VELOCITY_SPIKE,1059058.85,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2108020763,VELOCITY_SPIKE,2991334.2600000002,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2129095073,VELOCITY_SPIKE,1087987.22,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2135469229,VELOCITY_SPIKE,1985916.6900000002,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2145262239,VELOCITY_SPIKE,1611507.96,Sender exceeds 95th percentile threshold across 2 transactions,2
+C218520760,VELOCITY_SPIKE,8922351.760000002,Sender exceeds 95th percentile threshold across 2 transactions,2
+C2202535,VELOCITY_SPIKE,1975461.0,Sender exceeds 95th percentile threshold across 2 transactions,2
+C228353749,VELOCITY_SPIKE,2068339.3499999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C230811728,VELOCITY_SPIKE,1803128.8199999998,Sender exceeds 95th percentile threshold across 2 transactions,2
+C256397271,VELOCITY_SPIKE,46369901.83,Sender exceeds 95th percentile threshold across 2 transactions,2
+C261533385,VELOCITY_SPIKE,1272097.17,Sender exceeds 95th percentile threshold across 2 transactions,2
+C270268150,VELOCITY_SPIKE,1082264.72,Sender exceeds 95th percentile threshold across 2 transactions,2
+C276596685,VELOCITY_SPIKE,1050632.3499999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C280804885,VELOCITY_SPIKE,1581637.24,Sender exceeds 95th percentile threshold across 2 transactions,2
+C283180925,VELOCITY_SPIKE,6623466.720000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C286721853,VELOCITY_SPIKE,1337195.19,Sender exceeds 95th percentile threshold across 2 transactions,2
+C287123496,VELOCITY_SPIKE,1564034.3599999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C291338404,VELOCITY_SPIKE,1246086.3900000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C303358402,VELOCITY_SPIKE,1785664.8900000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C313836882,VELOCITY_SPIKE,1151363.03,Sender exceeds 95th percentile threshold across 2 transactions,2
+C316656451,VELOCITY_SPIKE,10321310.2,Sender exceeds 95th percentile threshold across 2 transactions,2
+C32179658,VELOCITY_SPIKE,1979659.13,Sender exceeds 95th percentile threshold across 2 transactions,2
+C324124707,VELOCITY_SPIKE,2323851.35,Sender exceeds 95th percentile threshold across 2 transactions,2
+C339955034,VELOCITY_SPIKE,2026988.6,Sender exceeds 95th percentile threshold across 2 transactions,2
+C35005848,VELOCITY_SPIKE,2293392.38,Sender exceeds 95th percentile threshold across 2 transactions,2
+C371791790,VELOCITY_SPIKE,10054537.27,Sender exceeds 95th percentile threshold across 2 transactions,2
+C372045487,VELOCITY_SPIKE,1303623.23,Sender exceeds 95th percentile threshold across 2 transactions,2
+C372341277,VELOCITY_SPIKE,1400695.0899999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C374097252,VELOCITY_SPIKE,1625652.0499999998,Sender exceeds 95th percentile threshold across 2 transactions,2
+C386037606,VELOCITY_SPIKE,6843419.1,Sender exceeds 95th percentile threshold across 2 transactions,2
+C389626503,VELOCITY_SPIKE,1058620.8900000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C397528925,VELOCITY_SPIKE,1518566.9100000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C402179883,VELOCITY_SPIKE,997899.1000000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C40253038,VELOCITY_SPIKE,2129704.93,Sender exceeds 95th percentile threshold across 2 transactions,2
+C406954872,VELOCITY_SPIKE,1292494.07,Sender exceeds 95th percentile threshold across 2 transactions,2
+C414996926,VELOCITY_SPIKE,992567.28,Sender exceeds 95th percentile threshold across 2 transactions,2
+C417961040,VELOCITY_SPIKE,1985210.81,Sender exceeds 95th percentile threshold across 2 transactions,2
+C442810010,VELOCITY_SPIKE,4753687.699999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C445118210,VELOCITY_SPIKE,3924447.46,Sender exceeds 95th percentile threshold across 2 transactions,2
+C46529158,VELOCITY_SPIKE,1070668.88,Sender exceeds 95th percentile threshold across 2 transactions,2
+C472638499,VELOCITY_SPIKE,1595353.74,Sender exceeds 95th percentile threshold across 2 transactions,2
+C473570228,VELOCITY_SPIKE,1284505.0899999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C510512793,VELOCITY_SPIKE,1014761.9700000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C512937917,VELOCITY_SPIKE,1241060.08,Sender exceeds 95th percentile threshold across 2 transactions,2
+C514772704,VELOCITY_SPIKE,1077977.21,Sender exceeds 95th percentile threshold across 2 transactions,2
+C518383312,VELOCITY_SPIKE,5651844.88,Sender exceeds 95th percentile threshold across 2 transactions,2
+C524686882,VELOCITY_SPIKE,3903011.87,Sender exceeds 95th percentile threshold across 2 transactions,2
+C532903401,VELOCITY_SPIKE,2541225.48,Sender exceeds 95th percentile threshold across 2 transactions,2
+C538927192,VELOCITY_SPIKE,2898677.24,Sender exceeds 95th percentile threshold across 2 transactions,2
+C545315117,VELOCITY_SPIKE,2482103.4699999997,Sender exceeds 95th percentile threshold across 2 transactions,2
+C554925674,VELOCITY_SPIKE,10020916.14,Sender exceeds 95th percentile threshold across 2 transactions,2
+C555328293,VELOCITY_SPIKE,956212.37,Sender exceeds 95th percentile threshold across 2 transactions,2
+C556282163,VELOCITY_SPIKE,1890924.5499999998,Sender exceeds 95th percentile threshold across 2 transactions,2
+C559974438,VELOCITY_SPIKE,996788.36,Sender exceeds 95th percentile threshold across 2 transactions,2
+C569000276,VELOCITY_SPIKE,1063167.1,Sender exceeds 95th percentile threshold across 2 transactions,2
+C580355387,VELOCITY_SPIKE,1073842.12,Sender exceeds 95th percentile threshold across 2 transactions,2
+C58156835,VELOCITY_SPIKE,1184481.57,Sender exceeds 95th percentile threshold across 2 transactions,2
+C61156357,VELOCITY_SPIKE,1070618.41,Sender exceeds 95th percentile threshold across 2 transactions,2
+C613232603,VELOCITY_SPIKE,2307547.5500000003,Sender exceeds 95th percentile threshold across 2 transactions,2
+C629989991,VELOCITY_SPIKE,2601282.95,Sender exceeds 95th percentile threshold across 2 transactions,2
+C635739031,VELOCITY_SPIKE,2199793.63,Sender exceeds 95th percentile threshold across 2 transactions,2
+C640806491,VELOCITY_SPIKE,6751538.0,Sender exceeds 95th percentile threshold across 2 transactions,2
+C683822340,VELOCITY_SPIKE,1175909.31,Sender exceeds 95th percentile threshold across 2 transactions,2
+C688001520,VELOCITY_SPIKE,1304593.85,Sender exceeds 95th percentile threshold across 2 transactions,2
+C688384856,VELOCITY_SPIKE,1219932.56,Sender exceeds 95th percentile threshold across 2 transactions,2
+C689292573,VELOCITY_SPIKE,992990.44,Sender exceeds 95th percentile threshold across 2 transactions,2
+C706464557,VELOCITY_SPIKE,1004749.1000000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C729186631,VELOCITY_SPIKE,1370339.4,Sender exceeds 95th percentile threshold across 2 transactions,2
+C732074792,VELOCITY_SPIKE,1676987.52,Sender exceeds 95th percentile threshold across 2 transactions,2
+C738183845,VELOCITY_SPIKE,1954369.71,Sender exceeds 95th percentile threshold across 2 transactions,2
+C742024395,VELOCITY_SPIKE,1257056.58,Sender exceeds 95th percentile threshold across 2 transactions,2
+C747405268,VELOCITY_SPIKE,1022598.29,Sender exceeds 95th percentile threshold across 2 transactions,2
+C747895774,VELOCITY_SPIKE,1916858.19,Sender exceeds 95th percentile threshold across 2 transactions,2
+C751509105,VELOCITY_SPIKE,5195635.75,Sender exceeds 95th percentile threshold across 2 transactions,2
+C765653079,VELOCITY_SPIKE,1035849.37,Sender exceeds 95th percentile threshold across 2 transactions,2
+C783102389,VELOCITY_SPIKE,1310539.46,Sender exceeds 95th percentile threshold across 2 transactions,2
+C786410688,VELOCITY_SPIKE,985080.98,Sender exceeds 95th percentile threshold across 2 transactions,2
+C788247672,VELOCITY_SPIKE,982759.4400000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C788453602,VELOCITY_SPIKE,1427940.6,Sender exceeds 95th percentile threshold across 2 transactions,2
+C796574716,VELOCITY_SPIKE,6648253.380000001,Sender exceeds 95th percentile threshold across 2 transactions,2
+C800998684,VELOCITY_SPIKE,1144990.14,Sender exceeds 95th percentile threshold across 2 transactions,2
+C806335750,VELOCITY_SPIKE,1166629.33,Sender exceeds 95th percentile threshold across 2 transactions,2
+C809381301,VELOCITY_SPIKE,1005593.14,Sender exceeds 95th percentile threshold across 2 transactions,2
+C811350853,VELOCITY_SPIKE,1836257.9300000002,Sender exceeds 95th percentile threshold across 2 transactions,2
+C813633808,VELOCITY_SPIKE,2828165.88,Sender exceeds 95th percentile threshold across 2 transactions,2
+C822433032,VELOCITY_SPIKE,1427755.62,Sender exceeds 95th percentile threshold across 2 transactions,2
+C824465745,VELOCITY_SPIKE,2865082.69,Sender exceeds 95th percentile threshold across 2 transactions,2
+C825938473,VELOCITY_SPIKE,992914.02,Sender exceeds 95th percentile threshold across 2 transactions,2
+C826248877,VELOCITY_SPIKE,1221918.06,Sender exceeds 95th percentile threshold across 2 transactions,2
+C831429917,VELOCITY_SPIKE,1170911.3699999999,Sender exceeds 95th percentile threshold across 2 transactions,2
+C835179086,VELOCITY_SPIKE,1383467.21,Sender exceeds 95th percentile threshold across 2 transactions,2
+C837729148,VELOCITY_SPIKE,1446466.3199999998,Sender exceeds 95th percentile threshold across 2 transactions,2
+C882869563,VELOCITY_SPIKE,2351254.5900000003,Sender exceeds 95th percentile threshold across 2 transactions,2
+C904671559,VELOCITY_SPIKE,1613349.5399999998,Sender exceeds 95th percentile threshold across 2 transactions,2
+C906941844,VELOCITY_SPIKE,1813106.43,Sender exceeds 95th percentile threshold across 2 transactions,2
+C925247406,VELOCITY_SPIKE,4642718.79,Sender exceeds 95th percentile threshold across 2 transactions,2
+C925319155,VELOCITY_SPIKE,1086223.98,Sender exceeds 95th percentile threshold across 2 transactions,2
+C953657514,VELOCITY_SPIKE,2344962.17,Sender exceeds 95th percentile threshold across 2 transactions,2
+C958689035,VELOCITY_SPIKE,3465751.36,Sender exceeds 95th percentile threshold across 2 transactions,2
+C971280471,VELOCITY_SPIKE,1889835.26,Sender exceeds 95th percentile threshold across 2 transactions,2
+C977044321,VELOCITY_SPIKE,2010432.87,Sender exceeds 95th percentile threshold across 2 transactions,2
+C998023735,VELOCITY_SPIKE,1455452.86,Sender exceeds 95th percentile threshold across 2 transactions,2
+C1002018924,DORMANT_ACTIVITY,217695.29,Account dormant for 57 hours then reactivated with $217695.29,2
+C10037435,DORMANT_ACTIVITY,392937.78,Account dormant for 167 hours then reactivated with $392937.78,2
+C1004939913,DORMANT_ACTIVITY,733478.62,Account dormant for 250 hours then reactivated with $733478.62,2
+C1005646800,DORMANT_ACTIVITY,156163.47,Account dormant for 163 hours then reactivated with $156163.47,2
+C1006323448,DORMANT_ACTIVITY,356995.42,Account dormant for 232 hours then reactivated with $356995.42,2
+C1007743787,DORMANT_ACTIVITY,333975.35,Account dormant for 361 hours then reactivated with $333975.35,2
+C1014032942,DORMANT_ACTIVITY,397482.56,Account dormant for 296 hours then reactivated with $397482.56,2
+C1015913959,DORMANT_ACTIVITY,138078.91,Account dormant for 50 hours then reactivated with $138078.91,2
+C101617638,DORMANT_ACTIVITY,187367.79,Account dormant for 389 hours then reactivated with $187367.79,2
+C1016949303,DORMANT_ACTIVITY,111820.18,Account dormant for 338 hours then reactivated with $111820.18,2
+C1017098131,DORMANT_ACTIVITY,240548.97,Account dormant for 154 hours then reactivated with $240548.97,2
+C1018801502,DORMANT_ACTIVITY,58900.54,Account dormant for 104 hours then reactivated with $58900.54,2
+C1018923964,DORMANT_ACTIVITY,276948.37,Account dormant for 210 hours then reactivated with $276948.37,2
+C1019109955,DORMANT_ACTIVITY,768770.02,Account dormant for 56 hours then reactivated with $768770.02,2
+C102027291,DORMANT_ACTIVITY,116118.94,Account dormant for 181 hours then reactivated with $116118.94,2
+C1021950674,DORMANT_ACTIVITY,1081815.77,Account dormant for 128 hours then reactivated with $1081815.77,2
+C1022036948,DORMANT_ACTIVITY,241800.71,Account dormant for 114 hours then reactivated with $241800.71,2
+C1024832177,DORMANT_ACTIVITY,72204.96,Account dormant for 255 hours then reactivated with $72204.96,2
+C1024901714,DORMANT_ACTIVITY,631072.38,Account dormant for 222 hours then reactivated with $631072.38,2
+C1026555707,DORMANT_ACTIVITY,452760.89,Account dormant for 260 hours then reactivated with $452760.89,2
+C1027648259,DORMANT_ACTIVITY,141613.07,Account dormant for 261 hours then reactivated with $141613.07,2
+C102857956,DORMANT_ACTIVITY,193545.5,Account dormant for 95 hours then reactivated with $193545.5,2
+C1028766280,DORMANT_ACTIVITY,89734.75,Account dormant for 65 hours then reactivated with $89734.75,2
+C1029332454,DORMANT_ACTIVITY,358067.41,Account dormant for 314 hours then reactivated with $358067.41,2
+C1029713918,DORMANT_ACTIVITY,673136.61,Account dormant for 170 hours then reactivated with $673136.61,2
+C1031096440,DORMANT_ACTIVITY,87655.72,Account dormant for 144 hours then reactivated with $87655.72,2
+C1031385483,DORMANT_ACTIVITY,375499.68,Account dormant for 381 hours then reactivated with $375499.68,2
+C1032743158,DORMANT_ACTIVITY,72953.75,Account dormant for 97 hours then reactivated with $72953.75,2
+C1037444987,DORMANT_ACTIVITY,218761.85,Account dormant for 686 hours then reactivated with $218761.85,2
+C1042819460,DORMANT_ACTIVITY,211833.23,Account dormant for 212 hours then reactivated with $211833.23,2
+C1043640664,DORMANT_ACTIVITY,71516.85,Account dormant for 334 hours then reactivated with $71516.85,2
+C1044583544,DORMANT_ACTIVITY,64090.06,Account dormant for 332 hours then reactivated with $64090.06,2
+C1044881927,DORMANT_ACTIVITY,79309.54,Account dormant for 66 hours then reactivated with $79309.54,2
+C1046748928,DORMANT_ACTIVITY,224117.98,Account dormant for 38 hours then reactivated with $224117.98,2
+C1048374464,DORMANT_ACTIVITY,134048.8,Account dormant for 183 hours then reactivated with $134048.8,2
+C1049313798,DORMANT_ACTIVITY,215159.15,Account dormant for 141 hours then reactivated with $215159.15,2
+C1050113130,DORMANT_ACTIVITY,254259.6,Account dormant for 258 hours then reactivated with $254259.6,2
+C1052298245,DORMANT_ACTIVITY,236612.6,Account dormant for 87 hours then reactivated with $236612.6,2
+C1057885315,DORMANT_ACTIVITY,78812.37,Account dormant for 50 hours then reactivated with $78812.37,2
+C1060162321,DORMANT_ACTIVITY,174366.97,Account dormant for 303 hours then reactivated with $174366.97,2
+C1060557726,DORMANT_ACTIVITY,94673.76,Account dormant for 296 hours then reactivated with $94673.76,2
+C1060949051,DORMANT_ACTIVITY,120151.06,Account dormant for 69 hours then reactivated with $120151.06,2
+C1061864407,DORMANT_ACTIVITY,83458.25,Account dormant for 76 hours then reactivated with $83458.25,2
+C1062059549,DORMANT_ACTIVITY,493392.0,Account dormant for 317 hours then reactivated with $493392.0,2
+C1063436237,DORMANT_ACTIVITY,120993.88,Account dormant for 355 hours then reactivated with $120993.88,2
+C1064366977,DORMANT_ACTIVITY,163755.42,Account dormant for 78 hours then reactivated with $163755.42,2
+C1064752376,DORMANT_ACTIVITY,166188.19,Account dormant for 214 hours then reactivated with $166188.19,2
+C1067502830,DORMANT_ACTIVITY,208381.88,Account dormant for 153 hours then reactivated with $208381.88,2
+C1067547914,DORMANT_ACTIVITY,279945.63,Account dormant for 68 hours then reactivated with $279945.63,2
+C1068777831,DORMANT_ACTIVITY,169440.57,Account dormant for 138 hours then reactivated with $169440.57,2
+C107159084,DORMANT_ACTIVITY,138153.99,Account dormant for 205 hours then reactivated with $138153.99,2
+C1074772271,DORMANT_ACTIVITY,167849.21,Account dormant for 177 hours then reactivated with $167849.21,2
+C1076222548,DORMANT_ACTIVITY,140864.44,Account dormant for 47 hours then reactivated with $140864.44,2
+C1076816046,DORMANT_ACTIVITY,368535.3,Account dormant for 93 hours then reactivated with $368535.3,2
+C1077281695,DORMANT_ACTIVITY,272004.33,Account dormant for 163 hours then reactivated with $272004.33,2
+C1077855977,DORMANT_ACTIVITY,297685.02,Account dormant for 146 hours then reactivated with $297685.02,2
+C1079634206,DORMANT_ACTIVITY,816313.42,Account dormant for 113 hours then reactivated with $816313.42,2
+C1081525209,DORMANT_ACTIVITY,124065.88,Account dormant for 121 hours then reactivated with $124065.88,2
+C1081886091,DORMANT_ACTIVITY,187773.23,Account dormant for 170 hours then reactivated with $187773.23,2
+C1084019742,DORMANT_ACTIVITY,157915.24,Account dormant for 68 hours then reactivated with $157915.24,2
+C1089046151,DORMANT_ACTIVITY,233363.21,Account dormant for 222 hours then reactivated with $233363.21,2
+C10903283,DORMANT_ACTIVITY,211322.59,Account dormant for 160 hours then reactivated with $211322.59,2
+C1092706404,DORMANT_ACTIVITY,186592.45,Account dormant for 74 hours then reactivated with $186592.45,2
+C1093713615,DORMANT_ACTIVITY,241920.14,Account dormant for 110 hours then reactivated with $241920.14,2
+C109872572,DORMANT_ACTIVITY,200759.45,Account dormant for 94 hours then reactivated with $200759.45,2
+C1100531055,DORMANT_ACTIVITY,502552.36,Account dormant for 154 hours then reactivated with $502552.36,2
+C1101598632,DORMANT_ACTIVITY,173597.57,Account dormant for 137 hours then reactivated with $173597.57,2
+C1101600194,DORMANT_ACTIVITY,351106.1,Account dormant for 667 hours then reactivated with $351106.1,2
+C1101705604,DORMANT_ACTIVITY,359437.39,Account dormant for 284 hours then reactivated with $359437.39,2
+C1102043452,DORMANT_ACTIVITY,353686.02,Account dormant for 149 hours then reactivated with $353686.02,2
+C1104856404,DORMANT_ACTIVITY,368213.34,Account dormant for 233 hours then reactivated with $368213.34,2
+C1105812742,DORMANT_ACTIVITY,445291.7,Account dormant for 271 hours then reactivated with $445291.7,2
+C1106753136,DORMANT_ACTIVITY,321538.21,Account dormant for 120 hours then reactivated with $321538.21,2
+C1107185029,DORMANT_ACTIVITY,75155.87,Account dormant for 70 hours then reactivated with $75155.87,2
+C11073301,DORMANT_ACTIVITY,236078.64,Account dormant for 50 hours then reactivated with $236078.64,2
+C1109429562,DORMANT_ACTIVITY,442722.8,Account dormant for 223 hours then reactivated with $442722.8,2
+C1109841596,DORMANT_ACTIVITY,119882.41,Account dormant for 144 hours then reactivated with $119882.41,2
+C1110164730,DORMANT_ACTIVITY,310990.17,Account dormant for 166 hours then reactivated with $310990.17,2
+C1113495952,DORMANT_ACTIVITY,90204.73,Account dormant for 241 hours then reactivated with $90204.73,2
+C1114021485,DORMANT_ACTIVITY,235622.94,Account dormant for 221 hours then reactivated with $235622.94,2
+C1114513110,DORMANT_ACTIVITY,367248.89,Account dormant for 191 hours then reactivated with $367248.89,2
+C111655053,DORMANT_ACTIVITY,92621.2,Account dormant for 266 hours then reactivated with $92621.2,2
+C1118399210,DORMANT_ACTIVITY,152042.16,Account dormant for 335 hours then reactivated with $152042.16,2
+C111924416,DORMANT_ACTIVITY,260233.28,Account dormant for 314 hours then reactivated with $260233.28,2
+C1121264455,DORMANT_ACTIVITY,108420.45,Account dormant for 245 hours then reactivated with $108420.45,2
+C1122432821,DORMANT_ACTIVITY,201587.54,Account dormant for 262 hours then reactivated with $201587.54,2
+C1123917143,DORMANT_ACTIVITY,50734.27,Account dormant for 122 hours then reactivated with $50734.27,2
+C1124728833,DORMANT_ACTIVITY,199654.22,Account dormant for 238 hours then reactivated with $199654.22,2
+C1125165873,DORMANT_ACTIVITY,381699.58,Account dormant for 218 hours then reactivated with $381699.58,2
+C1127304441,DORMANT_ACTIVITY,172945.4,Account dormant for 320 hours then reactivated with $172945.4,2
+C112747439,DORMANT_ACTIVITY,184336.92,Account dormant for 166 hours then reactivated with $184336.92,2
+C1127684230,DORMANT_ACTIVITY,215664.79,Account dormant for 71 hours then reactivated with $215664.79,2
+C1129307958,DORMANT_ACTIVITY,121129.73,Account dormant for 174 hours then reactivated with $121129.73,2
+C1132553143,DORMANT_ACTIVITY,184487.1,Account dormant for 93 hours then reactivated with $184487.1,2
+C1134686918,DORMANT_ACTIVITY,415567.39,Account dormant for 201 hours then reactivated with $415567.39,2
+C1135556026,DORMANT_ACTIVITY,140738.8,Account dormant for 293 hours then reactivated with $140738.8,2
+C113592681,DORMANT_ACTIVITY,262309.29,Account dormant for 160 hours then reactivated with $262309.29,2
+C1136620065,DORMANT_ACTIVITY,195172.43,Account dormant for 216 hours then reactivated with $195172.43,2
+C1137303436,DORMANT_ACTIVITY,293186.01,Account dormant for 270 hours then reactivated with $293186.01,2
+C1141518688,DORMANT_ACTIVITY,461669.45,Account dormant for 553 hours then reactivated with $461669.45,2
+C114486505,DORMANT_ACTIVITY,100495.2,Account dormant for 93 hours then reactivated with $100495.2,2
+C1146085363,DORMANT_ACTIVITY,173090.61,Account dormant for 43 hours then reactivated with $173090.61,2
+C1147624499,DORMANT_ACTIVITY,330336.33,Account dormant for 235 hours then reactivated with $330336.33,2
+C1147871054,DORMANT_ACTIVITY,553511.4,Account dormant for 161 hours then reactivated with $553511.4,2
+C1148385029,DORMANT_ACTIVITY,254083.67,Account dormant for 114 hours then reactivated with $254083.67,2
+C1148814452,DORMANT_ACTIVITY,96698.74,Account dormant for 118 hours then reactivated with $96698.74,2
+C1149048642,DORMANT_ACTIVITY,220127.6,Account dormant for 39 hours then reactivated with $220127.6,2
+C1151358076,DORMANT_ACTIVITY,904627.27,Account dormant for 103 hours then reactivated with $904627.27,2
+C1152179913,DORMANT_ACTIVITY,549837.67,Account dormant for 366 hours then reactivated with $549837.67,2
+C1152578586,DORMANT_ACTIVITY,493242.39,Account dormant for 244 hours then reactivated with $493242.39,2
+C1157567380,DORMANT_ACTIVITY,281170.3,Account dormant for 165 hours then reactivated with $281170.3,2
+C1157650635,DORMANT_ACTIVITY,1994687.56,Account dormant for 93 hours then reactivated with $1994687.56,2
+C1159603532,DORMANT_ACTIVITY,946711.67,Account dormant for 291 hours then reactivated with $946711.67,2
+C1161161276,DORMANT_ACTIVITY,50473.2,Account dormant for 128 hours then reactivated with $50473.2,2
+C116172763,DORMANT_ACTIVITY,661398.18,Account dormant for 333 hours then reactivated with $661398.18,2
+C1162056755,DORMANT_ACTIVITY,267923.72,Account dormant for 170 hours then reactivated with $267923.72,2
+C1162083274,DORMANT_ACTIVITY,172023.74,Account dormant for 98 hours then reactivated with $172023.74,2
+C1162384917,DORMANT_ACTIVITY,161591.52,Account dormant for 504 hours then reactivated with $161591.52,2
+C1162474222,DORMANT_ACTIVITY,210541.85,Account dormant for 488 hours then reactivated with $210541.85,2
+C1163077374,DORMANT_ACTIVITY,220385.05,Account dormant for 98 hours then reactivated with $220385.05,2
+C1163651971,DORMANT_ACTIVITY,3259184.52,Account dormant for 111 hours then reactivated with $3259184.52,2
+C1165562200,DORMANT_ACTIVITY,482203.47,Account dormant for 34 hours then reactivated with $482203.47,2
+C1165998370,DORMANT_ACTIVITY,382226.43,Account dormant for 173 hours then reactivated with $382226.43,2
+C1167431595,DORMANT_ACTIVITY,367937.39,Account dormant for 221 hours then reactivated with $367937.39,2
+C1168340420,DORMANT_ACTIVITY,61298.9,Account dormant for 284 hours then reactivated with $61298.9,2
+C1170262181,DORMANT_ACTIVITY,279010.32,Account dormant for 193 hours then reactivated with $279010.32,2
+C1170411147,DORMANT_ACTIVITY,358207.87,Account dormant for 56 hours then reactivated with $358207.87,2
+C1170419019,DORMANT_ACTIVITY,75475.38,Account dormant for 166 hours then reactivated with $75475.38,2
+C1176071494,DORMANT_ACTIVITY,387928.07,Account dormant for 169 hours then reactivated with $387928.07,2
+C1176328073,DORMANT_ACTIVITY,781230.4,Account dormant for 141 hours then reactivated with $781230.4,2
+C1176593271,DORMANT_ACTIVITY,331770.74,Account dormant for 119 hours then reactivated with $331770.74,2
+C1185155971,DORMANT_ACTIVITY,103129.32,Account dormant for 170 hours then reactivated with $103129.32,2
+C1188889159,DORMANT_ACTIVITY,64434.99,Account dormant for 313 hours then reactivated with $64434.99,2
+C1188901579,DORMANT_ACTIVITY,83187.13,Account dormant for 44 hours then reactivated with $83187.13,2
+C118898558,DORMANT_ACTIVITY,180346.78,Account dormant for 66 hours then reactivated with $180346.78,2
+C1189216713,DORMANT_ACTIVITY,100687.52,Account dormant for 168 hours then reactivated with $100687.52,2
+C1189731773,DORMANT_ACTIVITY,67531.14,Account dormant for 305 hours then reactivated with $67531.14,2
+C1191696703,DORMANT_ACTIVITY,648354.02,Account dormant for 275 hours then reactivated with $648354.02,2
+C1194120440,DORMANT_ACTIVITY,194506.31,Account dormant for 359 hours then reactivated with $194506.31,2
+C119421067,DORMANT_ACTIVITY,53986.65,Account dormant for 196 hours then reactivated with $53986.65,2
+C1194317983,DORMANT_ACTIVITY,476091.23,Account dormant for 104 hours then reactivated with $476091.23,2
+C1194333403,DORMANT_ACTIVITY,80343.96,Account dormant for 108 hours then reactivated with $80343.96,2
+C1197820528,DORMANT_ACTIVITY,316454.76,Account dormant for 106 hours then reactivated with $316454.76,2
+C1202119212,DORMANT_ACTIVITY,225248.09,Account dormant for 143 hours then reactivated with $225248.09,2
+C1204420970,DORMANT_ACTIVITY,637795.44,Account dormant for 73 hours then reactivated with $637795.44,2
+C1204641538,DORMANT_ACTIVITY,232345.42,Account dormant for 134 hours then reactivated with $232345.42,2
+C1205240381,DORMANT_ACTIVITY,192940.59,Account dormant for 47 hours then reactivated with $192940.59,2
+C1205989571,DORMANT_ACTIVITY,173407.53,Account dormant for 191 hours then reactivated with $173407.53,2
+C1207273223,DORMANT_ACTIVITY,162382.6,Account dormant for 175 hours then reactivated with $162382.6,2
+C1208098630,DORMANT_ACTIVITY,233860.83,Account dormant for 359 hours then reactivated with $233860.83,2
+C1209030534,DORMANT_ACTIVITY,235977.23,Account dormant for 120 hours then reactivated with $235977.23,2
+C1210296690,DORMANT_ACTIVITY,95825.05,Account dormant for 143 hours then reactivated with $95825.05,2
+C1212164269,DORMANT_ACTIVITY,569010.52,Account dormant for 225 hours then reactivated with $569010.52,2
+C1212989930,DORMANT_ACTIVITY,500280.64,Account dormant for 215 hours then reactivated with $500280.64,2
+C1215522633,DORMANT_ACTIVITY,269841.16,Account dormant for 48 hours then reactivated with $269841.16,2
+C1216137912,DORMANT_ACTIVITY,217558.09,Account dormant for 217 hours then reactivated with $217558.09,2
+C1216655601,DORMANT_ACTIVITY,65389.86,Account dormant for 378 hours then reactivated with $65389.86,2
+C1217101419,DORMANT_ACTIVITY,64676.3,Account dormant for 57 hours then reactivated with $64676.3,2
+C1218047758,DORMANT_ACTIVITY,400351.66,Account dormant for 366 hours then reactivated with $400351.66,2
+C1218112025,DORMANT_ACTIVITY,198809.4,Account dormant for 135 hours then reactivated with $198809.4,2
+C1220502476,DORMANT_ACTIVITY,120777.85,Account dormant for 164 hours then reactivated with $120777.85,2
+C1220600184,DORMANT_ACTIVITY,129423.52,Account dormant for 187 hours then reactivated with $129423.52,2
+C1221138730,DORMANT_ACTIVITY,2146357.55,Account dormant for 142 hours then reactivated with $2146357.55,2
+C1222268052,DORMANT_ACTIVITY,434247.21,Account dormant for 146 hours then reactivated with $434247.21,2
+C1223400716,DORMANT_ACTIVITY,69361.75,Account dormant for 356 hours then reactivated with $69361.75,2
+C1225678636,DORMANT_ACTIVITY,58668.9,Account dormant for 329 hours then reactivated with $58668.9,2
+C1226966528,DORMANT_ACTIVITY,132958.17,Account dormant for 558 hours then reactivated with $132958.17,2
+C1227288214,DORMANT_ACTIVITY,304346.87,Account dormant for 145 hours then reactivated with $304346.87,2
+C1228442631,DORMANT_ACTIVITY,273771.84,Account dormant for 320 hours then reactivated with $273771.84,2
+C1229452834,DORMANT_ACTIVITY,177008.25,Account dormant for 149 hours then reactivated with $177008.25,2
+C1230574957,DORMANT_ACTIVITY,202609.83,Account dormant for 51 hours then reactivated with $202609.83,2
+C1231878974,DORMANT_ACTIVITY,634074.96,Account dormant for 192 hours then reactivated with $634074.96,2
+C1233338003,DORMANT_ACTIVITY,766200.16,Account dormant for 293 hours then reactivated with $766200.16,2
+C1234355793,DORMANT_ACTIVITY,123986.49,Account dormant for 120 hours then reactivated with $123986.49,2
+C1240274945,DORMANT_ACTIVITY,234986.87,Account dormant for 82 hours then reactivated with $234986.87,2
+C1244310368,DORMANT_ACTIVITY,149066.98,Account dormant for 87 hours then reactivated with $149066.98,2
+C1244835942,DORMANT_ACTIVITY,259964.31,Account dormant for 312 hours then reactivated with $259964.31,2
+C1247084554,DORMANT_ACTIVITY,103299.9,Account dormant for 40 hours then reactivated with $103299.9,2
+C1248383966,DORMANT_ACTIVITY,122163.3,Account dormant for 141 hours then reactivated with $122163.3,2
+C1248485098,DORMANT_ACTIVITY,346895.82,Account dormant for 200 hours then reactivated with $346895.82,2
+C124953027,DORMANT_ACTIVITY,645001.53,Account dormant for 68 hours then reactivated with $645001.53,2
+C1250432602,DORMANT_ACTIVITY,121655.57,Account dormant for 175 hours then reactivated with $121655.57,2
+C1252326015,DORMANT_ACTIVITY,92373.39,Account dormant for 211 hours then reactivated with $92373.39,2
+C1258665794,DORMANT_ACTIVITY,141358.01,Account dormant for 134 hours then reactivated with $141358.01,2
+C1259337293,DORMANT_ACTIVITY,107722.24,Account dormant for 63 hours then reactivated with $107722.24,2
+C1260885018,DORMANT_ACTIVITY,57236.92,Account dormant for 90 hours then reactivated with $57236.92,2
+C1261747802,DORMANT_ACTIVITY,775574.55,Account dormant for 245 hours then reactivated with $775574.55,2
+C1264023677,DORMANT_ACTIVITY,882821.56,Account dormant for 101 hours then reactivated with $882821.56,2
+C1264278046,DORMANT_ACTIVITY,88020.69,Account dormant for 92 hours then reactivated with $88020.69,2
+C1266799309,DORMANT_ACTIVITY,328878.43,Account dormant for 411 hours then reactivated with $328878.43,2
+C1269192740,DORMANT_ACTIVITY,79322.73,Account dormant for 191 hours then reactivated with $79322.73,2
+C1269612843,DORMANT_ACTIVITY,68780.2,Account dormant for 161 hours then reactivated with $68780.2,2
+C1270484352,DORMANT_ACTIVITY,158214.0,Account dormant for 147 hours then reactivated with $158214.0,2
+C1272971370,DORMANT_ACTIVITY,201848.82,Account dormant for 116 hours then reactivated with $201848.82,2
+C1274611617,DORMANT_ACTIVITY,83628.93,Account dormant for 329 hours then reactivated with $83628.93,2
+C1275840855,DORMANT_ACTIVITY,3062047.18,Account dormant for 112 hours then reactivated with $3062047.18,2
+C1276028433,DORMANT_ACTIVITY,353141.41,Account dormant for 114 hours then reactivated with $353141.41,2
+C1276100527,DORMANT_ACTIVITY,221743.26,Account dormant for 215 hours then reactivated with $221743.26,2
+C1276774195,DORMANT_ACTIVITY,62432.51,Account dormant for 33 hours then reactivated with $62432.51,2
+C1277715507,DORMANT_ACTIVITY,184108.26,Account dormant for 272 hours then reactivated with $184108.26,2
+C1278268833,DORMANT_ACTIVITY,268778.62,Account dormant for 103 hours then reactivated with $268778.62,2
+C1282529193,DORMANT_ACTIVITY,280351.65,Account dormant for 82 hours then reactivated with $280351.65,2
+C128372682,DORMANT_ACTIVITY,335684.32,Account dormant for 145 hours then reactivated with $335684.32,2
+C1284778112,DORMANT_ACTIVITY,115540.28,Account dormant for 147 hours then reactivated with $115540.28,2
+C1286849685,DORMANT_ACTIVITY,1336524.08,Account dormant for 317 hours then reactivated with $1336524.08,2
+C1287623711,DORMANT_ACTIVITY,226016.93,Account dormant for 161 hours then reactivated with $226016.93,2
+C1288555774,DORMANT_ACTIVITY,255240.58,Account dormant for 31 hours then reactivated with $255240.58,2
+C1289538182,DORMANT_ACTIVITY,174325.08,Account dormant for 169 hours then reactivated with $174325.08,2
+C1291974436,DORMANT_ACTIVITY,1940572.3,Account dormant for 103 hours then reactivated with $1940572.3,2
+C1293244863,DORMANT_ACTIVITY,151801.25,Account dormant for 121 hours then reactivated with $151801.25,2
+C1294787688,DORMANT_ACTIVITY,609418.42,Account dormant for 177 hours then reactivated with $609418.42,2
+C129588043,DORMANT_ACTIVITY,155752.38,Account dormant for 141 hours then reactivated with $155752.38,2
+C1304568660,DORMANT_ACTIVITY,157699.51,Account dormant for 70 hours then reactivated with $157699.51,2
+C1307080088,DORMANT_ACTIVITY,107693.85,Account dormant for 310 hours then reactivated with $107693.85,2
+C130806437,DORMANT_ACTIVITY,333543.24,Account dormant for 267 hours then reactivated with $333543.24,2
+C1313642079,DORMANT_ACTIVITY,809651.02,Account dormant for 680 hours then reactivated with $809651.02,2
+C1314700099,DORMANT_ACTIVITY,2382684.71,Account dormant for 451 hours then reactivated with $2382684.71,2
+C1315388623,DORMANT_ACTIVITY,428501.21,Account dormant for 192 hours then reactivated with $428501.21,2
+C1317020957,DORMANT_ACTIVITY,693711.78,Account dormant for 148 hours then reactivated with $693711.78,2
+C1317371682,DORMANT_ACTIVITY,137285.39,Account dormant for 98 hours then reactivated with $137285.39,2
+C1317648267,DORMANT_ACTIVITY,89173.69,Account dormant for 77 hours then reactivated with $89173.69,2
+C1319865570,DORMANT_ACTIVITY,295810.22,Account dormant for 329 hours then reactivated with $295810.22,2
+C1320481595,DORMANT_ACTIVITY,169905.29,Account dormant for 122 hours then reactivated with $169905.29,2
+C1320830454,DORMANT_ACTIVITY,289127.03,Account dormant for 103 hours then reactivated with $289127.03,2
+C1321739294,DORMANT_ACTIVITY,241009.31,Account dormant for 88 hours then reactivated with $241009.31,2
+C1322202354,DORMANT_ACTIVITY,401057.62,Account dormant for 148 hours then reactivated with $401057.62,2
+C1322236714,DORMANT_ACTIVITY,260913.04,Account dormant for 43 hours then reactivated with $260913.04,2
+C1322435708,DORMANT_ACTIVITY,246837.76,Account dormant for 292 hours then reactivated with $246837.76,2
+C1326807568,DORMANT_ACTIVITY,861365.86,Account dormant for 70 hours then reactivated with $861365.86,2
+C1327947672,DORMANT_ACTIVITY,89495.55,Account dormant for 195 hours then reactivated with $89495.55,2
+C1328964741,DORMANT_ACTIVITY,603241.73,Account dormant for 90 hours then reactivated with $603241.73,2
+C133097061,DORMANT_ACTIVITY,105039.95,Account dormant for 93 hours then reactivated with $105039.95,2
+C1333721562,DORMANT_ACTIVITY,273756.79,Account dormant for 165 hours then reactivated with $273756.79,2
+C1337643749,DORMANT_ACTIVITY,308163.07,Account dormant for 318 hours then reactivated with $308163.07,2
+C1338055990,DORMANT_ACTIVITY,166875.04,Account dormant for 44 hours then reactivated with $166875.04,2
+C1338631269,DORMANT_ACTIVITY,60089.46,Account dormant for 31 hours then reactivated with $60089.46,2
+C1339638701,DORMANT_ACTIVITY,72883.37,Account dormant for 139 hours then reactivated with $72883.37,2
+C1340985077,DORMANT_ACTIVITY,451922.89,Account dormant for 200 hours then reactivated with $451922.89,2
+C1341560569,DORMANT_ACTIVITY,66174.2,Account dormant for 164 hours then reactivated with $66174.2,2
+C134185060,DORMANT_ACTIVITY,273914.18,Account dormant for 169 hours then reactivated with $273914.18,2
+C1342539758,DORMANT_ACTIVITY,58586.77,Account dormant for 312 hours then reactivated with $58586.77,2
+C1347495000,DORMANT_ACTIVITY,145958.23,Account dormant for 41 hours then reactivated with $145958.23,2
+C1350598776,DORMANT_ACTIVITY,63665.9,Account dormant for 47 hours then reactivated with $63665.9,2
+C135179328,DORMANT_ACTIVITY,490521.56,Account dormant for 556 hours then reactivated with $490521.56,2
+C13537434,DORMANT_ACTIVITY,402937.26,Account dormant for 60 hours then reactivated with $402937.26,2
+C1356623182,DORMANT_ACTIVITY,138596.52,Account dormant for 122 hours then reactivated with $138596.52,2
+C1358153086,DORMANT_ACTIVITY,193026.99,Account dormant for 115 hours then reactivated with $193026.99,2
+C1359230518,DORMANT_ACTIVITY,210347.59,Account dormant for 120 hours then reactivated with $210347.59,2
+C1359624951,DORMANT_ACTIVITY,149214.11,Account dormant for 192 hours then reactivated with $149214.11,2
+C1364599229,DORMANT_ACTIVITY,100234.56,Account dormant for 53 hours then reactivated with $100234.56,2
+C1365233008,DORMANT_ACTIVITY,82343.56,Account dormant for 174 hours then reactivated with $82343.56,2
+C1366572850,DORMANT_ACTIVITY,217520.17,Account dormant for 197 hours then reactivated with $217520.17,2
+C1369491814,DORMANT_ACTIVITY,267957.55,Account dormant for 97 hours then reactivated with $267957.55,2
+C1373834487,DORMANT_ACTIVITY,130492.46,Account dormant for 167 hours then reactivated with $130492.46,2
+C1375606404,DORMANT_ACTIVITY,128368.89,Account dormant for 56 hours then reactivated with $128368.89,2
+C1375771300,DORMANT_ACTIVITY,301140.22,Account dormant for 95 hours then reactivated with $301140.22,2
+C1376588103,DORMANT_ACTIVITY,1261683.26,Account dormant for 289 hours then reactivated with $1261683.26,2
+C1380611432,DORMANT_ACTIVITY,436259.7,Account dormant for 135 hours then reactivated with $436259.7,2
+C1382541506,DORMANT_ACTIVITY,82782.2,Account dormant for 119 hours then reactivated with $82782.2,2
+C1385332440,DORMANT_ACTIVITY,115907.86,Account dormant for 135 hours then reactivated with $115907.86,2
+C1385766901,DORMANT_ACTIVITY,148912.07,Account dormant for 340 hours then reactivated with $148912.07,2
+C1386787987,DORMANT_ACTIVITY,213649.77,Account dormant for 48 hours then reactivated with $213649.77,2
+C1387426641,DORMANT_ACTIVITY,74810.82,Account dormant for 68 hours then reactivated with $74810.82,2
+C1392469207,DORMANT_ACTIVITY,141636.32,Account dormant for 94 hours then reactivated with $141636.32,2
+C1394691448,DORMANT_ACTIVITY,283742.59,Account dormant for 172 hours then reactivated with $283742.59,2
+C1398623950,DORMANT_ACTIVITY,386316.79,Account dormant for 113 hours then reactivated with $386316.79,2
+C13990716,DORMANT_ACTIVITY,103398.88,Account dormant for 215 hours then reactivated with $103398.88,2
+C1403443008,DORMANT_ACTIVITY,353054.98,Account dormant for 68 hours then reactivated with $353054.98,2
+C1404013630,DORMANT_ACTIVITY,144189.99,Account dormant for 120 hours then reactivated with $144189.99,2
+C1404374108,DORMANT_ACTIVITY,150285.4,Account dormant for 462 hours then reactivated with $150285.4,2
+C1404495450,DORMANT_ACTIVITY,585027.58,Account dormant for 55 hours then reactivated with $585027.58,2
+C1406061613,DORMANT_ACTIVITY,362094.22,Account dormant for 175 hours then reactivated with $362094.22,2
+C1406319360,DORMANT_ACTIVITY,71243.51,Account dormant for 241 hours then reactivated with $71243.51,2
+C1408209930,DORMANT_ACTIVITY,293904.6,Account dormant for 331 hours then reactivated with $293904.6,2
+C1408874494,DORMANT_ACTIVITY,56992.91,Account dormant for 171 hours then reactivated with $56992.91,2
+C1410673704,DORMANT_ACTIVITY,137664.21,Account dormant for 403 hours then reactivated with $137664.21,2
+C1411005034,DORMANT_ACTIVITY,187474.02,Account dormant for 117 hours then reactivated with $187474.02,2
+C1416646378,DORMANT_ACTIVITY,297998.62,Account dormant for 140 hours then reactivated with $297998.62,2
+C1416873430,DORMANT_ACTIVITY,81518.85,Account dormant for 101 hours then reactivated with $81518.85,2
+C1417533825,DORMANT_ACTIVITY,276089.98,Account dormant for 268 hours then reactivated with $276089.98,2
+C1422525218,DORMANT_ACTIVITY,174991.34,Account dormant for 79 hours then reactivated with $174991.34,2
+C142312811,DORMANT_ACTIVITY,340643.93,Account dormant for 289 hours then reactivated with $340643.93,2
+C1425122061,DORMANT_ACTIVITY,187363.36,Account dormant for 352 hours then reactivated with $187363.36,2
+C1426679482,DORMANT_ACTIVITY,150694.73,Account dormant for 101 hours then reactivated with $150694.73,2
+C142721306,DORMANT_ACTIVITY,137141.09,Account dormant for 174 hours then reactivated with $137141.09,2
+C1427237021,DORMANT_ACTIVITY,461146.1,Account dormant for 239 hours then reactivated with $461146.1,2
+C1427628982,DORMANT_ACTIVITY,83709.97,Account dormant for 189 hours then reactivated with $83709.97,2
+C1427658930,DORMANT_ACTIVITY,276653.75,Account dormant for 173 hours then reactivated with $276653.75,2
+C1427859495,DORMANT_ACTIVITY,179981.87,Account dormant for 184 hours then reactivated with $179981.87,2
+C1429180273,DORMANT_ACTIVITY,313313.54,Account dormant for 356 hours then reactivated with $313313.54,2
+C1429488738,DORMANT_ACTIVITY,527691.96,Account dormant for 200 hours then reactivated with $527691.96,2
+C1429994118,DORMANT_ACTIVITY,305392.19,Account dormant for 80 hours then reactivated with $305392.19,2
+C1432028516,DORMANT_ACTIVITY,594747.06,Account dormant for 173 hours then reactivated with $594747.06,2
+C1432269767,DORMANT_ACTIVITY,848237.04,Account dormant for 460 hours then reactivated with $848237.04,2
+C1432555530,DORMANT_ACTIVITY,68102.99,Account dormant for 142 hours then reactivated with $68102.99,2
+C1433646300,DORMANT_ACTIVITY,104383.65,Account dormant for 107 hours then reactivated with $104383.65,2
+C1436560310,DORMANT_ACTIVITY,113161.97,Account dormant for 387 hours then reactivated with $113161.97,2
+C1436891309,DORMANT_ACTIVITY,127681.89,Account dormant for 219 hours then reactivated with $127681.89,2
+C1439232629,DORMANT_ACTIVITY,414950.78,Account dormant for 47 hours then reactivated with $414950.78,2
+C1441199470,DORMANT_ACTIVITY,193997.25,Account dormant for 355 hours then reactivated with $193997.25,2
+C1444146504,DORMANT_ACTIVITY,105025.26,Account dormant for 225 hours then reactivated with $105025.26,2
+C1444343158,DORMANT_ACTIVITY,211259.46,Account dormant for 236 hours then reactivated with $211259.46,2
+C1445141891,DORMANT_ACTIVITY,240930.77,Account dormant for 211 hours then reactivated with $240930.77,2
+C1446329068,DORMANT_ACTIVITY,359216.04,Account dormant for 30 hours then reactivated with $359216.04,2
+C1449325492,DORMANT_ACTIVITY,214923.31,Account dormant for 117 hours then reactivated with $214923.31,2
+C1450089041,DORMANT_ACTIVITY,362803.48,Account dormant for 70 hours then reactivated with $362803.48,2
+C1450140233,DORMANT_ACTIVITY,68361.36,Account dormant for 516 hours then reactivated with $68361.36,2
+C1450188286,DORMANT_ACTIVITY,139202.36,Account dormant for 304 hours then reactivated with $139202.36,2
+C1451420344,DORMANT_ACTIVITY,140405.83,Account dormant for 137 hours then reactivated with $140405.83,2
+C1453632689,DORMANT_ACTIVITY,253047.43,Account dormant for 68 hours then reactivated with $253047.43,2
+C1457081784,DORMANT_ACTIVITY,457874.23,Account dormant for 126 hours then reactivated with $457874.23,2
+C1459132362,DORMANT_ACTIVITY,115232.09,Account dormant for 84 hours then reactivated with $115232.09,2
+C1459506006,DORMANT_ACTIVITY,101634.98,Account dormant for 122 hours then reactivated with $101634.98,2
+C1460949071,DORMANT_ACTIVITY,350332.33,Account dormant for 181 hours then reactivated with $350332.33,2
+C146283475,DORMANT_ACTIVITY,170509.34,Account dormant for 361 hours then reactivated with $170509.34,2
+C1463235060,DORMANT_ACTIVITY,134752.38,Account dormant for 299 hours then reactivated with $134752.38,2
+C146357610,DORMANT_ACTIVITY,110434.12,Account dormant for 142 hours then reactivated with $110434.12,2
+C1472936718,DORMANT_ACTIVITY,206370.76,Account dormant for 219 hours then reactivated with $206370.76,2
+C1474469947,DORMANT_ACTIVITY,456916.12,Account dormant for 45 hours then reactivated with $456916.12,2
+C1479758736,DORMANT_ACTIVITY,149694.25,Account dormant for 297 hours then reactivated with $149694.25,2
+C1480548351,DORMANT_ACTIVITY,52459.85,Account dormant for 217 hours then reactivated with $52459.85,2
+C1481665056,DORMANT_ACTIVITY,182227.32,Account dormant for 302 hours then reactivated with $182227.32,2
+C1484211487,DORMANT_ACTIVITY,160742.86,Account dormant for 271 hours then reactivated with $160742.86,2
+C1486174656,DORMANT_ACTIVITY,236756.11,Account dormant for 136 hours then reactivated with $236756.11,2
+C1489550347,DORMANT_ACTIVITY,232870.9,Account dormant for 384 hours then reactivated with $232870.9,2
+C1490328004,DORMANT_ACTIVITY,200008.65,Account dormant for 95 hours then reactivated with $200008.65,2
+C1492962755,DORMANT_ACTIVITY,235988.35,Account dormant for 210 hours then reactivated with $235988.35,2
+C1493903724,DORMANT_ACTIVITY,561974.02,Account dormant for 266 hours then reactivated with $561974.02,2
+C1494301815,DORMANT_ACTIVITY,198326.74,Account dormant for 165 hours then reactivated with $198326.74,2
+C1494691984,DORMANT_ACTIVITY,87511.47,Account dormant for 140 hours then reactivated with $87511.47,2
+C1498185758,DORMANT_ACTIVITY,68456.34,Account dormant for 193 hours then reactivated with $68456.34,2
+C1500470772,DORMANT_ACTIVITY,68012.22,Account dormant for 72 hours then reactivated with $68012.22,2
+C1501854241,DORMANT_ACTIVITY,75225.61,Account dormant for 61 hours then reactivated with $75225.61,2
+C1501901797,DORMANT_ACTIVITY,108833.16,Account dormant for 413 hours then reactivated with $108833.16,2
+C1502372282,DORMANT_ACTIVITY,511183.49,Account dormant for 64 hours then reactivated with $511183.49,2
+C1504586860,DORMANT_ACTIVITY,56488.46,Account dormant for 212 hours then reactivated with $56488.46,2
+C1507855514,DORMANT_ACTIVITY,287488.28,Account dormant for 145 hours then reactivated with $287488.28,2
+C1512004837,DORMANT_ACTIVITY,354303.48,Account dormant for 90 hours then reactivated with $354303.48,2
+C1513726519,DORMANT_ACTIVITY,67610.28,Account dormant for 357 hours then reactivated with $67610.28,2
+C1513747186,DORMANT_ACTIVITY,894806.03,Account dormant for 335 hours then reactivated with $894806.03,2
+C1517919965,DORMANT_ACTIVITY,147214.79,Account dormant for 119 hours then reactivated with $147214.79,2
+C1520223618,DORMANT_ACTIVITY,347471.18,Account dormant for 141 hours then reactivated with $347471.18,2
+C1524212856,DORMANT_ACTIVITY,174658.45,Account dormant for 119 hours then reactivated with $174658.45,2
+C1526023144,DORMANT_ACTIVITY,185591.98,Account dormant for 110 hours then reactivated with $185591.98,2
+C1527160232,DORMANT_ACTIVITY,65806.21,Account dormant for 210 hours then reactivated with $65806.21,2
+C1527480660,DORMANT_ACTIVITY,134291.29,Account dormant for 124 hours then reactivated with $134291.29,2
+C1529213335,DORMANT_ACTIVITY,73266.06,Account dormant for 126 hours then reactivated with $73266.06,2
+C1529294424,DORMANT_ACTIVITY,374775.82,Account dormant for 195 hours then reactivated with $374775.82,2
+C1529775967,DORMANT_ACTIVITY,175758.62,Account dormant for 98 hours then reactivated with $175758.62,2
+C1530447860,DORMANT_ACTIVITY,671319.73,Account dormant for 140 hours then reactivated with $671319.73,2
+C1531545265,DORMANT_ACTIVITY,53012.24,Account dormant for 187 hours then reactivated with $53012.24,2
+C1532237460,DORMANT_ACTIVITY,338644.15,Account dormant for 125 hours then reactivated with $338644.15,2
+C1533871698,DORMANT_ACTIVITY,2631651.88,Account dormant for 410 hours then reactivated with $2631651.88,2
+C1536380357,DORMANT_ACTIVITY,171376.6,Account dormant for 173 hours then reactivated with $171376.6,2
+C1537059209,DORMANT_ACTIVITY,200312.22,Account dormant for 47 hours then reactivated with $200312.22,2
+C153933718,DORMANT_ACTIVITY,156426.62,Account dormant for 104 hours then reactivated with $156426.62,2
+C1540616028,DORMANT_ACTIVITY,69569.08,Account dormant for 194 hours then reactivated with $69569.08,2
+C1542134931,DORMANT_ACTIVITY,278957.56,Account dormant for 292 hours then reactivated with $278957.56,2
+C1543782518,DORMANT_ACTIVITY,152044.5,Account dormant for 146 hours then reactivated with $152044.5,2
+C1544929798,DORMANT_ACTIVITY,221514.77,Account dormant for 40 hours then reactivated with $221514.77,2
+C154665419,DORMANT_ACTIVITY,378338.4,Account dormant for 263 hours then reactivated with $378338.4,2
+C1553828262,DORMANT_ACTIVITY,62067.38,Account dormant for 289 hours then reactivated with $62067.38,2
+C1555086607,DORMANT_ACTIVITY,428257.81,Account dormant for 240 hours then reactivated with $428257.81,2
+C1555624769,DORMANT_ACTIVITY,379445.23,Account dormant for 238 hours then reactivated with $379445.23,2
+C1558818663,DORMANT_ACTIVITY,249004.45,Account dormant for 171 hours then reactivated with $249004.45,2
+C1560992291,DORMANT_ACTIVITY,553347.39,Account dormant for 413 hours then reactivated with $553347.39,2
+C1562174256,DORMANT_ACTIVITY,183485.93,Account dormant for 173 hours then reactivated with $183485.93,2
+C1566443123,DORMANT_ACTIVITY,572885.73,Account dormant for 151 hours then reactivated with $572885.73,2
+C1567934073,DORMANT_ACTIVITY,87671.52,Account dormant for 361 hours then reactivated with $87671.52,2
+C1568099117,DORMANT_ACTIVITY,137057.67,Account dormant for 195 hours then reactivated with $137057.67,2
+C1568369779,DORMANT_ACTIVITY,56775.61,Account dormant for 126 hours then reactivated with $56775.61,2
+C1570038497,DORMANT_ACTIVITY,157221.91,Account dormant for 123 hours then reactivated with $157221.91,2
+C1570853777,DORMANT_ACTIVITY,172324.95,Account dormant for 312 hours then reactivated with $172324.95,2
+C1574262761,DORMANT_ACTIVITY,184757.86,Account dormant for 292 hours then reactivated with $184757.86,2
+C1575440282,DORMANT_ACTIVITY,114864.86,Account dormant for 264 hours then reactivated with $114864.86,2
+C1575767257,DORMANT_ACTIVITY,170196.71,Account dormant for 184 hours then reactivated with $170196.71,2
+C1575786747,DORMANT_ACTIVITY,125945.8,Account dormant for 72 hours then reactivated with $125945.8,2
+C1576942434,DORMANT_ACTIVITY,184775.49,Account dormant for 213 hours then reactivated with $184775.49,2
+C1577573330,DORMANT_ACTIVITY,129418.05,Account dormant for 241 hours then reactivated with $129418.05,2
+C157875264,DORMANT_ACTIVITY,151684.38,Account dormant for 118 hours then reactivated with $151684.38,2
+C1578907087,DORMANT_ACTIVITY,130220.55,Account dormant for 561 hours then reactivated with $130220.55,2
+C1579345180,DORMANT_ACTIVITY,80115.68,Account dormant for 243 hours then reactivated with $80115.68,2
+C1582125668,DORMANT_ACTIVITY,521047.74,Account dormant for 88 hours then reactivated with $521047.74,2
+C1586134436,DORMANT_ACTIVITY,164190.19,Account dormant for 302 hours then reactivated with $164190.19,2
+C1587062469,DORMANT_ACTIVITY,1484004.46,Account dormant for 136 hours then reactivated with $1484004.46,2
+C1589272245,DORMANT_ACTIVITY,206179.44,Account dormant for 70 hours then reactivated with $206179.44,2
+C1590283110,DORMANT_ACTIVITY,226339.99,Account dormant for 435 hours then reactivated with $226339.99,2
+C1591531797,DORMANT_ACTIVITY,64903.27,Account dormant for 145 hours then reactivated with $64903.27,2
+C1592257851,DORMANT_ACTIVITY,108135.09,Account dormant for 149 hours then reactivated with $108135.09,2
+C1596106262,DORMANT_ACTIVITY,92367.47,Account dormant for 251 hours then reactivated with $92367.47,2
+C159971543,DORMANT_ACTIVITY,163043.69,Account dormant for 261 hours then reactivated with $163043.69,2
+C1600678941,DORMANT_ACTIVITY,450515.62,Account dormant for 142 hours then reactivated with $450515.62,2
+C1601797191,DORMANT_ACTIVITY,340856.43,Account dormant for 164 hours then reactivated with $340856.43,2
+C1601868067,DORMANT_ACTIVITY,268809.27,Account dormant for 114 hours then reactivated with $268809.27,2
+C160391667,DORMANT_ACTIVITY,270534.23,Account dormant for 190 hours then reactivated with $270534.23,2
+C160786144,DORMANT_ACTIVITY,136458.32,Account dormant for 700 hours then reactivated with $136458.32,2
+C1608458049,DORMANT_ACTIVITY,118359.25,Account dormant for 45 hours then reactivated with $118359.25,2
+C1610262569,DORMANT_ACTIVITY,282275.42,Account dormant for 118 hours then reactivated with $282275.42,2
+C1612908070,DORMANT_ACTIVITY,114213.24,Account dormant for 151 hours then reactivated with $114213.24,2
+C1613193813,DORMANT_ACTIVITY,52903.36,Account dormant for 342 hours then reactivated with $52903.36,2
+C1613461249,DORMANT_ACTIVITY,1233559.18,Account dormant for 114 hours then reactivated with $1233559.18,2
+C1613837471,DORMANT_ACTIVITY,534708.23,Account dormant for 31 hours then reactivated with $534708.23,2
+C1627686801,DORMANT_ACTIVITY,147748.14,Account dormant for 404 hours then reactivated with $147748.14,2
+C1627918307,DORMANT_ACTIVITY,676882.33,Account dormant for 134 hours then reactivated with $676882.33,2
+C1628344518,DORMANT_ACTIVITY,141367.42,Account dormant for 44 hours then reactivated with $141367.42,2
+C1628747526,DORMANT_ACTIVITY,65898.37,Account dormant for 255 hours then reactivated with $65898.37,2
+C163217219,DORMANT_ACTIVITY,8965155.77,Account dormant for 51 hours then reactivated with $8965155.77,2
+C1632220769,DORMANT_ACTIVITY,315479.09,Account dormant for 96 hours then reactivated with $315479.09,2
+C163279695,DORMANT_ACTIVITY,197096.76,Account dormant for 164 hours then reactivated with $197096.76,2
+C163418717,DORMANT_ACTIVITY,186008.59,Account dormant for 48 hours then reactivated with $186008.59,2
+C1634254293,DORMANT_ACTIVITY,1046609.54,Account dormant for 217 hours then reactivated with $1046609.54,2
+C1634455928,DORMANT_ACTIVITY,506554.73,Account dormant for 103 hours then reactivated with $506554.73,2
+C1636448589,DORMANT_ACTIVITY,80099.7,Account dormant for 204 hours then reactivated with $80099.7,2
+C1639302003,DORMANT_ACTIVITY,158653.42,Account dormant for 507 hours then reactivated with $158653.42,2
+C1641216387,DORMANT_ACTIVITY,160082.46,Account dormant for 354 hours then reactivated with $160082.46,2
+C164197938,DORMANT_ACTIVITY,233866.09,Account dormant for 237 hours then reactivated with $233866.09,2
+C1642575310,DORMANT_ACTIVITY,206501.82,Account dormant for 210 hours then reactivated with $206501.82,2
+C1642603560,DORMANT_ACTIVITY,1098355.43,Account dormant for 177 hours then reactivated with $1098355.43,2
+C1642731902,DORMANT_ACTIVITY,71796.19,Account dormant for 197 hours then reactivated with $71796.19,2
+C1645047159,DORMANT_ACTIVITY,313495.17,Account dormant for 245 hours then reactivated with $313495.17,2
+C1648801384,DORMANT_ACTIVITY,195037.61,Account dormant for 395 hours then reactivated with $195037.61,2
+C1652119261,DORMANT_ACTIVITY,124709.28,Account dormant for 312 hours then reactivated with $124709.28,2
+C16540051,DORMANT_ACTIVITY,731842.22,Account dormant for 265 hours then reactivated with $731842.22,2
+C1656685786,DORMANT_ACTIVITY,104498.58,Account dormant for 358 hours then reactivated with $104498.58,2
+C1657770612,DORMANT_ACTIVITY,729655.24,Account dormant for 216 hours then reactivated with $729655.24,2
+C1658701946,DORMANT_ACTIVITY,117357.39,Account dormant for 139 hours then reactivated with $117357.39,2
+C1659411071,DORMANT_ACTIVITY,144331.08,Account dormant for 172 hours then reactivated with $144331.08,2
+C1661315030,DORMANT_ACTIVITY,191207.74,Account dormant for 196 hours then reactivated with $191207.74,2
+C1663280287,DORMANT_ACTIVITY,182410.1,Account dormant for 193 hours then reactivated with $182410.1,2
+C1663399219,DORMANT_ACTIVITY,84380.74,Account dormant for 650 hours then reactivated with $84380.74,2
+C1663680566,DORMANT_ACTIVITY,86589.81,Account dormant for 359 hours then reactivated with $86589.81,2
+C1664837921,DORMANT_ACTIVITY,133535.62,Account dormant for 332 hours then reactivated with $133535.62,2
+C1664955255,DORMANT_ACTIVITY,188680.03,Account dormant for 187 hours then reactivated with $188680.03,2
+C166608009,DORMANT_ACTIVITY,68836.14,Account dormant for 46 hours then reactivated with $68836.14,2
+C1666165344,DORMANT_ACTIVITY,1083279.5,Account dormant for 236 hours then reactivated with $1083279.5,2
+C1668688968,DORMANT_ACTIVITY,74726.43,Account dormant for 40 hours then reactivated with $74726.43,2
+C1670320853,DORMANT_ACTIVITY,111063.27,Account dormant for 233 hours then reactivated with $111063.27,2
+C1671749882,DORMANT_ACTIVITY,123039.32,Account dormant for 104 hours then reactivated with $123039.32,2
+C167211692,DORMANT_ACTIVITY,429669.13,Account dormant for 50 hours then reactivated with $429669.13,2
+C1674410091,DORMANT_ACTIVITY,1652348.14,Account dormant for 212 hours then reactivated with $1652348.14,2
+C1674581127,DORMANT_ACTIVITY,135644.37,Account dormant for 237 hours then reactivated with $135644.37,2
+C1676446211,DORMANT_ACTIVITY,173925.23,Account dormant for 200 hours then reactivated with $173925.23,2
+C1676525042,DORMANT_ACTIVITY,88545.31,Account dormant for 126 hours then reactivated with $88545.31,2
+C1678886065,DORMANT_ACTIVITY,166520.96,Account dormant for 121 hours then reactivated with $166520.96,2
+C1680697412,DORMANT_ACTIVITY,150577.47,Account dormant for 190 hours then reactivated with $150577.47,2
+C168273712,DORMANT_ACTIVITY,112685.1,Account dormant for 115 hours then reactivated with $112685.1,2
+C1684578029,DORMANT_ACTIVITY,344268.29,Account dormant for 55 hours then reactivated with $344268.29,2
+C1688179706,DORMANT_ACTIVITY,96987.67,Account dormant for 285 hours then reactivated with $96987.67,2
+C1690370429,DORMANT_ACTIVITY,361778.84,Account dormant for 500 hours then reactivated with $361778.84,2
+C1690597629,DORMANT_ACTIVITY,172944.76,Account dormant for 88 hours then reactivated with $172944.76,2
+C1691394348,DORMANT_ACTIVITY,495610.24,Account dormant for 67 hours then reactivated with $495610.24,2
+C1694611829,DORMANT_ACTIVITY,199548.24,Account dormant for 387 hours then reactivated with $199548.24,2
+C1696409235,DORMANT_ACTIVITY,240671.96,Account dormant for 145 hours then reactivated with $240671.96,2
+C1696960476,DORMANT_ACTIVITY,595404.94,Account dormant for 361 hours then reactivated with $595404.94,2
+C1697697307,DORMANT_ACTIVITY,425581.55,Account dormant for 252 hours then reactivated with $425581.55,2
+C169820997,DORMANT_ACTIVITY,108264.3,Account dormant for 235 hours then reactivated with $108264.3,2
+C1699142661,DORMANT_ACTIVITY,284352.19,Account dormant for 201 hours then reactivated with $284352.19,2
+C1699255040,DORMANT_ACTIVITY,170365.51,Account dormant for 172 hours then reactivated with $170365.51,2
+C170061190,DORMANT_ACTIVITY,114457.98,Account dormant for 71 hours then reactivated with $114457.98,2
+C1702382563,DORMANT_ACTIVITY,129077.33,Account dormant for 72 hours then reactivated with $129077.33,2
+C1704256153,DORMANT_ACTIVITY,71604.78,Account dormant for 334 hours then reactivated with $71604.78,2
+C1706882975,DORMANT_ACTIVITY,1907515.73,Account dormant for 211 hours then reactivated with $1907515.73,2
+C1708251383,DORMANT_ACTIVITY,156985.16,Account dormant for 281 hours then reactivated with $156985.16,2
+C1708388222,DORMANT_ACTIVITY,119805.71,Account dormant for 265 hours then reactivated with $119805.71,2
+C170843146,DORMANT_ACTIVITY,110072.22,Account dormant for 501 hours then reactivated with $110072.22,2
+C1709294329,DORMANT_ACTIVITY,296946.62,Account dormant for 142 hours then reactivated with $296946.62,2
+C1711568525,DORMANT_ACTIVITY,622088.3,Account dormant for 249 hours then reactivated with $622088.3,2
+C1712263466,DORMANT_ACTIVITY,222854.4,Account dormant for 190 hours then reactivated with $222854.4,2
+C1714118612,DORMANT_ACTIVITY,188850.26,Account dormant for 168 hours then reactivated with $188850.26,2
+C1714291554,DORMANT_ACTIVITY,230272.81,Account dormant for 412 hours then reactivated with $230272.81,2
+C1716237566,DORMANT_ACTIVITY,523046.87,Account dormant for 144 hours then reactivated with $523046.87,2
+C1716748090,DORMANT_ACTIVITY,293341.82,Account dormant for 500 hours then reactivated with $293341.82,2
+C1718461766,DORMANT_ACTIVITY,575853.51,Account dormant for 45 hours then reactivated with $575853.51,2
+C1718888420,DORMANT_ACTIVITY,379347.65,Account dormant for 207 hours then reactivated with $379347.65,2
+C1718937849,DORMANT_ACTIVITY,649925.97,Account dormant for 237 hours then reactivated with $649925.97,2
+C1719256392,DORMANT_ACTIVITY,313965.4,Account dormant for 163 hours then reactivated with $313965.4,2
+C1719443665,DORMANT_ACTIVITY,370551.71,Account dormant for 236 hours then reactivated with $370551.71,2
+C1723425567,DORMANT_ACTIVITY,141664.46,Account dormant for 92 hours then reactivated with $141664.46,2
+C1726185852,DORMANT_ACTIVITY,1721425.44,Account dormant for 149 hours then reactivated with $1721425.44,2
+C1727763984,DORMANT_ACTIVITY,69274.07,Account dormant for 138 hours then reactivated with $69274.07,2
+C1727902553,DORMANT_ACTIVITY,224939.91,Account dormant for 267 hours then reactivated with $224939.91,2
+C1729394025,DORMANT_ACTIVITY,793412.09,Account dormant for 62 hours then reactivated with $793412.09,2
+C1731491964,DORMANT_ACTIVITY,1659583.95,Account dormant for 33 hours then reactivated with $1659583.95,2
+C1735528721,DORMANT_ACTIVITY,94252.31,Account dormant for 213 hours then reactivated with $94252.31,2
+C1737817400,DORMANT_ACTIVITY,107185.54,Account dormant for 39 hours then reactivated with $107185.54,2
+C173838510,DORMANT_ACTIVITY,187743.81,Account dormant for 130 hours then reactivated with $187743.81,2
+C1739845508,DORMANT_ACTIVITY,117102.46,Account dormant for 216 hours then reactivated with $117102.46,2
+C1741076564,DORMANT_ACTIVITY,38874009.46,Account dormant for 72 hours then reactivated with $38874009.46,2
+C1741527493,DORMANT_ACTIVITY,352459.25,Account dormant for 32 hours then reactivated with $352459.25,2
+C1742761587,DORMANT_ACTIVITY,377150.39,Account dormant for 171 hours then reactivated with $377150.39,2
+C1743029768,DORMANT_ACTIVITY,80970.1,Account dormant for 356 hours then reactivated with $80970.1,2
+C1744229322,DORMANT_ACTIVITY,109676.33,Account dormant for 118 hours then reactivated with $109676.33,2
+C1744484653,DORMANT_ACTIVITY,408052.46,Account dormant for 182 hours then reactivated with $408052.46,2
+C1747488298,DORMANT_ACTIVITY,321220.56,Account dormant for 290 hours then reactivated with $321220.56,2
+C1749790850,DORMANT_ACTIVITY,230209.72,Account dormant for 115 hours then reactivated with $230209.72,2
+C1755239501,DORMANT_ACTIVITY,70729.72,Account dormant for 131 hours then reactivated with $70729.72,2
+C1755335200,DORMANT_ACTIVITY,104344.31,Account dormant for 170 hours then reactivated with $104344.31,2
+C175886121,DORMANT_ACTIVITY,192684.83,Account dormant for 221 hours then reactivated with $192684.83,2
+C1759208826,DORMANT_ACTIVITY,104994.97,Account dormant for 234 hours then reactivated with $104994.97,2
+C1761144927,DORMANT_ACTIVITY,215967.58,Account dormant for 245 hours then reactivated with $215967.58,2
+C1762041817,DORMANT_ACTIVITY,222273.87,Account dormant for 78 hours then reactivated with $222273.87,2
+C1764789964,DORMANT_ACTIVITY,57970.85,Account dormant for 50 hours then reactivated with $57970.85,2
+C1765321101,DORMANT_ACTIVITY,179673.94,Account dormant for 68 hours then reactivated with $179673.94,2
+C1766770765,DORMANT_ACTIVITY,402715.96,Account dormant for 117 hours then reactivated with $402715.96,2
+C1767126031,DORMANT_ACTIVITY,198913.16,Account dormant for 33 hours then reactivated with $198913.16,2
+C1769125682,DORMANT_ACTIVITY,141026.2,Account dormant for 207 hours then reactivated with $141026.2,2
+C1770609140,DORMANT_ACTIVITY,144562.67,Account dormant for 167 hours then reactivated with $144562.67,2
+C1773629985,DORMANT_ACTIVITY,343839.21,Account dormant for 30 hours then reactivated with $343839.21,2
+C1773801313,DORMANT_ACTIVITY,64132.85,Account dormant for 500 hours then reactivated with $64132.85,2
+C1775459867,DORMANT_ACTIVITY,321950.43,Account dormant for 32 hours then reactivated with $321950.43,2
+C1780760058,DORMANT_ACTIVITY,337593.53,Account dormant for 272 hours then reactivated with $337593.53,2
+C1782826285,DORMANT_ACTIVITY,270868.48,Account dormant for 44 hours then reactivated with $270868.48,2
+C1787549317,DORMANT_ACTIVITY,195785.9,Account dormant for 388 hours then reactivated with $195785.9,2
+C1790707918,DORMANT_ACTIVITY,560749.98,Account dormant for 163 hours then reactivated with $560749.98,2
+C1797685421,DORMANT_ACTIVITY,435213.27,Account dormant for 66 hours then reactivated with $435213.27,2
+C180256758,DORMANT_ACTIVITY,62783.73,Account dormant for 288 hours then reactivated with $62783.73,2
+C1803830716,DORMANT_ACTIVITY,191200.42,Account dormant for 244 hours then reactivated with $191200.42,2
+C1804228729,DORMANT_ACTIVITY,164484.32,Account dormant for 174 hours then reactivated with $164484.32,2
+C180571855,DORMANT_ACTIVITY,738328.38,Account dormant for 190 hours then reactivated with $738328.38,2
+C1805960478,DORMANT_ACTIVITY,287227.24,Account dormant for 68 hours then reactivated with $287227.24,2
+C1808834208,DORMANT_ACTIVITY,1072919.1,Account dormant for 120 hours then reactivated with $1072919.1,2
+C1809264741,DORMANT_ACTIVITY,267134.69,Account dormant for 78 hours then reactivated with $267134.69,2
+C1809715948,DORMANT_ACTIVITY,478767.91,Account dormant for 37 hours then reactivated with $478767.91,2
+C1811343027,DORMANT_ACTIVITY,218377.5,Account dormant for 106 hours then reactivated with $218377.5,2
+C1812498636,DORMANT_ACTIVITY,3080874.88,Account dormant for 67 hours then reactivated with $3080874.88,2
+C1821162330,DORMANT_ACTIVITY,151319.35,Account dormant for 559 hours then reactivated with $151319.35,2
+C1824321733,DORMANT_ACTIVITY,164773.64,Account dormant for 311 hours then reactivated with $164773.64,2
+C1825071524,DORMANT_ACTIVITY,292855.76,Account dormant for 241 hours then reactivated with $292855.76,2
+C1825571895,DORMANT_ACTIVITY,162774.85,Account dormant for 79 hours then reactivated with $162774.85,2
+C1825676648,DORMANT_ACTIVITY,235513.77,Account dormant for 52 hours then reactivated with $235513.77,2
+C1827831859,DORMANT_ACTIVITY,171987.76,Account dormant for 87 hours then reactivated with $171987.76,2
+C1829277697,DORMANT_ACTIVITY,172697.32,Account dormant for 82 hours then reactivated with $172697.32,2
+C1833245412,DORMANT_ACTIVITY,101734.78,Account dormant for 112 hours then reactivated with $101734.78,2
+C1836419515,DORMANT_ACTIVITY,199954.03,Account dormant for 384 hours then reactivated with $199954.03,2
+C1836651658,DORMANT_ACTIVITY,124173.99,Account dormant for 187 hours then reactivated with $124173.99,2
+C1837511542,DORMANT_ACTIVITY,320827.17,Account dormant for 96 hours then reactivated with $320827.17,2
+C1842707137,DORMANT_ACTIVITY,252372.8,Account dormant for 305 hours then reactivated with $252372.8,2
+C1843977904,DORMANT_ACTIVITY,200818.22,Account dormant for 50 hours then reactivated with $200818.22,2
+C1847871068,DORMANT_ACTIVITY,411234.6,Account dormant for 55 hours then reactivated with $411234.6,2
+C1850293803,DORMANT_ACTIVITY,213271.2,Account dormant for 66 hours then reactivated with $213271.2,2
+C1854008477,DORMANT_ACTIVITY,653001.21,Account dormant for 508 hours then reactivated with $653001.21,2
+C1854028112,DORMANT_ACTIVITY,539655.09,Account dormant for 191 hours then reactivated with $539655.09,2
+C1854289431,DORMANT_ACTIVITY,475763.26,Account dormant for 37 hours then reactivated with $475763.26,2
+C1855639708,DORMANT_ACTIVITY,208013.77,Account dormant for 223 hours then reactivated with $208013.77,2
+C1860212100,DORMANT_ACTIVITY,87028.26,Account dormant for 231 hours then reactivated with $87028.26,2
+C1861483402,DORMANT_ACTIVITY,102018.66,Account dormant for 379 hours then reactivated with $102018.66,2
+C1863581709,DORMANT_ACTIVITY,227085.22,Account dormant for 151 hours then reactivated with $227085.22,2
+C1863683348,DORMANT_ACTIVITY,216179.15,Account dormant for 173 hours then reactivated with $216179.15,2
+C1864749556,DORMANT_ACTIVITY,128856.1,Account dormant for 31 hours then reactivated with $128856.1,2
+C186504061,DORMANT_ACTIVITY,401685.25,Account dormant for 46 hours then reactivated with $401685.25,2
+C186540815,DORMANT_ACTIVITY,282929.95,Account dormant for 358 hours then reactivated with $282929.95,2
+C1866458559,DORMANT_ACTIVITY,117930.56,Account dormant for 41 hours then reactivated with $117930.56,2
+C1869695579,DORMANT_ACTIVITY,58782.69,Account dormant for 187 hours then reactivated with $58782.69,2
+C1871421073,DORMANT_ACTIVITY,653795.81,Account dormant for 287 hours then reactivated with $653795.81,2
+C1874796473,DORMANT_ACTIVITY,311286.32,Account dormant for 142 hours then reactivated with $311286.32,2
+C1876168665,DORMANT_ACTIVITY,60490.98,Account dormant for 349 hours then reactivated with $60490.98,2
+C1876692743,DORMANT_ACTIVITY,549496.41,Account dormant for 167 hours then reactivated with $549496.41,2
+C1880561124,DORMANT_ACTIVITY,519578.44,Account dormant for 242 hours then reactivated with $519578.44,2
+C1881382781,DORMANT_ACTIVITY,276528.03,Account dormant for 202 hours then reactivated with $276528.03,2
+C1882162040,DORMANT_ACTIVITY,133837.91,Account dormant for 500 hours then reactivated with $133837.91,2
+C188337205,DORMANT_ACTIVITY,169093.8,Account dormant for 75 hours then reactivated with $169093.8,2
+C188370743,DORMANT_ACTIVITY,280706.68,Account dormant for 286 hours then reactivated with $280706.68,2
+C1885333477,DORMANT_ACTIVITY,159118.03,Account dormant for 457 hours then reactivated with $159118.03,2
+C1886544249,DORMANT_ACTIVITY,297695.72,Account dormant for 99 hours then reactivated with $297695.72,2
+C1888133239,DORMANT_ACTIVITY,99505.96,Account dormant for 249 hours then reactivated with $99505.96,2
+C1890208411,DORMANT_ACTIVITY,190952.13,Account dormant for 95 hours then reactivated with $190952.13,2
+C1890621589,DORMANT_ACTIVITY,93863.22,Account dormant for 76 hours then reactivated with $93863.22,2
+C1891837983,DORMANT_ACTIVITY,401802.93,Account dormant for 47 hours then reactivated with $401802.93,2
+C1895951685,DORMANT_ACTIVITY,175944.84,Account dormant for 141 hours then reactivated with $175944.84,2
+C1900035261,DORMANT_ACTIVITY,76133.44,Account dormant for 160 hours then reactivated with $76133.44,2
+C190120448,DORMANT_ACTIVITY,256879.02,Account dormant for 105 hours then reactivated with $256879.02,2
+C1901905681,DORMANT_ACTIVITY,283963.99,Account dormant for 39 hours then reactivated with $283963.99,2
+C1902386530,DORMANT_ACTIVITY,487055.28,Account dormant for 268 hours then reactivated with $487055.28,3
+C1903167070,DORMANT_ACTIVITY,57859.2,Account dormant for 257 hours then reactivated with $57859.2,2
+C1905804305,DORMANT_ACTIVITY,56690.57,Account dormant for 414 hours then reactivated with $56690.57,2
+C1905836573,DORMANT_ACTIVITY,175769.64,Account dormant for 113 hours then reactivated with $175769.64,2
+C1905961331,DORMANT_ACTIVITY,233278.15,Account dormant for 117 hours then reactivated with $233278.15,2
+C1906181934,DORMANT_ACTIVITY,225352.67,Account dormant for 199 hours then reactivated with $225352.67,2
+C1907397360,DORMANT_ACTIVITY,174421.35,Account dormant for 56 hours then reactivated with $174421.35,2
+C190838842,DORMANT_ACTIVITY,213272.5,Account dormant for 171 hours then reactivated with $213272.5,2
+C1909171649,DORMANT_ACTIVITY,172345.59,Account dormant for 137 hours then reactivated with $172345.59,2
+C1909793247,DORMANT_ACTIVITY,228920.15,Account dormant for 193 hours then reactivated with $228920.15,2
+C1910840764,DORMANT_ACTIVITY,247082.19,Account dormant for 53 hours then reactivated with $247082.19,2
+C1911954309,DORMANT_ACTIVITY,367969.97,Account dormant for 343 hours then reactivated with $367969.97,2
+C1912085821,DORMANT_ACTIVITY,1768937.86,Account dormant for 154 hours then reactivated with $1768937.86,2
+C1916531721,DORMANT_ACTIVITY,156916.9,Account dormant for 100 hours then reactivated with $156916.9,2
+C1920890390,DORMANT_ACTIVITY,440032.92,Account dormant for 56 hours then reactivated with $440032.92,2
+C1921947128,DORMANT_ACTIVITY,128412.12,Account dormant for 438 hours then reactivated with $128412.12,2
+C1926169096,DORMANT_ACTIVITY,113456.96,Account dormant for 35 hours then reactivated with $113456.96,2
+C1926588030,DORMANT_ACTIVITY,303598.21,Account dormant for 287 hours then reactivated with $303598.21,2
+C192675187,DORMANT_ACTIVITY,117741.54,Account dormant for 75 hours then reactivated with $117741.54,2
+C1926758479,DORMANT_ACTIVITY,110094.54,Account dormant for 358 hours then reactivated with $110094.54,2
+C192744270,DORMANT_ACTIVITY,107697.21,Account dormant for 128 hours then reactivated with $107697.21,2
+C1928194597,DORMANT_ACTIVITY,1722830.93,Account dormant for 144 hours then reactivated with $1722830.93,2
+C1929818755,DORMANT_ACTIVITY,381671.61,Account dormant for 149 hours then reactivated with $381671.61,2
+C1931810605,DORMANT_ACTIVITY,66321.88,Account dormant for 53 hours then reactivated with $66321.88,2
+C1932432029,DORMANT_ACTIVITY,753237.18,Account dormant for 146 hours then reactivated with $753237.18,2
+C1933704639,DORMANT_ACTIVITY,114226.65,Account dormant for 222 hours then reactivated with $114226.65,2
+C1933869776,DORMANT_ACTIVITY,232346.3,Account dormant for 394 hours then reactivated with $232346.3,2
+C1934858363,DORMANT_ACTIVITY,424336.41,Account dormant for 334 hours then reactivated with $424336.41,2
+C1935064849,DORMANT_ACTIVITY,92274.49,Account dormant for 44 hours then reactivated with $92274.49,2
+C1935481284,DORMANT_ACTIVITY,130498.91,Account dormant for 349 hours then reactivated with $130498.91,2
+C1935991466,DORMANT_ACTIVITY,264274.24,Account dormant for 192 hours then reactivated with $264274.24,2
+C1937148889,DORMANT_ACTIVITY,99070.14,Account dormant for 124 hours then reactivated with $99070.14,2
+C1938412809,DORMANT_ACTIVITY,801273.21,Account dormant for 262 hours then reactivated with $801273.21,2
+C1940944499,DORMANT_ACTIVITY,54691.55,Account dormant for 70 hours then reactivated with $54691.55,2
+C1942961360,DORMANT_ACTIVITY,101986.67,Account dormant for 72 hours then reactivated with $101986.67,2
+C1944519721,DORMANT_ACTIVITY,321231.34,Account dormant for 257 hours then reactivated with $321231.34,2
+C1949103630,DORMANT_ACTIVITY,74866.22,Account dormant for 90 hours then reactivated with $74866.22,2
+C1954523120,DORMANT_ACTIVITY,513684.76,Account dormant for 474 hours then reactivated with $513684.76,2
+C1954565493,DORMANT_ACTIVITY,195210.41,Account dormant for 95 hours then reactivated with $195210.41,2
+C195485105,DORMANT_ACTIVITY,91043.67,Account dormant for 194 hours then reactivated with $91043.67,2
+C1956538289,DORMANT_ACTIVITY,374905.46,Account dormant for 57 hours then reactivated with $374905.46,2
+C1959217095,DORMANT_ACTIVITY,955240.95,Account dormant for 122 hours then reactivated with $955240.95,2
+C1959234152,DORMANT_ACTIVITY,93358.84,Account dormant for 194 hours then reactivated with $93358.84,2
+C1960603689,DORMANT_ACTIVITY,278312.98,Account dormant for 270 hours then reactivated with $278312.98,2
+C1963422110,DORMANT_ACTIVITY,235239.87,Account dormant for 218 hours then reactivated with $235239.87,2
+C196413696,DORMANT_ACTIVITY,163772.0,Account dormant for 358 hours then reactivated with $163772.0,2
+C1964146942,DORMANT_ACTIVITY,435835.44,Account dormant for 298 hours then reactivated with $435835.44,2
+C1965065790,DORMANT_ACTIVITY,255201.91,Account dormant for 191 hours then reactivated with $255201.91,2
+C196695395,DORMANT_ACTIVITY,137987.89,Account dormant for 90 hours then reactivated with $137987.89,2
+C1967217926,DORMANT_ACTIVITY,741956.09,Account dormant for 294 hours then reactivated with $741956.09,2
+C1968264498,DORMANT_ACTIVITY,241850.09,Account dormant for 50 hours then reactivated with $241850.09,2
+C1971971952,DORMANT_ACTIVITY,235101.67,Account dormant for 340 hours then reactivated with $235101.67,2
+C1975335624,DORMANT_ACTIVITY,69071.27,Account dormant for 245 hours then reactivated with $69071.27,2
+C1975418141,DORMANT_ACTIVITY,135337.22,Account dormant for 233 hours then reactivated with $135337.22,2
+C1976208114,DORMANT_ACTIVITY,342781.58,Account dormant for 309 hours then reactivated with $342781.58,2
+C1978304769,DORMANT_ACTIVITY,111781.51,Account dormant for 145 hours then reactivated with $111781.51,2
+C1979680872,DORMANT_ACTIVITY,254652.59,Account dormant for 239 hours then reactivated with $254652.59,2
+C1980711244,DORMANT_ACTIVITY,789396.41,Account dormant for 147 hours then reactivated with $789396.41,2
+C1981422565,DORMANT_ACTIVITY,463893.46,Account dormant for 141 hours then reactivated with $463893.46,2
+C198344877,DORMANT_ACTIVITY,1153444.01,Account dormant for 30 hours then reactivated with $1153444.01,2
+C1985911080,DORMANT_ACTIVITY,71459.47,Account dormant for 274 hours then reactivated with $71459.47,2
+C1986247587,DORMANT_ACTIVITY,282864.58,Account dormant for 169 hours then reactivated with $282864.58,2
+C198684145,DORMANT_ACTIVITY,184890.42,Account dormant for 204 hours then reactivated with $184890.42,2
+C1987962759,DORMANT_ACTIVITY,452941.54,Account dormant for 115 hours then reactivated with $452941.54,2
+C1988205387,DORMANT_ACTIVITY,106949.99,Account dormant for 192 hours then reactivated with $106949.99,2
+C1988597539,DORMANT_ACTIVITY,79031.41,Account dormant for 174 hours then reactivated with $79031.41,2
+C1991548082,DORMANT_ACTIVITY,1094598.51,Account dormant for 626 hours then reactivated with $1094598.51,2
+C1991753198,DORMANT_ACTIVITY,297837.57,Account dormant for 240 hours then reactivated with $297837.57,2
+C1991760030,DORMANT_ACTIVITY,669832.9,Account dormant for 73 hours then reactivated with $669832.9,2
+C1993232230,DORMANT_ACTIVITY,213324.86,Account dormant for 82 hours then reactivated with $213324.86,2
+C1995120350,DORMANT_ACTIVITY,100569.81,Account dormant for 49 hours then reactivated with $100569.81,2
+C1998087058,DORMANT_ACTIVITY,339599.79,Account dormant for 199 hours then reactivated with $339599.79,2
+C2000426010,DORMANT_ACTIVITY,149784.18,Account dormant for 52 hours then reactivated with $149784.18,2
+C2000535534,DORMANT_ACTIVITY,235162.28,Account dormant for 356 hours then reactivated with $235162.28,2
+C2004363483,DORMANT_ACTIVITY,272458.3,Account dormant for 208 hours then reactivated with $272458.3,2
+C2005112522,DORMANT_ACTIVITY,89156.69,Account dormant for 93 hours then reactivated with $89156.69,2
+C2009865645,DORMANT_ACTIVITY,1443616.16,Account dormant for 156 hours then reactivated with $1443616.16,2
+C2010720531,DORMANT_ACTIVITY,375554.77,Account dormant for 258 hours then reactivated with $375554.77,2
+C2014148309,DORMANT_ACTIVITY,55606.73,Account dormant for 114 hours then reactivated with $55606.73,2
+C2014898993,DORMANT_ACTIVITY,71416.35,Account dormant for 296 hours then reactivated with $71416.35,2
+C2017958799,DORMANT_ACTIVITY,233358.65,Account dormant for 167 hours then reactivated with $233358.65,2
+C2018145371,DORMANT_ACTIVITY,226410.69,Account dormant for 149 hours then reactivated with $226410.69,2
+C2020264880,DORMANT_ACTIVITY,91509.35,Account dormant for 153 hours then reactivated with $91509.35,2
+C202150140,DORMANT_ACTIVITY,448340.41,Account dormant for 64 hours then reactivated with $448340.41,2
+C2021845836,DORMANT_ACTIVITY,152058.37,Account dormant for 103 hours then reactivated with $152058.37,2
+C2022866240,DORMANT_ACTIVITY,275240.57,Account dormant for 117 hours then reactivated with $275240.57,2
+C2026321595,DORMANT_ACTIVITY,330803.3,Account dormant for 45 hours then reactivated with $330803.3,2
+C2027898335,DORMANT_ACTIVITY,273844.18,Account dormant for 43 hours then reactivated with $273844.18,2
+C2028273719,DORMANT_ACTIVITY,386274.94,Account dormant for 119 hours then reactivated with $386274.94,2
+C2029550213,DORMANT_ACTIVITY,330590.19,Account dormant for 84 hours then reactivated with $330590.19,2
+C203293626,DORMANT_ACTIVITY,134993.47,Account dormant for 113 hours then reactivated with $134993.47,2
+C2035207469,DORMANT_ACTIVITY,262918.94,Account dormant for 73 hours then reactivated with $262918.94,2
+C2035921217,DORMANT_ACTIVITY,714453.21,Account dormant for 126 hours then reactivated with $714453.21,2
+C2036866585,DORMANT_ACTIVITY,123348.96,Account dormant for 389 hours then reactivated with $123348.96,2
+C2038762429,DORMANT_ACTIVITY,318652.49,Account dormant for 94 hours then reactivated with $318652.49,2
+C2038795714,DORMANT_ACTIVITY,328296.14,Account dormant for 217 hours then reactivated with $328296.14,2
+C2039155681,DORMANT_ACTIVITY,85670.9,Account dormant for 196 hours then reactivated with $85670.9,2
+C2041919978,DORMANT_ACTIVITY,901251.79,Account dormant for 168 hours then reactivated with $901251.79,2
+C2042064557,DORMANT_ACTIVITY,277753.56,Account dormant for 42 hours then reactivated with $277753.56,2
+C2046115372,DORMANT_ACTIVITY,364391.75,Account dormant for 457 hours then reactivated with $364391.75,2
+C2050450738,DORMANT_ACTIVITY,232411.61,Account dormant for 169 hours then reactivated with $232411.61,2
+C2054218084,DORMANT_ACTIVITY,819648.16,Account dormant for 119 hours then reactivated with $819648.16,2
+C2055027956,DORMANT_ACTIVITY,709511.69,Account dormant for 347 hours then reactivated with $709511.69,2
+C2056688806,DORMANT_ACTIVITY,285996.01,Account dormant for 123 hours then reactivated with $285996.01,2
+C2062454083,DORMANT_ACTIVITY,201482.21,Account dormant for 244 hours then reactivated with $201482.21,2
+C2063296720,DORMANT_ACTIVITY,721892.32,Account dormant for 146 hours then reactivated with $721892.32,2
+C2064250760,DORMANT_ACTIVITY,252428.19,Account dormant for 313 hours then reactivated with $252428.19,2
+C2064253641,DORMANT_ACTIVITY,219471.3,Account dormant for 103 hours then reactivated with $219471.3,2
+C2066457494,DORMANT_ACTIVITY,117512.53,Account dormant for 105 hours then reactivated with $117512.53,2
+C2070334046,DORMANT_ACTIVITY,64531.03,Account dormant for 53 hours then reactivated with $64531.03,2
+C2071000307,DORMANT_ACTIVITY,113115.46,Account dormant for 142 hours then reactivated with $113115.46,2
+C2071801291,DORMANT_ACTIVITY,123304.48,Account dormant for 119 hours then reactivated with $123304.48,2
+C2071965985,DORMANT_ACTIVITY,136180.59,Account dormant for 129 hours then reactivated with $136180.59,2
+C2076561122,DORMANT_ACTIVITY,1497259.53,Account dormant for 39 hours then reactivated with $1497259.53,2
+C2077863663,DORMANT_ACTIVITY,198228.36,Account dormant for 138 hours then reactivated with $198228.36,2
+C2081659110,DORMANT_ACTIVITY,558987.34,Account dormant for 298 hours then reactivated with $558987.34,2
+C2083922172,DORMANT_ACTIVITY,205935.66,Account dormant for 45 hours then reactivated with $205935.66,2
+C2086614495,DORMANT_ACTIVITY,185071.97,Account dormant for 170 hours then reactivated with $185071.97,2
+C2087734787,DORMANT_ACTIVITY,201752.35,Account dormant for 122 hours then reactivated with $201752.35,2
+C2087919427,DORMANT_ACTIVITY,317994.14,Account dormant for 212 hours then reactivated with $317994.14,2
+C2089452809,DORMANT_ACTIVITY,308533.34,Account dormant for 168 hours then reactivated with $308533.34,2
+C2091005120,DORMANT_ACTIVITY,333594.97,Account dormant for 285 hours then reactivated with $333594.97,2
+C2094981486,DORMANT_ACTIVITY,173752.53,Account dormant for 582 hours then reactivated with $173752.53,2
+C2095060987,DORMANT_ACTIVITY,60622.23,Account dormant for 92 hours then reactivated with $60622.23,2
+C2095157144,DORMANT_ACTIVITY,104285.36,Account dormant for 70 hours then reactivated with $104285.36,2
+C2095458917,DORMANT_ACTIVITY,89724.67,Account dormant for 67 hours then reactivated with $89724.67,2
+C2096177094,DORMANT_ACTIVITY,378144.9,Account dormant for 31 hours then reactivated with $378144.9,2
+C2096692767,DORMANT_ACTIVITY,325400.86,Account dormant for 315 hours then reactivated with $325400.86,2
+C2096805024,DORMANT_ACTIVITY,105470.06,Account dormant for 51 hours then reactivated with $105470.06,2
+C2096906760,DORMANT_ACTIVITY,454188.72,Account dormant for 73 hours then reactivated with $454188.72,2
+C2098183268,DORMANT_ACTIVITY,274655.04,Account dormant for 258 hours then reactivated with $274655.04,2
+C2098525306,DORMANT_ACTIVITY,280613.05,Account dormant for 345 hours then reactivated with $280613.05,3
+C209983525,DORMANT_ACTIVITY,65864.3,Account dormant for 233 hours then reactivated with $65864.3,2
+C2101503246,DORMANT_ACTIVITY,91854.3,Account dormant for 281 hours then reactivated with $91854.3,2
+C2102401176,DORMANT_ACTIVITY,446735.28,Account dormant for 309 hours then reactivated with $446735.28,2
+C2103196106,DORMANT_ACTIVITY,81925.58,Account dormant for 125 hours then reactivated with $81925.58,2
+C2103808417,DORMANT_ACTIVITY,450184.11,Account dormant for 30 hours then reactivated with $450184.11,2
+C2103833406,DORMANT_ACTIVITY,131544.94,Account dormant for 170 hours then reactivated with $131544.94,2
+C2107605540,DORMANT_ACTIVITY,123627.26,Account dormant for 233 hours then reactivated with $123627.26,2
+C2108020763,DORMANT_ACTIVITY,379613.58,Account dormant for 391 hours then reactivated with $379613.58,2
+C2108487454,DORMANT_ACTIVITY,534253.28,Account dormant for 30 hours then reactivated with $534253.28,2
+C2108616891,DORMANT_ACTIVITY,181172.53,Account dormant for 122 hours then reactivated with $181172.53,2
+C2109255738,DORMANT_ACTIVITY,81259.94,Account dormant for 76 hours then reactivated with $81259.94,2
+C2111477047,DORMANT_ACTIVITY,365866.5,Account dormant for 31 hours then reactivated with $365866.5,2
+C2111485152,DORMANT_ACTIVITY,100683.01,Account dormant for 169 hours then reactivated with $100683.01,2
+C211206947,DORMANT_ACTIVITY,55393.44,Account dormant for 219 hours then reactivated with $55393.44,2
+C2112753190,DORMANT_ACTIVITY,139088.4,Account dormant for 192 hours then reactivated with $139088.4,2
+C2112872630,DORMANT_ACTIVITY,448167.12,Account dormant for 244 hours then reactivated with $448167.12,2
+C2113531407,DORMANT_ACTIVITY,540445.43,Account dormant for 241 hours then reactivated with $540445.43,2
+C2113652581,DORMANT_ACTIVITY,60162.73,Account dormant for 314 hours then reactivated with $60162.73,2
+C2114388464,DORMANT_ACTIVITY,220137.72,Account dormant for 218 hours then reactivated with $220137.72,2
+C2114404206,DORMANT_ACTIVITY,117985.11,Account dormant for 70 hours then reactivated with $117985.11,2
+C2118054032,DORMANT_ACTIVITY,145743.54,Account dormant for 51 hours then reactivated with $145743.54,2
+C2118348410,DORMANT_ACTIVITY,303037.28,Account dormant for 237 hours then reactivated with $303037.28,2
+C2119163569,DORMANT_ACTIVITY,162176.85,Account dormant for 95 hours then reactivated with $162176.85,2
+C2119660447,DORMANT_ACTIVITY,333592.81,Account dormant for 384 hours then reactivated with $333592.81,2
+C2122960533,DORMANT_ACTIVITY,490974.2,Account dormant for 178 hours then reactivated with $490974.2,2
+C2123023275,DORMANT_ACTIVITY,77552.53,Account dormant for 261 hours then reactivated with $77552.53,2
+C2124273232,DORMANT_ACTIVITY,173378.96,Account dormant for 40 hours then reactivated with $173378.96,2
+C2126367645,DORMANT_ACTIVITY,139110.14,Account dormant for 72 hours then reactivated with $139110.14,2
+C2126813266,DORMANT_ACTIVITY,185356.08,Account dormant for 258 hours then reactivated with $185356.08,2
+C2127018590,DORMANT_ACTIVITY,204631.67,Account dormant for 237 hours then reactivated with $204631.67,2
+C2127320527,DORMANT_ACTIVITY,275930.02,Account dormant for 232 hours then reactivated with $275930.02,2
+C2128780533,DORMANT_ACTIVITY,249437.58,Account dormant for 309 hours then reactivated with $249437.58,2
+C2129095073,DORMANT_ACTIVITY,190096.17,Account dormant for 171 hours then reactivated with $190096.17,2
+C2129918389,DORMANT_ACTIVITY,175268.6,Account dormant for 362 hours then reactivated with $175268.6,2
+C2131721351,DORMANT_ACTIVITY,168451.62,Account dormant for 54 hours then reactivated with $168451.62,2
+C2135469229,DORMANT_ACTIVITY,1762276.12,Account dormant for 178 hours then reactivated with $1762276.12,2
+C2139183791,DORMANT_ACTIVITY,63586.5,Account dormant for 263 hours then reactivated with $63586.5,2
+C2139751130,DORMANT_ACTIVITY,344531.43,Account dormant for 247 hours then reactivated with $344531.43,2
+C2142207976,DORMANT_ACTIVITY,274807.3,Account dormant for 302 hours then reactivated with $274807.3,2
+C2142821596,DORMANT_ACTIVITY,226648.11,Account dormant for 559 hours then reactivated with $226648.11,2
+C2143917574,DORMANT_ACTIVITY,92177.65,Account dormant for 214 hours then reactivated with $92177.65,2
+C2145262239,DORMANT_ACTIVITY,1355046.54,Account dormant for 226 hours then reactivated with $1355046.54,2
+C217997019,DORMANT_ACTIVITY,71148.86,Account dormant for 147 hours then reactivated with $71148.86,2
+C218520760,DORMANT_ACTIVITY,251691.46,Account dormant for 173 hours then reactivated with $251691.46,2
+C219274295,DORMANT_ACTIVITY,102534.56,Account dormant for 31 hours then reactivated with $102534.56,2
+C219343900,DORMANT_ACTIVITY,300779.39,Account dormant for 456 hours then reactivated with $300779.39,2
+C219479525,DORMANT_ACTIVITY,283336.42,Account dormant for 102 hours then reactivated with $283336.42,2
+C2202535,DORMANT_ACTIVITY,56091.64,Account dormant for 146 hours then reactivated with $56091.64,2
+C221714214,DORMANT_ACTIVITY,207272.22,Account dormant for 146 hours then reactivated with $207272.22,2
+C222646552,DORMANT_ACTIVITY,82403.37,Account dormant for 109 hours then reactivated with $82403.37,2
+C227821448,DORMANT_ACTIVITY,89113.07,Account dormant for 192 hours then reactivated with $89113.07,2
+C228353749,DORMANT_ACTIVITY,349857.72,Account dormant for 143 hours then reactivated with $349857.72,2
+C230811728,DORMANT_ACTIVITY,1346011.21,Account dormant for 147 hours then reactivated with $1346011.21,2
+C230905522,DORMANT_ACTIVITY,175179.9,Account dormant for 90 hours then reactivated with $175179.9,2
+C231626961,DORMANT_ACTIVITY,295815.18,Account dormant for 70 hours then reactivated with $295815.18,2
+C232539589,DORMANT_ACTIVITY,126105.19,Account dormant for 117 hours then reactivated with $126105.19,2
+C235244484,DORMANT_ACTIVITY,390770.99,Account dormant for 108 hours then reactivated with $390770.99,2
+C235934604,DORMANT_ACTIVITY,158336.07,Account dormant for 150 hours then reactivated with $158336.07,2
+C238198515,DORMANT_ACTIVITY,177648.23,Account dormant for 62 hours then reactivated with $177648.23,2
+C238543300,DORMANT_ACTIVITY,78368.65,Account dormant for 30 hours then reactivated with $78368.65,2
+C241054822,DORMANT_ACTIVITY,190034.93,Account dormant for 49 hours then reactivated with $190034.93,2
+C241639333,DORMANT_ACTIVITY,220103.47,Account dormant for 245 hours then reactivated with $220103.47,2
+C242388413,DORMANT_ACTIVITY,254998.9,Account dormant for 88 hours then reactivated with $254998.9,2
+C250615830,DORMANT_ACTIVITY,89635.54,Account dormant for 51 hours then reactivated with $89635.54,2
+C254378136,DORMANT_ACTIVITY,79497.79,Account dormant for 100 hours then reactivated with $79497.79,2
+C261533385,DORMANT_ACTIVITY,535635.54,Account dormant for 158 hours then reactivated with $535635.54,2
+C261868582,DORMANT_ACTIVITY,179322.8,Account dormant for 217 hours then reactivated with $179322.8,2
+C269029988,DORMANT_ACTIVITY,160968.67,Account dormant for 172 hours then reactivated with $160968.67,2
+C269195570,DORMANT_ACTIVITY,790593.15,Account dormant for 335 hours then reactivated with $790593.15,2
+C272241163,DORMANT_ACTIVITY,72522.75,Account dormant for 216 hours then reactivated with $72522.75,2
+C27262681,DORMANT_ACTIVITY,108973.32,Account dormant for 38 hours then reactivated with $108973.32,2
+C272683206,DORMANT_ACTIVITY,101026.02,Account dormant for 219 hours then reactivated with $101026.02,2
+C273226580,DORMANT_ACTIVITY,291270.01,Account dormant for 30 hours then reactivated with $291270.01,2
+C273247153,DORMANT_ACTIVITY,149079.65,Account dormant for 145 hours then reactivated with $149079.65,2
+C274390452,DORMANT_ACTIVITY,53007.76,Account dormant for 152 hours then reactivated with $53007.76,2
+C275184582,DORMANT_ACTIVITY,165275.66,Account dormant for 264 hours then reactivated with $165275.66,2
+C276125972,DORMANT_ACTIVITY,106109.47,Account dormant for 178 hours then reactivated with $106109.47,2
+C276173877,DORMANT_ACTIVITY,254999.22,Account dormant for 45 hours then reactivated with $254999.22,2
+C27814791,DORMANT_ACTIVITY,82251.67,Account dormant for 254 hours then reactivated with $82251.67,2
+C279525445,DORMANT_ACTIVITY,123822.94,Account dormant for 345 hours then reactivated with $123822.94,2
+C280804885,DORMANT_ACTIVITY,92174.16,Account dormant for 288 hours then reactivated with $92174.16,2
+C28170567,DORMANT_ACTIVITY,255835.07,Account dormant for 42 hours then reactivated with $255835.07,2
+C283180925,DORMANT_ACTIVITY,61625.78,Account dormant for 49 hours then reactivated with $61625.78,2
+C283562195,DORMANT_ACTIVITY,212888.19,Account dormant for 98 hours then reactivated with $212888.19,2
+C286721853,DORMANT_ACTIVITY,1201637.5,Account dormant for 270 hours then reactivated with $1201637.5,2
+C288669524,DORMANT_ACTIVITY,269104.24,Account dormant for 191 hours then reactivated with $269104.24,2
+C291338404,DORMANT_ACTIVITY,1028498.06,Account dormant for 367 hours then reactivated with $1028498.06,2
+C291769753,DORMANT_ACTIVITY,315991.66,Account dormant for 554 hours then reactivated with $315991.66,2
+C291831047,DORMANT_ACTIVITY,289768.08,Account dormant for 470 hours then reactivated with $289768.08,2
+C294574251,DORMANT_ACTIVITY,167477.68,Account dormant for 147 hours then reactivated with $167477.68,2
+C295234678,DORMANT_ACTIVITY,51109.9,Account dormant for 90 hours then reactivated with $51109.9,2
+C300300167,DORMANT_ACTIVITY,716445.52,Account dormant for 90 hours then reactivated with $716445.52,2
+C30233028,DORMANT_ACTIVITY,223746.73,Account dormant for 32 hours then reactivated with $223746.73,2
+C303358402,DORMANT_ACTIVITY,1782931.35,Account dormant for 181 hours then reactivated with $1782931.35,2
+C309308453,DORMANT_ACTIVITY,57501.58,Account dormant for 198 hours then reactivated with $57501.58,2
+C313836882,DORMANT_ACTIVITY,968277.27,Account dormant for 148 hours then reactivated with $968277.27,2
+C316849627,DORMANT_ACTIVITY,119507.47,Account dormant for 201 hours then reactivated with $119507.47,2
+C317412662,DORMANT_ACTIVITY,174136.33,Account dormant for 167 hours then reactivated with $174136.33,2
+C317519117,DORMANT_ACTIVITY,83785.95,Account dormant for 286 hours then reactivated with $83785.95,2
+C317606482,DORMANT_ACTIVITY,246955.28,Account dormant for 129 hours then reactivated with $246955.28,2
+C319446815,DORMANT_ACTIVITY,124206.56,Account dormant for 77 hours then reactivated with $124206.56,2
+C321539994,DORMANT_ACTIVITY,446763.12,Account dormant for 318 hours then reactivated with $446763.12,2
+C32179658,DORMANT_ACTIVITY,187454.14,Account dormant for 168 hours then reactivated with $187454.14,2
+C324124707,DORMANT_ACTIVITY,147329.96,Account dormant for 172 hours then reactivated with $147329.96,2
+C324565712,DORMANT_ACTIVITY,172870.39,Account dormant for 205 hours then reactivated with $172870.39,2
+C325796172,DORMANT_ACTIVITY,63118.86,Account dormant for 140 hours then reactivated with $63118.86,2
+C325952657,DORMANT_ACTIVITY,51386.15,Account dormant for 200 hours then reactivated with $51386.15,2
+C327078668,DORMANT_ACTIVITY,240878.72,Account dormant for 166 hours then reactivated with $240878.72,2
+C327411444,DORMANT_ACTIVITY,131104.92,Account dormant for 174 hours then reactivated with $131104.92,2
+C329495707,DORMANT_ACTIVITY,399022.12,Account dormant for 49 hours then reactivated with $399022.12,2
+C332942491,DORMANT_ACTIVITY,79060.93,Account dormant for 142 hours then reactivated with $79060.93,2
+C333282810,DORMANT_ACTIVITY,94778.95,Account dormant for 72 hours then reactivated with $94778.95,2
+C33594415,DORMANT_ACTIVITY,209272.97,Account dormant for 246 hours then reactivated with $209272.97,2
+C337529676,DORMANT_ACTIVITY,350340.4,Account dormant for 340 hours then reactivated with $350340.4,2
+C339505384,DORMANT_ACTIVITY,127831.86,Account dormant for 284 hours then reactivated with $127831.86,2
+C339955034,DORMANT_ACTIVITY,631836.33,Account dormant for 98 hours then reactivated with $631836.33,2
+C34069220,DORMANT_ACTIVITY,160722.41,Account dormant for 69 hours then reactivated with $160722.41,2
+C341236162,DORMANT_ACTIVITY,298443.26,Account dormant for 163 hours then reactivated with $298443.26,2
+C34237291,DORMANT_ACTIVITY,290484.41,Account dormant for 111 hours then reactivated with $290484.41,2
+C342434412,DORMANT_ACTIVITY,74389.35,Account dormant for 232 hours then reactivated with $74389.35,2
+C347827427,DORMANT_ACTIVITY,170321.88,Account dormant for 93 hours then reactivated with $170321.88,2
+C35005848,DORMANT_ACTIVITY,150082.76,Account dormant for 203 hours then reactivated with $150082.76,2
+C357428284,DORMANT_ACTIVITY,232659.99,Account dormant for 363 hours then reactivated with $232659.99,2
+C357911107,DORMANT_ACTIVITY,136024.77,Account dormant for 338 hours then reactivated with $136024.77,2
+C358725377,DORMANT_ACTIVITY,99188.9,Account dormant for 170 hours then reactivated with $99188.9,2
+C361885715,DORMANT_ACTIVITY,570178.73,Account dormant for 245 hours then reactivated with $570178.73,2
+C363960029,DORMANT_ACTIVITY,137216.14,Account dormant for 127 hours then reactivated with $137216.14,2
+C364245724,DORMANT_ACTIVITY,372683.73,Account dormant for 48 hours then reactivated with $372683.73,2
+C366560983,DORMANT_ACTIVITY,84652.57,Account dormant for 242 hours then reactivated with $84652.57,2
+C367315480,DORMANT_ACTIVITY,241581.58,Account dormant for 42 hours then reactivated with $241581.58,2
+C370101904,DORMANT_ACTIVITY,50534.8,Account dormant for 215 hours then reactivated with $50534.8,2
+C371791790,DORMANT_ACTIVITY,54537.27,Account dormant for 306 hours then reactivated with $54537.27,2
+C372045487,DORMANT_ACTIVITY,1241260.39,Account dormant for 194 hours then reactivated with $1241260.39,2
+C372341277,DORMANT_ACTIVITY,1003975.6,Account dormant for 214 hours then reactivated with $1003975.6,2
+C374097252,DORMANT_ACTIVITY,469492.12,Account dormant for 113 hours then reactivated with $469492.12,2
+C37436829,DORMANT_ACTIVITY,154072.04,Account dormant for 144 hours then reactivated with $154072.04,2
+C374886477,DORMANT_ACTIVITY,318592.51,Account dormant for 141 hours then reactivated with $318592.51,2
+C375450542,DORMANT_ACTIVITY,298994.11,Account dormant for 528 hours then reactivated with $298994.11,2
+C37546452,DORMANT_ACTIVITY,114509.79,Account dormant for 309 hours then reactivated with $114509.79,2
+C37631298,DORMANT_ACTIVITY,118181.47,Account dormant for 134 hours then reactivated with $118181.47,2
+C376943110,DORMANT_ACTIVITY,354078.08,Account dormant for 53 hours then reactivated with $354078.08,2
+C379021310,DORMANT_ACTIVITY,289786.57,Account dormant for 306 hours then reactivated with $289786.57,2
+C379431629,DORMANT_ACTIVITY,200658.91,Account dormant for 89 hours then reactivated with $200658.91,2
+C381585719,DORMANT_ACTIVITY,84616.05,Account dormant for 118 hours then reactivated with $84616.05,2
+C383657295,DORMANT_ACTIVITY,214279.51,Account dormant for 232 hours then reactivated with $214279.51,2
+C384202090,DORMANT_ACTIVITY,242463.63,Account dormant for 121 hours then reactivated with $242463.63,2
+C385839718,DORMANT_ACTIVITY,286084.3,Account dormant for 479 hours then reactivated with $286084.3,2
+C390089428,DORMANT_ACTIVITY,190080.59,Account dormant for 169 hours then reactivated with $190080.59,2
+C395844218,DORMANT_ACTIVITY,327011.53,Account dormant for 272 hours then reactivated with $327011.53,2
+C396519746,DORMANT_ACTIVITY,116077.12,Account dormant for 149 hours then reactivated with $116077.12,2
+C397528925,DORMANT_ACTIVITY,882385.14,Account dormant for 48 hours then reactivated with $882385.14,2
+C397715076,DORMANT_ACTIVITY,152435.43,Account dormant for 216 hours then reactivated with $152435.43,2
+C39842434,DORMANT_ACTIVITY,506461.16,Account dormant for 72 hours then reactivated with $506461.16,2
+C399772547,DORMANT_ACTIVITY,557002.18,Account dormant for 187 hours then reactivated with $557002.18,2
+C40253038,DORMANT_ACTIVITY,181318.08,Account dormant for 73 hours then reactivated with $181318.08,2
+C404678747,DORMANT_ACTIVITY,238594.87,Account dormant for 73 hours then reactivated with $238594.87,2
+C405616905,DORMANT_ACTIVITY,62547.51,Account dormant for 114 hours then reactivated with $62547.51,2
+C406091042,DORMANT_ACTIVITY,76087.87,Account dormant for 154 hours then reactivated with $76087.87,2
+C406489421,DORMANT_ACTIVITY,162119.25,Account dormant for 112 hours then reactivated with $162119.25,2
+C406954872,DORMANT_ACTIVITY,224796.48,Account dormant for 72 hours then reactivated with $224796.48,2
+C407973668,DORMANT_ACTIVITY,103798.53,Account dormant for 30 hours then reactivated with $103798.53,2
+C408060345,DORMANT_ACTIVITY,694025.56,Account dormant for 98 hours then reactivated with $694025.56,2
+C411443272,DORMANT_ACTIVITY,94140.29,Account dormant for 306 hours then reactivated with $94140.29,2
+C412323519,DORMANT_ACTIVITY,251526.66,Account dormant for 500 hours then reactivated with $251526.66,2
+C414387449,DORMANT_ACTIVITY,125487.18,Account dormant for 185 hours then reactivated with $125487.18,2
+C414996926,DORMANT_ACTIVITY,547360.71,Account dormant for 575 hours then reactivated with $547360.71,2
+C415371198,DORMANT_ACTIVITY,332512.1,Account dormant for 266 hours then reactivated with $332512.1,2
+C417733850,DORMANT_ACTIVITY,263273.36,Account dormant for 359 hours then reactivated with $263273.36,2
+C420168161,DORMANT_ACTIVITY,113869.65,Account dormant for 432 hours then reactivated with $113869.65,2
+C422956215,DORMANT_ACTIVITY,221329.12,Account dormant for 236 hours then reactivated with $221329.12,2
+C424187321,DORMANT_ACTIVITY,75347.96,Account dormant for 454 hours then reactivated with $75347.96,2
+C424902922,DORMANT_ACTIVITY,294797.05,Account dormant for 222 hours then reactivated with $294797.05,2
+C425953776,DORMANT_ACTIVITY,200044.41,Account dormant for 208 hours then reactivated with $200044.41,2
+C427746163,DORMANT_ACTIVITY,199879.29,Account dormant for 55 hours then reactivated with $199879.29,2
+C429256667,DORMANT_ACTIVITY,141087.82,Account dormant for 145 hours then reactivated with $141087.82,2
+C430414283,DORMANT_ACTIVITY,402663.46,Account dormant for 389 hours then reactivated with $402663.46,2
+C430666307,DORMANT_ACTIVITY,516241.92,Account dormant for 77 hours then reactivated with $516241.92,2
+C431038121,DORMANT_ACTIVITY,63624.08,Account dormant for 303 hours then reactivated with $63624.08,2
+C432004597,DORMANT_ACTIVITY,148199.82,Account dormant for 150 hours then reactivated with $148199.82,2
+C432562518,DORMANT_ACTIVITY,171788.82,Account dormant for 561 hours then reactivated with $171788.82,2
+C433018047,DORMANT_ACTIVITY,499789.27,Account dormant for 104 hours then reactivated with $499789.27,2
+C43424133,DORMANT_ACTIVITY,128906.67,Account dormant for 66 hours then reactivated with $128906.67,2
+C435634327,DORMANT_ACTIVITY,361582.85,Account dormant for 210 hours then reactivated with $361582.85,2
+C435728975,DORMANT_ACTIVITY,281512.82,Account dormant for 133 hours then reactivated with $281512.82,2
+C441341499,DORMANT_ACTIVITY,93367.32,Account dormant for 166 hours then reactivated with $93367.32,2
+C441906751,DORMANT_ACTIVITY,241015.06,Account dormant for 260 hours then reactivated with $241015.06,2
+C44241163,DORMANT_ACTIVITY,205946.2,Account dormant for 129 hours then reactivated with $205946.2,2
+C442412953,DORMANT_ACTIVITY,380063.88,Account dormant for 310 hours then reactivated with $380063.88,2
+C442810010,DORMANT_ACTIVITY,291724.98,Account dormant for 144 hours then reactivated with $291724.98,2
+C443558487,DORMANT_ACTIVITY,87634.81,Account dormant for 67 hours then reactivated with $87634.81,2
+C443589367,DORMANT_ACTIVITY,80861.12,Account dormant for 244 hours then reactivated with $80861.12,2
+C443888140,DORMANT_ACTIVITY,153460.97,Account dormant for 365 hours then reactivated with $153460.97,2
+C444456156,DORMANT_ACTIVITY,78683.68,Account dormant for 214 hours then reactivated with $78683.68,2
+C445114743,DORMANT_ACTIVITY,298435.38,Account dormant for 332 hours then reactivated with $298435.38,2
+C447395362,DORMANT_ACTIVITY,208265.44,Account dormant for 211 hours then reactivated with $208265.44,2
+C448148255,DORMANT_ACTIVITY,306180.23,Account dormant for 34 hours then reactivated with $306180.23,2
+C453107581,DORMANT_ACTIVITY,257789.61,Account dormant for 169 hours then reactivated with $257789.61,2
+C453251973,DORMANT_ACTIVITY,168866.8,Account dormant for 328 hours then reactivated with $168866.8,2
+C455199265,DORMANT_ACTIVITY,65985.13,Account dormant for 81 hours then reactivated with $65985.13,2
+C456873490,DORMANT_ACTIVITY,76141.69,Account dormant for 222 hours then reactivated with $76141.69,2
+C462097952,DORMANT_ACTIVITY,166561.83,Account dormant for 188 hours then reactivated with $166561.83,2
+C46469206,DORMANT_ACTIVITY,108512.06,Account dormant for 201 hours then reactivated with $108512.06,2
+C465008155,DORMANT_ACTIVITY,119831.62,Account dormant for 33 hours then reactivated with $119831.62,2
+C467553488,DORMANT_ACTIVITY,197594.62,Account dormant for 196 hours then reactivated with $197594.62,2
+C468293066,DORMANT_ACTIVITY,289456.09,Account dormant for 47 hours then reactivated with $289456.09,2
+C472638499,DORMANT_ACTIVITY,335457.22,Account dormant for 238 hours then reactivated with $335457.22,2
+C473239409,DORMANT_ACTIVITY,55912.9,Account dormant for 95 hours then reactivated with $55912.9,2
+C47346439,DORMANT_ACTIVITY,110031.29,Account dormant for 231 hours then reactivated with $110031.29,2
+C473570228,DORMANT_ACTIVITY,975680.85,Account dormant for 130 hours then reactivated with $975680.85,2
+C474272339,DORMANT_ACTIVITY,122813.38,Account dormant for 44 hours then reactivated with $122813.38,2
+C482146908,DORMANT_ACTIVITY,153990.87,Account dormant for 141 hours then reactivated with $153990.87,2
+C482952496,DORMANT_ACTIVITY,73256.53,Account dormant for 36 hours then reactivated with $73256.53,2
+C484975395,DORMANT_ACTIVITY,69823.6,Account dormant for 164 hours then reactivated with $69823.6,2
+C492784631,DORMANT_ACTIVITY,447914.31,Account dormant for 71 hours then reactivated with $447914.31,2
+C493256368,DORMANT_ACTIVITY,94725.88,Account dormant for 500 hours then reactivated with $94725.88,2
+C495658912,DORMANT_ACTIVITY,153897.96,Account dormant for 149 hours then reactivated with $153897.96,2
+C497098812,DORMANT_ACTIVITY,121483.0,Account dormant for 266 hours then reactivated with $121483.0,2
+C49722013,DORMANT_ACTIVITY,311281.72,Account dormant for 239 hours then reactivated with $311281.72,2
+C498195595,DORMANT_ACTIVITY,90264.81,Account dormant for 165 hours then reactivated with $90264.81,2
+C498537372,DORMANT_ACTIVITY,231360.84,Account dormant for 50 hours then reactivated with $231360.84,2
+C499518658,DORMANT_ACTIVITY,102911.44,Account dormant for 192 hours then reactivated with $102911.44,2
+C501112739,DORMANT_ACTIVITY,331075.2,Account dormant for 388 hours then reactivated with $331075.2,2
+C502280501,DORMANT_ACTIVITY,204695.41,Account dormant for 120 hours then reactivated with $204695.41,2
+C502370612,DORMANT_ACTIVITY,743550.56,Account dormant for 137 hours then reactivated with $743550.56,2
+C503954013,DORMANT_ACTIVITY,153688.51,Account dormant for 236 hours then reactivated with $153688.51,2
+C505536677,DORMANT_ACTIVITY,87321.14,Account dormant for 65 hours then reactivated with $87321.14,2
+C50858139,DORMANT_ACTIVITY,166777.65,Account dormant for 343 hours then reactivated with $166777.65,2
+C510173358,DORMANT_ACTIVITY,62228.13,Account dormant for 267 hours then reactivated with $62228.13,2
+C510512793,DORMANT_ACTIVITY,856470.06,Account dormant for 49 hours then reactivated with $856470.06,2
+C512607703,DORMANT_ACTIVITY,235423.07,Account dormant for 155 hours then reactivated with $235423.07,2
+C512796317,DORMANT_ACTIVITY,180325.68,Account dormant for 36 hours then reactivated with $180325.68,2
+C512937917,DORMANT_ACTIVITY,1227332.99,Account dormant for 332 hours then reactivated with $1227332.99,2
+C513767625,DORMANT_ACTIVITY,207831.58,Account dormant for 311 hours then reactivated with $207831.58,2
+C514592203,DORMANT_ACTIVITY,568194.66,Account dormant for 51 hours then reactivated with $568194.66,2
+C514772704,DORMANT_ACTIVITY,899464.86,Account dormant for 160 hours then reactivated with $899464.86,2
+C514997391,DORMANT_ACTIVITY,472812.33,Account dormant for 335 hours then reactivated with $472812.33,2
+C515118379,DORMANT_ACTIVITY,493940.63,Account dormant for 211 hours then reactivated with $493940.63,2
+C517719200,DORMANT_ACTIVITY,406173.11,Account dormant for 169 hours then reactivated with $406173.11,2
+C518383312,DORMANT_ACTIVITY,5382036.57,Account dormant for 170 hours then reactivated with $5382036.57,2
+C518544865,DORMANT_ACTIVITY,219482.69,Account dormant for 344 hours then reactivated with $219482.69,2
+C519269284,DORMANT_ACTIVITY,137769.03,Account dormant for 318 hours then reactivated with $137769.03,2
+C520516539,DORMANT_ACTIVITY,329541.89,Account dormant for 118 hours then reactivated with $329541.89,2
+C522905394,DORMANT_ACTIVITY,101906.94,Account dormant for 230 hours then reactivated with $101906.94,2
+C523168652,DORMANT_ACTIVITY,190226.78,Account dormant for 102 hours then reactivated with $190226.78,2
+C524686882,DORMANT_ACTIVITY,3847145.44,Account dormant for 111 hours then reactivated with $3847145.44,2
+C524798290,DORMANT_ACTIVITY,307618.24,Account dormant for 168 hours then reactivated with $307618.24,2
+C527448086,DORMANT_ACTIVITY,78658.1,Account dormant for 256 hours then reactivated with $78658.1,2
+C528251613,DORMANT_ACTIVITY,503801.12,Account dormant for 217 hours then reactivated with $503801.12,2
+C528616245,DORMANT_ACTIVITY,98225.55,Account dormant for 253 hours then reactivated with $98225.55,2
+C529674613,DORMANT_ACTIVITY,342286.99,Account dormant for 101 hours then reactivated with $342286.99,2
+C532654868,DORMANT_ACTIVITY,226061.84,Account dormant for 315 hours then reactivated with $226061.84,2
+C532903401,DORMANT_ACTIVITY,239595.63,Account dormant for 218 hours then reactivated with $239595.63,2
+C534198506,DORMANT_ACTIVITY,61960.42,Account dormant for 552 hours then reactivated with $61960.42,2
+C536876842,DORMANT_ACTIVITY,156944.78,Account dormant for 436 hours then reactivated with $156944.78,2
+C538927192,DORMANT_ACTIVITY,2511506.45,Account dormant for 269 hours then reactivated with $2511506.45,2
+C545315117,DORMANT_ACTIVITY,182907.71,Account dormant for 126 hours then reactivated with $182907.71,2
+C545942487,DORMANT_ACTIVITY,134225.57,Account dormant for 30 hours then reactivated with $134225.57,2
+C546551482,DORMANT_ACTIVITY,213470.33,Account dormant for 62 hours then reactivated with $213470.33,2
+C546758137,DORMANT_ACTIVITY,252175.16,Account dormant for 192 hours then reactivated with $252175.16,2
+C547306657,DORMANT_ACTIVITY,339209.01,Account dormant for 93 hours then reactivated with $339209.01,2
+C551890740,DORMANT_ACTIVITY,276579.35,Account dormant for 379 hours then reactivated with $276579.35,2
+C55231477,DORMANT_ACTIVITY,236990.18,Account dormant for 37 hours then reactivated with $236990.18,2
+C555215028,DORMANT_ACTIVITY,78670.66,Account dormant for 33 hours then reactivated with $78670.66,2
+C555328293,DORMANT_ACTIVITY,306067.01,Account dormant for 51 hours then reactivated with $306067.01,2
+C556282163,DORMANT_ACTIVITY,319435.65,Account dormant for 130 hours then reactivated with $319435.65,2
+C559314581,DORMANT_ACTIVITY,519937.92,Account dormant for 151 hours then reactivated with $519937.92,2
+C559687727,DORMANT_ACTIVITY,520198.57,Account dormant for 243 hours then reactivated with $520198.57,2
+C559974438,DORMANT_ACTIVITY,138974.86,Account dormant for 190 hours then reactivated with $138974.86,2
+C562371905,DORMANT_ACTIVITY,202609.43,Account dormant for 55 hours then reactivated with $202609.43,2
+C564963386,DORMANT_ACTIVITY,201041.1,Account dormant for 215 hours then reactivated with $201041.1,2
+C568763776,DORMANT_ACTIVITY,639196.75,Account dormant for 253 hours then reactivated with $639196.75,2
+C569000276,DORMANT_ACTIVITY,147818.81,Account dormant for 94 hours then reactivated with $147818.81,2
+C569452536,DORMANT_ACTIVITY,292035.82,Account dormant for 127 hours then reactivated with $292035.82,2
+C572420902,DORMANT_ACTIVITY,714894.58,Account dormant for 49 hours then reactivated with $714894.58,2
+C573549281,DORMANT_ACTIVITY,200042.8,Account dormant for 214 hours then reactivated with $200042.8,2
+C574284534,DORMANT_ACTIVITY,124386.63,Account dormant for 192 hours then reactivated with $124386.63,2
+C574821821,DORMANT_ACTIVITY,371365.35,Account dormant for 50 hours then reactivated with $371365.35,2
+C575808974,DORMANT_ACTIVITY,137754.14,Account dormant for 338 hours then reactivated with $137754.14,2
+C575989991,DORMANT_ACTIVITY,363756.82,Account dormant for 258 hours then reactivated with $363756.82,2
+C576171834,DORMANT_ACTIVITY,85152.95,Account dormant for 114 hours then reactivated with $85152.95,2
+C578843102,DORMANT_ACTIVITY,225771.78,Account dormant for 92 hours then reactivated with $225771.78,2
+C580355387,DORMANT_ACTIVITY,500403.08,Account dormant for 90 hours then reactivated with $500403.08,2
+C58089140,DORMANT_ACTIVITY,205605.03,Account dormant for 166 hours then reactivated with $205605.03,2
+C58156835,DORMANT_ACTIVITY,1174703.59,Account dormant for 246 hours then reactivated with $1174703.59,2
+C582627173,DORMANT_ACTIVITY,256469.42,Account dormant for 388 hours then reactivated with $256469.42,2
+C584702898,DORMANT_ACTIVITY,157874.08,Account dormant for 124 hours then reactivated with $157874.08,2
+C585220619,DORMANT_ACTIVITY,295625.68,Account dormant for 128 hours then reactivated with $295625.68,2
+C587342830,DORMANT_ACTIVITY,357815.94,Account dormant for 223 hours then reactivated with $357815.94,2
+C58869909,DORMANT_ACTIVITY,92732.28,Account dormant for 173 hours then reactivated with $92732.28,2
+C589230115,DORMANT_ACTIVITY,132817.11,Account dormant for 248 hours then reactivated with $132817.11,2
+C595704070,DORMANT_ACTIVITY,87783.43,Account dormant for 48 hours then reactivated with $87783.43,2
+C59633115,DORMANT_ACTIVITY,181795.55,Account dormant for 109 hours then reactivated with $181795.55,2
+C601333964,DORMANT_ACTIVITY,327893.24,Account dormant for 188 hours then reactivated with $327893.24,2
+C601482066,DORMANT_ACTIVITY,105573.59,Account dormant for 153 hours then reactivated with $105573.59,2
+C601768975,DORMANT_ACTIVITY,181289.33,Account dormant for 619 hours then reactivated with $181289.33,2
+C603872021,DORMANT_ACTIVITY,84711.98,Account dormant for 269 hours then reactivated with $84711.98,2
+C604785716,DORMANT_ACTIVITY,158025.91,Account dormant for 209 hours then reactivated with $158025.91,2
+C61156357,DORMANT_ACTIVITY,710876.23,Account dormant for 382 hours then reactivated with $710876.23,2
+C612466236,DORMANT_ACTIVITY,272834.65,Account dormant for 101 hours then reactivated with $272834.65,2
+C61463231,DORMANT_ACTIVITY,116385.42,Account dormant for 161 hours then reactivated with $116385.42,2
+C614844959,DORMANT_ACTIVITY,81464.37,Account dormant for 184 hours then reactivated with $81464.37,2
+C617038453,DORMANT_ACTIVITY,192133.5,Account dormant for 256 hours then reactivated with $192133.5,2
+C618257924,DORMANT_ACTIVITY,320156.83,Account dormant for 110 hours then reactivated with $320156.83,2
+C620410525,DORMANT_ACTIVITY,354916.48,Account dormant for 239 hours then reactivated with $354916.48,2
+C621135523,DORMANT_ACTIVITY,198876.06,Account dormant for 361 hours then reactivated with $198876.06,2
+C622922108,DORMANT_ACTIVITY,278207.66,Account dormant for 207 hours then reactivated with $278207.66,2
+C624219547,DORMANT_ACTIVITY,113572.99,Account dormant for 253 hours then reactivated with $113572.99,2
+C624830332,DORMANT_ACTIVITY,188706.69,Account dormant for 189 hours then reactivated with $188706.69,2
+C627681222,DORMANT_ACTIVITY,529852.63,Account dormant for 62 hours then reactivated with $529852.63,2
+C628355592,DORMANT_ACTIVITY,562063.08,Account dormant for 94 hours then reactivated with $562063.08,2
+C63271014,DORMANT_ACTIVITY,326517.95,Account dormant for 356 hours then reactivated with $326517.95,2
+C636966902,DORMANT_ACTIVITY,150209.99,Account dormant for 144 hours then reactivated with $150209.99,2
+C638123191,DORMANT_ACTIVITY,63465.59,Account dormant for 71 hours then reactivated with $63465.59,2
+C638778902,DORMANT_ACTIVITY,144832.72,Account dormant for 536 hours then reactivated with $144832.72,2
+C64050755,DORMANT_ACTIVITY,89682.63,Account dormant for 46 hours then reactivated with $89682.63,2
+C640806491,DORMANT_ACTIVITY,65507.15,Account dormant for 140 hours then reactivated with $65507.15,2
+C646166723,DORMANT_ACTIVITY,502661.89,Account dormant for 218 hours then reactivated with $502661.89,2
+C647150029,DORMANT_ACTIVITY,383438.93,Account dormant for 192 hours then reactivated with $383438.93,2
+C647489213,DORMANT_ACTIVITY,133279.8,Account dormant for 338 hours then reactivated with $133279.8,2
+C650050090,DORMANT_ACTIVITY,78546.61,Account dormant for 127 hours then reactivated with $78546.61,2
+C651762313,DORMANT_ACTIVITY,246194.99,Account dormant for 146 hours then reactivated with $246194.99,2
+C651991200,DORMANT_ACTIVITY,288730.81,Account dormant for 99 hours then reactivated with $288730.81,2
+C65420832,DORMANT_ACTIVITY,174328.57,Account dormant for 42 hours then reactivated with $174328.57,2
+C655854932,DORMANT_ACTIVITY,123554.9,Account dormant for 387 hours then reactivated with $123554.9,2
+C65671443,DORMANT_ACTIVITY,81722.26,Account dormant for 126 hours then reactivated with $81722.26,2
+C658324917,DORMANT_ACTIVITY,121128.44,Account dormant for 286 hours then reactivated with $121128.44,2
+C659263561,DORMANT_ACTIVITY,102007.8,Account dormant for 244 hours then reactivated with $102007.8,2
+C659809405,DORMANT_ACTIVITY,313418.95,Account dormant for 207 hours then reactivated with $313418.95,2
+C660381001,DORMANT_ACTIVITY,197894.74,Account dormant for 386 hours then reactivated with $197894.74,2
+C663108027,DORMANT_ACTIVITY,253120.35,Account dormant for 309 hours then reactivated with $253120.35,2
+C663134626,DORMANT_ACTIVITY,485993.88,Account dormant for 172 hours then reactivated with $485993.88,2
+C663188812,DORMANT_ACTIVITY,305693.79,Account dormant for 282 hours then reactivated with $305693.79,2
+C663632743,DORMANT_ACTIVITY,208068.1,Account dormant for 189 hours then reactivated with $208068.1,2
+C664810268,DORMANT_ACTIVITY,413917.0,Account dormant for 120 hours then reactivated with $413917.0,2
+C665059965,DORMANT_ACTIVITY,525136.47,Account dormant for 117 hours then reactivated with $525136.47,2
+C665123501,DORMANT_ACTIVITY,339893.61,Account dormant for 213 hours then reactivated with $339893.61,2
+C665145181,DORMANT_ACTIVITY,193873.38,Account dormant for 138 hours then reactivated with $193873.38,2
+C667226298,DORMANT_ACTIVITY,113309.91,Account dormant for 206 hours then reactivated with $113309.91,2
+C66902779,DORMANT_ACTIVITY,134998.54,Account dormant for 313 hours then reactivated with $134998.54,2
+C669983239,DORMANT_ACTIVITY,117982.44,Account dormant for 149 hours then reactivated with $117982.44,2
+C674027590,DORMANT_ACTIVITY,276655.19,Account dormant for 105 hours then reactivated with $276655.19,2
+C674914640,DORMANT_ACTIVITY,86113.1,Account dormant for 330 hours then reactivated with $86113.1,2
+C677705687,DORMANT_ACTIVITY,143558.85,Account dormant for 231 hours then reactivated with $143558.85,2
+C678070520,DORMANT_ACTIVITY,69816.4,Account dormant for 119 hours then reactivated with $69816.4,2
+C680841646,DORMANT_ACTIVITY,430122.4,Account dormant for 143 hours then reactivated with $430122.4,2
+C682941897,DORMANT_ACTIVITY,59850.7,Account dormant for 196 hours then reactivated with $59850.7,2
+C683288310,DORMANT_ACTIVITY,492820.27,Account dormant for 104 hours then reactivated with $492820.27,2
+C683822340,DORMANT_ACTIVITY,759990.21,Account dormant for 167 hours then reactivated with $759990.21,2
+C684012786,DORMANT_ACTIVITY,93732.45,Account dormant for 42 hours then reactivated with $93732.45,2
+C68721948,DORMANT_ACTIVITY,228941.63,Account dormant for 270 hours then reactivated with $228941.63,2
+C688432898,DORMANT_ACTIVITY,320894.74,Account dormant for 213 hours then reactivated with $320894.74,2
+C689292573,DORMANT_ACTIVITY,518299.0,Account dormant for 138 hours then reactivated with $518299.0,2
+C690485439,DORMANT_ACTIVITY,611529.09,Account dormant for 364 hours then reactivated with $611529.09,2
+C691649680,DORMANT_ACTIVITY,382428.63,Account dormant for 178 hours then reactivated with $382428.63,2
+C693101875,DORMANT_ACTIVITY,153915.52,Account dormant for 148 hours then reactivated with $153915.52,2
+C693189172,DORMANT_ACTIVITY,386313.66,Account dormant for 190 hours then reactivated with $386313.66,2
+C693566850,DORMANT_ACTIVITY,193816.43,Account dormant for 63 hours then reactivated with $193816.43,2
+C69372757,DORMANT_ACTIVITY,286355.85,Account dormant for 307 hours then reactivated with $286355.85,2
+C694892775,DORMANT_ACTIVITY,99050.06,Account dormant for 391 hours then reactivated with $99050.06,2
+C701832588,DORMANT_ACTIVITY,59541.99,Account dormant for 122 hours then reactivated with $59541.99,2
+C702532150,DORMANT_ACTIVITY,95522.93,Account dormant for 93 hours then reactivated with $95522.93,2
+C703487838,DORMANT_ACTIVITY,599849.27,Account dormant for 61 hours then reactivated with $599849.27,2
+C703695269,DORMANT_ACTIVITY,400493.28,Account dormant for 56 hours then reactivated with $400493.28,2
+C704900137,DORMANT_ACTIVITY,63709.56,Account dormant for 196 hours then reactivated with $63709.56,2
+C706464557,DORMANT_ACTIVITY,707353.9,Account dormant for 110 hours then reactivated with $707353.9,2
+C707536902,DORMANT_ACTIVITY,67111.65,Account dormant for 70 hours then reactivated with $67111.65,2
+C71203174,DORMANT_ACTIVITY,51079.31,Account dormant for 218 hours then reactivated with $51079.31,2
+C712244423,DORMANT_ACTIVITY,105852.78,Account dormant for 151 hours then reactivated with $105852.78,2
+C718224182,DORMANT_ACTIVITY,211271.13,Account dormant for 145 hours then reactivated with $211271.13,2
+C723127416,DORMANT_ACTIVITY,209970.22,Account dormant for 198 hours then reactivated with $209970.22,2
+C724452879,DORMANT_ACTIVITY,303432.54,Account dormant for 360 hours then reactivated with $303432.54,3
+C724518950,DORMANT_ACTIVITY,243514.13,Account dormant for 41 hours then reactivated with $243514.13,2
+C728056544,DORMANT_ACTIVITY,160660.9,Account dormant for 206 hours then reactivated with $160660.9,2
+C728373196,DORMANT_ACTIVITY,851884.77,Account dormant for 96 hours then reactivated with $851884.77,2
+C728444372,DORMANT_ACTIVITY,253290.01,Account dormant for 40 hours then reactivated with $253290.01,2
+C729186631,DORMANT_ACTIVITY,1066808.41,Account dormant for 370 hours then reactivated with $1066808.41,2
+C729362809,DORMANT_ACTIVITY,58793.63,Account dormant for 308 hours then reactivated with $58793.63,2
+C729560990,DORMANT_ACTIVITY,277864.89,Account dormant for 69 hours then reactivated with $277864.89,2
+C730376461,DORMANT_ACTIVITY,299919.71,Account dormant for 253 hours then reactivated with $299919.71,2
+C734793208,DORMANT_ACTIVITY,820756.81,Account dormant for 306 hours then reactivated with $820756.81,2
+C735663063,DORMANT_ACTIVITY,81785.39,Account dormant for 191 hours then reactivated with $81785.39,2
+C738854011,DORMANT_ACTIVITY,292098.01,Account dormant for 194 hours then reactivated with $292098.01,2
+C741487667,DORMANT_ACTIVITY,161306.52,Account dormant for 303 hours then reactivated with $161306.52,2
+C741661985,DORMANT_ACTIVITY,147039.93,Account dormant for 165 hours then reactivated with $147039.93,2
+C742024395,DORMANT_ACTIVITY,113484.86,Account dormant for 166 hours then reactivated with $113484.86,2
+C742817703,DORMANT_ACTIVITY,309970.51,Account dormant for 277 hours then reactivated with $309970.51,2
+C743395675,DORMANT_ACTIVITY,663333.71,Account dormant for 273 hours then reactivated with $663333.71,2
+C745924269,DORMANT_ACTIVITY,104421.7,Account dormant for 268 hours then reactivated with $104421.7,2
+C74640385,DORMANT_ACTIVITY,206542.37,Account dormant for 214 hours then reactivated with $206542.37,2
+C746662004,DORMANT_ACTIVITY,135266.01,Account dormant for 244 hours then reactivated with $135266.01,2
+C747405268,DORMANT_ACTIVITY,862270.59,Account dormant for 81 hours then reactivated with $862270.59,2
+C74958989,DORMANT_ACTIVITY,473823.44,Account dormant for 196 hours then reactivated with $473823.44,2
+C751509105,DORMANT_ACTIVITY,362189.16,Account dormant for 119 hours then reactivated with $362189.16,2
+C753339928,DORMANT_ACTIVITY,81055.74,Account dormant for 164 hours then reactivated with $81055.74,2
+C75478055,DORMANT_ACTIVITY,88083.03,Account dormant for 119 hours then reactivated with $88083.03,2
+C756421362,DORMANT_ACTIVITY,281194.66,Account dormant for 336 hours then reactivated with $281194.66,2
+C757532013,DORMANT_ACTIVITY,56429.19,Account dormant for 317 hours then reactivated with $56429.19,2
+C75839136,DORMANT_ACTIVITY,180662.67,Account dormant for 327 hours then reactivated with $180662.67,2
+C758440922,DORMANT_ACTIVITY,493393.71,Account dormant for 170 hours then reactivated with $493393.71,2
+C760118268,DORMANT_ACTIVITY,112303.64,Account dormant for 197 hours then reactivated with $112303.64,2
+C763156609,DORMANT_ACTIVITY,138348.45,Account dormant for 140 hours then reactivated with $138348.45,2
+C763970198,DORMANT_ACTIVITY,296238.77,Account dormant for 527 hours then reactivated with $296238.77,2
+C765653079,DORMANT_ACTIVITY,93369.95,Account dormant for 161 hours then reactivated with $93369.95,2
+C766976504,DORMANT_ACTIVITY,266373.53,Account dormant for 198 hours then reactivated with $266373.53,2
+C767165600,DORMANT_ACTIVITY,171998.39,Account dormant for 289 hours then reactivated with $171998.39,2
+C767550148,DORMANT_ACTIVITY,409801.45,Account dormant for 127 hours then reactivated with $409801.45,2
+C769997581,DORMANT_ACTIVITY,51964.55,Account dormant for 573 hours then reactivated with $51964.55,2
+C771046911,DORMANT_ACTIVITY,161673.38,Account dormant for 162 hours then reactivated with $161673.38,2
+C773170766,DORMANT_ACTIVITY,228674.53,Account dormant for 130 hours then reactivated with $228674.53,2
+C77493227,DORMANT_ACTIVITY,108895.36,Account dormant for 163 hours then reactivated with $108895.36,2
+C776894986,DORMANT_ACTIVITY,193749.1,Account dormant for 175 hours then reactivated with $193749.1,2
+C779109158,DORMANT_ACTIVITY,140559.9,Account dormant for 50 hours then reactivated with $140559.9,2
+C781656347,DORMANT_ACTIVITY,316332.46,Account dormant for 220 hours then reactivated with $316332.46,2
+C784575706,DORMANT_ACTIVITY,164074.09,Account dormant for 269 hours then reactivated with $164074.09,2
+C784788432,DORMANT_ACTIVITY,338314.71,Account dormant for 148 hours then reactivated with $338314.71,2
+C785228432,DORMANT_ACTIVITY,576677.9,Account dormant for 167 hours then reactivated with $576677.9,2
+C786410688,DORMANT_ACTIVITY,605761.2,Account dormant for 98 hours then reactivated with $605761.2,2
+C787388704,DORMANT_ACTIVITY,170164.99,Account dormant for 383 hours then reactivated with $170164.99,2
+C788247672,DORMANT_ACTIVITY,665858.31,Account dormant for 141 hours then reactivated with $665858.31,2
+C792465594,DORMANT_ACTIVITY,280674.37,Account dormant for 290 hours then reactivated with $280674.37,2
+C794021336,DORMANT_ACTIVITY,389402.27,Account dormant for 168 hours then reactivated with $389402.27,2
+C796574716,DORMANT_ACTIVITY,404585.4,Account dormant for 56 hours then reactivated with $404585.4,2
+C797786391,DORMANT_ACTIVITY,284019.15,Account dormant for 287 hours then reactivated with $284019.15,2
+C797816349,DORMANT_ACTIVITY,306668.09,Account dormant for 52 hours then reactivated with $306668.09,2
+C798583278,DORMANT_ACTIVITY,131153.3,Account dormant for 159 hours then reactivated with $131153.3,2
+C800998684,DORMANT_ACTIVITY,1025015.48,Account dormant for 480 hours then reactivated with $1025015.48,2
+C802432381,DORMANT_ACTIVITY,498800.51,Account dormant for 126 hours then reactivated with $498800.51,2
+C80507152,DORMANT_ACTIVITY,224738.45,Account dormant for 97 hours then reactivated with $224738.45,2
+C806335750,DORMANT_ACTIVITY,903229.19,Account dormant for 53 hours then reactivated with $903229.19,2
+C806379705,DORMANT_ACTIVITY,383469.77,Account dormant for 40 hours then reactivated with $383469.77,2
+C806945189,DORMANT_ACTIVITY,91852.6,Account dormant for 215 hours then reactivated with $91852.6,2
+C807941658,DORMANT_ACTIVITY,110857.01,Account dormant for 128 hours then reactivated with $110857.01,2
+C809381301,DORMANT_ACTIVITY,68412.78,Account dormant for 264 hours then reactivated with $68412.78,2
+C80943077,DORMANT_ACTIVITY,295575.62,Account dormant for 76 hours then reactivated with $295575.62,2
+C809475691,DORMANT_ACTIVITY,188977.16,Account dormant for 201 hours then reactivated with $188977.16,2
+C810036010,DORMANT_ACTIVITY,447235.0,Account dormant for 213 hours then reactivated with $447235.0,2
+C812517595,DORMANT_ACTIVITY,162723.56,Account dormant for 152 hours then reactivated with $162723.56,2
+C816827123,DORMANT_ACTIVITY,156591.13,Account dormant for 120 hours then reactivated with $156591.13,2
+C818495827,DORMANT_ACTIVITY,191328.19,Account dormant for 41 hours then reactivated with $191328.19,2
+C819294351,DORMANT_ACTIVITY,358723.69,Account dormant for 127 hours then reactivated with $358723.69,2
+C819731860,DORMANT_ACTIVITY,127791.62,Account dormant for 199 hours then reactivated with $127791.62,2
+C820174267,DORMANT_ACTIVITY,126022.1,Account dormant for 141 hours then reactivated with $126022.1,2
+C820835173,DORMANT_ACTIVITY,394503.22,Account dormant for 147 hours then reactivated with $394503.22,2
+C822433032,DORMANT_ACTIVITY,712883.64,Account dormant for 223 hours then reactivated with $712883.64,2
+C824688942,DORMANT_ACTIVITY,305101.84,Account dormant for 286 hours then reactivated with $305101.84,2
+C8247339,DORMANT_ACTIVITY,138734.96,Account dormant for 95 hours then reactivated with $138734.96,2
+C825145461,DORMANT_ACTIVITY,161839.48,Account dormant for 67 hours then reactivated with $161839.48,2
+C825938473,DORMANT_ACTIVITY,74482.24,Account dormant for 162 hours then reactivated with $74482.24,2
+C828121367,DORMANT_ACTIVITY,146481.69,Account dormant for 261 hours then reactivated with $146481.69,2
+C830730064,DORMANT_ACTIVITY,230796.43,Account dormant for 62 hours then reactivated with $230796.43,2
+C831287530,DORMANT_ACTIVITY,104732.21,Account dormant for 373 hours then reactivated with $104732.21,2
+C831429917,DORMANT_ACTIVITY,852111.08,Account dormant for 115 hours then reactivated with $852111.08,2
+C831876521,DORMANT_ACTIVITY,53034.34,Account dormant for 102 hours then reactivated with $53034.34,2
+C83231689,DORMANT_ACTIVITY,158329.65,Account dormant for 195 hours then reactivated with $158329.65,2
+C832964251,DORMANT_ACTIVITY,440329.24,Account dormant for 145 hours then reactivated with $440329.24,2
+C833922964,DORMANT_ACTIVITY,196522.75,Account dormant for 31 hours then reactivated with $196522.75,2
+C835179086,DORMANT_ACTIVITY,1287071.72,Account dormant for 362 hours then reactivated with $1287071.72,2
+C836040574,DORMANT_ACTIVITY,139695.02,Account dormant for 307 hours then reactivated with $139695.02,2
+C836124509,DORMANT_ACTIVITY,61338.46,Account dormant for 129 hours then reactivated with $61338.46,2
+C837065783,DORMANT_ACTIVITY,126034.43,Account dormant for 333 hours then reactivated with $126034.43,2
+C838043818,DORMANT_ACTIVITY,126129.59,Account dormant for 289 hours then reactivated with $126129.59,2
+C838653313,DORMANT_ACTIVITY,66450.47,Account dormant for 137 hours then reactivated with $66450.47,2
+C839419236,DORMANT_ACTIVITY,80230.88,Account dormant for 49 hours then reactivated with $80230.88,2
+C842261285,DORMANT_ACTIVITY,69538.27,Account dormant for 58 hours then reactivated with $69538.27,2
+C842398492,DORMANT_ACTIVITY,390361.94,Account dormant for 44 hours then reactivated with $390361.94,2
+C84386673,DORMANT_ACTIVITY,441067.81,Account dormant for 310 hours then reactivated with $441067.81,2
+C847504306,DORMANT_ACTIVITY,137571.35,Account dormant for 83 hours then reactivated with $137571.35,2
+C84783091,DORMANT_ACTIVITY,401885.85,Account dormant for 246 hours then reactivated with $401885.85,2
+C849733150,DORMANT_ACTIVITY,208922.66,Account dormant for 269 hours then reactivated with $208922.66,2
+C851241535,DORMANT_ACTIVITY,413518.74,Account dormant for 39 hours then reactivated with $413518.74,2
+C852088752,DORMANT_ACTIVITY,329179.16,Account dormant for 239 hours then reactivated with $329179.16,2
+C853645762,DORMANT_ACTIVITY,536349.08,Account dormant for 220 hours then reactivated with $536349.08,2
+C855939807,DORMANT_ACTIVITY,129436.02,Account dormant for 144 hours then reactivated with $129436.02,2
+C856167167,DORMANT_ACTIVITY,212445.71,Account dormant for 280 hours then reactivated with $212445.71,2
+C857629973,DORMANT_ACTIVITY,190649.92,Account dormant for 96 hours then reactivated with $190649.92,2
+C857763014,DORMANT_ACTIVITY,263030.85,Account dormant for 146 hours then reactivated with $263030.85,2
+C860329086,DORMANT_ACTIVITY,480153.78,Account dormant for 122 hours then reactivated with $480153.78,2
+C861688728,DORMANT_ACTIVITY,129813.58,Account dormant for 152 hours then reactivated with $129813.58,2
+C862340901,DORMANT_ACTIVITY,94803.07,Account dormant for 265 hours then reactivated with $94803.07,2
+C864730295,DORMANT_ACTIVITY,88563.41,Account dormant for 94 hours then reactivated with $88563.41,2
+C865571412,DORMANT_ACTIVITY,113230.85,Account dormant for 71 hours then reactivated with $113230.85,2
+C867307337,DORMANT_ACTIVITY,262841.76,Account dormant for 220 hours then reactivated with $262841.76,2
+C868975526,DORMANT_ACTIVITY,334410.38,Account dormant for 70 hours then reactivated with $334410.38,2
+C872991287,DORMANT_ACTIVITY,95798.56,Account dormant for 386 hours then reactivated with $95798.56,2
+C8737889,DORMANT_ACTIVITY,793703.89,Account dormant for 51 hours then reactivated with $793703.89,2
+C877473069,DORMANT_ACTIVITY,208902.74,Account dormant for 241 hours then reactivated with $208902.74,2
+C881807573,DORMANT_ACTIVITY,98527.74,Account dormant for 63 hours then reactivated with $98527.74,2
+C882869563,DORMANT_ACTIVITY,217771.45,Account dormant for 371 hours then reactivated with $217771.45,2
+C883526597,DORMANT_ACTIVITY,150454.33,Account dormant for 125 hours then reactivated with $150454.33,2
+C88495930,DORMANT_ACTIVITY,318465.25,Account dormant for 563 hours then reactivated with $318465.25,2
+C885031671,DORMANT_ACTIVITY,126429.77,Account dormant for 367 hours then reactivated with $126429.77,2
+C890644684,DORMANT_ACTIVITY,375625.1,Account dormant for 41 hours then reactivated with $375625.1,2
+C891150575,DORMANT_ACTIVITY,195581.81,Account dormant for 148 hours then reactivated with $195581.81,2
+C891665654,DORMANT_ACTIVITY,446471.36,Account dormant for 383 hours then reactivated with $446471.36,2
+C893319338,DORMANT_ACTIVITY,60597.78,Account dormant for 284 hours then reactivated with $60597.78,2
+C893492700,DORMANT_ACTIVITY,150309.51,Account dormant for 456 hours then reactivated with $150309.51,2
+C894052048,DORMANT_ACTIVITY,272876.61,Account dormant for 96 hours then reactivated with $272876.61,2
+C895248037,DORMANT_ACTIVITY,104367.27,Account dormant for 653 hours then reactivated with $104367.27,2
+C899997038,DORMANT_ACTIVITY,677626.03,Account dormant for 229 hours then reactivated with $677626.03,2
+C902495285,DORMANT_ACTIVITY,55084.44,Account dormant for 102 hours then reactivated with $55084.44,2
+C904671559,DORMANT_ACTIVITY,1273237.63,Account dormant for 117 hours then reactivated with $1273237.63,2
+C905543886,DORMANT_ACTIVITY,325483.95,Account dormant for 207 hours then reactivated with $325483.95,2
+C912210297,DORMANT_ACTIVITY,93786.12,Account dormant for 35 hours then reactivated with $93786.12,2
+C915261080,DORMANT_ACTIVITY,117158.67,Account dormant for 136 hours then reactivated with $117158.67,2
+C917322617,DORMANT_ACTIVITY,73046.1,Account dormant for 193 hours then reactivated with $73046.1,2
+C917643021,DORMANT_ACTIVITY,302211.93,Account dormant for 71 hours then reactivated with $302211.93,2
+C917834092,DORMANT_ACTIVITY,319318.37,Account dormant for 196 hours then reactivated with $319318.37,2
+C918967970,DORMANT_ACTIVITY,221038.2,Account dormant for 330 hours then reactivated with $221038.2,2
+C919205551,DORMANT_ACTIVITY,342623.33,Account dormant for 188 hours then reactivated with $342623.33,2
+C923770910,DORMANT_ACTIVITY,133818.44,Account dormant for 389 hours then reactivated with $133818.44,2
+C924227022,DORMANT_ACTIVITY,466835.25,Account dormant for 93 hours then reactivated with $466835.25,2
+C925212502,DORMANT_ACTIVITY,528231.44,Account dormant for 107 hours then reactivated with $528231.44,2
+C925247406,DORMANT_ACTIVITY,1497424.5,Account dormant for 232 hours then reactivated with $1497424.5,2
+C925319155,DORMANT_ACTIVITY,374056.06,Account dormant for 100 hours then reactivated with $374056.06,2
+C926176981,DORMANT_ACTIVITY,66969.58,Account dormant for 54 hours then reactivated with $66969.58,2
+C932682515,DORMANT_ACTIVITY,69647.87,Account dormant for 102 hours then reactivated with $69647.87,2
+C935421593,DORMANT_ACTIVITY,131274.74,Account dormant for 241 hours then reactivated with $131274.74,2
+C936512529,DORMANT_ACTIVITY,515230.06,Account dormant for 176 hours then reactivated with $515230.06,2
+C937513933,DORMANT_ACTIVITY,169355.84,Account dormant for 139 hours then reactivated with $169355.84,2
+C938076674,DORMANT_ACTIVITY,62589.71,Account dormant for 118 hours then reactivated with $62589.71,2
+C938190126,DORMANT_ACTIVITY,114780.97,Account dormant for 148 hours then reactivated with $114780.97,2
+C94020562,DORMANT_ACTIVITY,167024.97,Account dormant for 97 hours then reactivated with $167024.97,2
+C940221737,DORMANT_ACTIVITY,101507.11,Account dormant for 64 hours then reactivated with $101507.11,2
+C94035046,DORMANT_ACTIVITY,222524.41,Account dormant for 199 hours then reactivated with $222524.41,2
+C943383034,DORMANT_ACTIVITY,50566.89,Account dormant for 155 hours then reactivated with $50566.89,2
+C946365545,DORMANT_ACTIVITY,141411.07,Account dormant for 119 hours then reactivated with $141411.07,2
+C951165430,DORMANT_ACTIVITY,57021.62,Account dormant for 294 hours then reactivated with $57021.62,2
+C953340741,DORMANT_ACTIVITY,79966.63,Account dormant for 71 hours then reactivated with $79966.63,2
+C953657514,DORMANT_ACTIVITY,2160182.38,Account dormant for 103 hours then reactivated with $2160182.38,2
+C955114677,DORMANT_ACTIVITY,294749.6,Account dormant for 217 hours then reactivated with $294749.6,2
+C956783513,DORMANT_ACTIVITY,214854.33,Account dormant for 212 hours then reactivated with $214854.33,2
+C958033979,DORMANT_ACTIVITY,323786.92,Account dormant for 141 hours then reactivated with $323786.92,2
+C95818861,DORMANT_ACTIVITY,288997.99,Account dormant for 48 hours then reactivated with $288997.99,2
+C958689035,DORMANT_ACTIVITY,3014744.61,Account dormant for 172 hours then reactivated with $3014744.61,2
+C959027726,DORMANT_ACTIVITY,115106.19,Account dormant for 344 hours then reactivated with $115106.19,2
+C962174957,DORMANT_ACTIVITY,50467.93,Account dormant for 151 hours then reactivated with $50467.93,2
+C962663895,DORMANT_ACTIVITY,245278.29,Account dormant for 108 hours then reactivated with $245278.29,2
+C963593185,DORMANT_ACTIVITY,139833.91,Account dormant for 386 hours then reactivated with $139833.91,2
+C964527380,DORMANT_ACTIVITY,457124.62,Account dormant for 121 hours then reactivated with $457124.62,2
+C96602185,DORMANT_ACTIVITY,200713.23,Account dormant for 91 hours then reactivated with $200713.23,2
+C97092589,DORMANT_ACTIVITY,85821.2,Account dormant for 170 hours then reactivated with $85821.2,2
+C971333758,DORMANT_ACTIVITY,94659.36,Account dormant for 231 hours then reactivated with $94659.36,2
+C971782440,DORMANT_ACTIVITY,373723.87,Account dormant for 249 hours then reactivated with $373723.87,2
+C972779457,DORMANT_ACTIVITY,193900.28,Account dormant for 91 hours then reactivated with $193900.28,2
+C973796666,DORMANT_ACTIVITY,218246.32,Account dormant for 191 hours then reactivated with $218246.32,2
+C974828816,DORMANT_ACTIVITY,736853.64,Account dormant for 72 hours then reactivated with $736853.64,2
+C975133209,DORMANT_ACTIVITY,81618.32,Account dormant for 434 hours then reactivated with $81618.32,2
+C977496798,DORMANT_ACTIVITY,546886.96,Account dormant for 141 hours then reactivated with $546886.96,2
+C98133705,DORMANT_ACTIVITY,352473.1,Account dormant for 32 hours then reactivated with $352473.1,2
+C985185409,DORMANT_ACTIVITY,282705.16,Account dormant for 215 hours then reactivated with $282705.16,2
+C98707923,DORMANT_ACTIVITY,425268.38,Account dormant for 94 hours then reactivated with $425268.38,2
+C989355314,DORMANT_ACTIVITY,105389.85,Account dormant for 338 hours then reactivated with $105389.85,2
+C993304462,DORMANT_ACTIVITY,750517.2,Account dormant for 193 hours then reactivated with $750517.2,2
+C998023735,DORMANT_ACTIVITY,1182678.59,Account dormant for 111 hours then reactivated with $1182678.59,2
+C999476777,DORMANT_ACTIVITY,149082.83,Account dormant for 222 hours then reactivated with $149082.83,2
+C999741114,DORMANT_ACTIVITY,69917.9,Account dormant for 236 hours then reactivated with $69917.9,2
+C999951360,DORMANT_ACTIVITY,170525.3,Account dormant for 46 hours then reactivated with $170525.3,2
+C162362674,RAPID_MOVEMENT,9485.21,Funds moved through intermediary C1939958280 to C232785081 within 23 hours,2
+C1209523957,RAPID_MOVEMENT,160046.07,Funds moved through intermediary C1939958280 to C232785081 within 23 hours,2
+C1810325871,RAPID_MOVEMENT,420986.32,Funds moved through intermediary C1939958280 to C232785081 within 21 hours,2
+C696809778,RAPID_MOVEMENT,227772.92,Funds moved through intermediary C585981957 to C1871172330 within 24 hours,2
+C523379204,RAPID_MOVEMENT,50961.1,Funds moved through intermediary C1136437763 to C495624128 within 22 hours,2
+C867783976,RAPID_MOVEMENT,88258.08,Funds moved through intermediary C585981957 to C1871172330 within 20 hours,2
+C1667351683,RAPID_MOVEMENT,39397.82,Funds moved through intermediary C1939958280 to C232785081 within 13 hours,2
+C1933517957,RAPID_MOVEMENT,265406.49,Funds moved through intermediary C1939958280 to C232785081 within 13 hours,2
+C1251393794,RAPID_MOVEMENT,589739.27,Funds moved through intermediary C874023329 to C1468339976 within 14 hours,2
+C831358900,RAPID_MOVEMENT,1326914.02,Funds moved through intermediary C874023329 to C1468339976 within 13 hours,2
+C250783005,RAPID_MOVEMENT,174945.83,Funds moved through intermediary C1540348925 to C1532400726 within 10 hours,2
+C54819684,RAPID_MOVEMENT,174924.96,Funds moved through intermediary C628560339 to C1860173439 within 1 hours,2
+C1060127130,RAPID_MOVEMENT,71496.15,Funds moved through intermediary C585981957 to C1871172330 within 5 hours,2
+C1397211960,RAPID_MOVEMENT,236261.89,Funds moved through intermediary C874023329 to C1468339976 within 12 hours,2
+C1554009922,RAPID_MOVEMENT,149467.61,Funds moved through intermediary C874023329 to C1468339976 within 11 hours,2
+C335231444,RAPID_MOVEMENT,38207.0,Funds moved through intermediary C585981957 to C1871172330 within 4 hours,2
+C2013864644,RAPID_MOVEMENT,103679.73,Funds moved through intermediary C874023329 to C1468339976 within 8 hours,2
+C1948234632,RAPID_MOVEMENT,271154.26,Funds moved through intermediary C585981957 to C1871172330 within 1 hours,2
+C1905952891,RAPID_MOVEMENT,187074.35,Funds moved through intermediary C1360393616 to C654237876 within 3 hours,2
+C1599657714,RAPID_MOVEMENT,7452.9,Funds moved through intermediary C487001248 to C416760425 within 1 hours,2
+C1483406592,RAPID_MOVEMENT,255345.27,Funds moved through intermediary C2013691076 to C1228316980 within 3 hours,2
+C1930471156,RAPID_MOVEMENT,45724.42,Funds moved through intermediary C2013691076 to C1228316980 within 3 hours,2
+C1218618225,RAPID_MOVEMENT,82853.17,Funds moved through intermediary C790359552 to C2111700913 within 23 hours,2
+C579882581,RAPID_MOVEMENT,403173.44,Funds moved through intermediary C1050074703 to C678838953 within 2 hours,2
+C1969062925,RAPID_MOVEMENT,93360.16,Funds moved through intermediary C1857484942 to C128736076 within 23 hours,2
+C1753150528,RAPID_MOVEMENT,95365.35,Funds moved through intermediary C1857484942 to C128736076 within 22 hours,2
+C1741357741,RAPID_MOVEMENT,28746.3,Funds moved through intermediary C572482323 to C235416484 within 3 hours,2
+C1084470229,RAPID_MOVEMENT,59195.29,Funds moved through intermediary C1838628808 to C224572740 within 22 hours,2
+C1363298463,RAPID_MOVEMENT,101185.16,Funds moved through intermediary C1700467242 to C1595094870 within 19 hours,2
+C1088393438,RAPID_MOVEMENT,165749.78,Funds moved through intermediary C882311124 to C1923128641 within 3 hours,2
+C2054224740,RAPID_MOVEMENT,101100.34,Funds moved through intermediary C1100190024 to C207698497 within 22 hours,2
+C572991857,RAPID_MOVEMENT,246049.1,Funds moved through intermediary C418053001 to C1761934516 within 16 hours,2
+C285414219,RAPID_MOVEMENT,177119.42,Funds moved through intermediary C27739138 to C1974957475 within 3 hours,2
+C840673370,RAPID_MOVEMENT,75614.0,Funds moved through intermediary C572482323 to C235416484 within 1 hours,2
+C2021600279,RAPID_MOVEMENT,144960.66,Funds moved through intermediary C844751474 to C1370601051 within 17 hours,2
+C1947024980,RAPID_MOVEMENT,47178.12,Funds moved through intermediary C991247178 to C1344561835 within 23 hours,2
+C1084904189,RAPID_MOVEMENT,220824.8,Funds moved through intermediary C1838628808 to C224572740 within 18 hours,2
+C1055060882,RAPID_MOVEMENT,186344.45,Funds moved through intermediary C1708093689 to C1557387648 within 12 hours,2
+C1076477679,RAPID_MOVEMENT,195823.9,Funds moved through intermediary C991247178 to C1344561835 within 19 hours,2
+C94373503,RAPID_MOVEMENT,87963.06,Funds moved through intermediary C1100190024 to C207698497 within 6 hours,2
+C1444496765,RAPID_MOVEMENT,705174.54,Funds moved through intermediary C1839650783 to C2136913591 within 23 hours,2
+C532453433,RAPID_MOVEMENT,1310843.36,Funds moved through intermediary C1708070258 to C11164223 within 22 hours,2
+C523605614,RAPID_MOVEMENT,322072.6,Funds moved through intermediary C1277761376 to C1934497845 within 2 hours,2
+C996346182,RAPID_MOVEMENT,422830.92,Funds moved through intermediary C809007991 to C1194683639 within 2 hours,2
+C1558625741,RAPID_MOVEMENT,213684.91,Funds moved through intermediary C1838628808 to C224572740 within 2 hours,2
+C1766969454,RAPID_MOVEMENT,822049.92,Funds moved through intermediary C1708070258 to C11164223 within 21 hours,2
+C1343557062,RAPID_MOVEMENT,127201.7,Funds moved through intermediary C1606938972 to C605457974 within 3 hours,2
+C1842648678,RAPID_MOVEMENT,13108.08,Funds moved through intermediary C809007991 to C1194683639 within 1 hours,2
+C729463951,RAPID_MOVEMENT,170912.43,Funds moved through intermediary C1798294009 to C27851214 within 5 hours,2
+C786750141,RAPID_MOVEMENT,482744.88,Funds moved through intermediary C525345654 to C1459757869 within 23 hours,2
+C804109603,RAPID_MOVEMENT,174625.8,Funds moved through intermediary C1488122124 to C1025989603 within 5 hours,2
+C1228009511,RAPID_MOVEMENT,190022.47,Funds moved through intermediary C497879797 to C688200281 within 22 hours,2
+C1238994582,RAPID_MOVEMENT,346831.77,Funds moved through intermediary C1708070258 to C11164223 within 15 hours,2
+C1199357258,RAPID_MOVEMENT,207324.4,Funds moved through intermediary C1839650783 to C2136913591 within 14 hours,2
+C2098881609,RAPID_MOVEMENT,19368.72,Funds moved through intermediary C497879797 to C688200281 within 19 hours,2
+C1691867134,RAPID_MOVEMENT,168490.6,Funds moved through intermediary C986334426 to C1242861033 within 22 hours,2
+C67084,RAPID_MOVEMENT,267457.34,Funds moved through intermediary C285636300 to C1252939599 within 18 hours,2
+C415032258,RAPID_MOVEMENT,93037.43,Funds moved through intermediary C525345654 to C1459757869 within 18 hours,2
+C650906036,RAPID_MOVEMENT,608719.57,Funds moved through intermediary C1483814383 to C196676491 within 4 hours,2
+C1188366499,RAPID_MOVEMENT,423585.79,Funds moved through intermediary C1023072030 to C204134413 within 24 hours,2
+C1575145616,RAPID_MOVEMENT,225362.25,Funds moved through intermediary C185027582 to C437768617 within 2 hours,2
+C660713706,RAPID_MOVEMENT,473379.85,Funds moved through intermediary C2097141675 to C1862512636 within 24 hours,2
+C70458407,RAPID_MOVEMENT,13559.51,Funds moved through intermediary C1479919685 to C312616124 within 24 hours,2
+C221773197,RAPID_MOVEMENT,86388.81,Funds moved through intermediary C1943730297 to C561887420 within 21 hours,2
+C1867618076,RAPID_MOVEMENT,149216.96,Funds moved through intermediary C1932870004 to C1320581703 within 21 hours,2
+C645567297,RAPID_MOVEMENT,745205.29,Funds moved through intermediary C1023072030 to C204134413 within 19 hours,2
+C323444536,RAPID_MOVEMENT,30148.69,Funds moved through intermediary C410320715 to C42680775 within 18 hours,2
+C675187637,RAPID_MOVEMENT,111823.13,Funds moved through intermediary C2278338 to C1575957276 within 23 hours,2
+C594987376,RAPID_MOVEMENT,73331.48,Funds moved through intermediary C2097141675 to C1862512636 within 21 hours,2
+C1382356757,RAPID_MOVEMENT,207822.83,Funds moved through intermediary C48724144 to C437634968 within 23 hours,2
+C1024775276,RAPID_MOVEMENT,212638.03,Funds moved through intermediary C290646814 to C1566246889 within 18 hours,2
+C294149037,RAPID_MOVEMENT,62709.4,Funds moved through intermediary C53804285 to C1241891991 within 9 hours,2
+C1679511897,RAPID_MOVEMENT,594887.22,Funds moved through intermediary C1479919685 to C312616124 within 7 hours,2
+C757994593,RAPID_MOVEMENT,444962.38,Funds moved through intermediary C1090233463 to C818570146 within 8 hours,2
+C852518407,RAPID_MOVEMENT,42748.95,Funds moved through intermediary C86103288 to C2036383723 within 22 hours,2
+C102109493,RAPID_MOVEMENT,13601.41,Funds moved through intermediary C48724144 to C437634968 within 7 hours,2
+C197060318,RAPID_MOVEMENT,363418.62,Funds moved through intermediary C92732576 to C1473699572 within 7 hours,2
+C225908074,RAPID_MOVEMENT,182454.57,Funds moved through intermediary C1867564286 to C1686520000 within 24 hours,2
+C1024612194,RAPID_MOVEMENT,567513.99,Funds moved through intermediary C1479919685 to C312616124 within 4 hours,2
+C959125238,RAPID_MOVEMENT,11176.59,Funds moved through intermediary C157546393 to C1807112061 within 4 hours,2
+C944940513,RAPID_MOVEMENT,129500.54,Funds moved through intermediary C1090233463 to C818570146 within 5 hours,2
+C1773899793,RAPID_MOVEMENT,259579.93,Funds moved through intermediary C553116678 to C1751514616 within 2 hours,2
+C992346365,RAPID_MOVEMENT,596674.97,Funds moved through intermediary C53804285 to C1241891991 within 1 hours,2
+C1414715049,RAPID_MOVEMENT,447577.57,Funds moved through intermediary C628982495 to C522049196 within 5 hours,2
+C1656471340,RAPID_MOVEMENT,893146.37,Funds moved through intermediary C1867564286 to C1686520000 within 4 hours,2
+C1182948452,RAPID_MOVEMENT,128682.55,Funds moved through intermediary C119154130 to C46219738 within 5 hours,2
+C1141164489,RAPID_MOVEMENT,1270976.16,Funds moved through intermediary C1867564286 to C1686520000 within 1 hours,2
+C1939632801,RAPID_MOVEMENT,51372.95,Funds moved through intermediary C741190221 to C1223936728 within 22 hours,2
+C460254236,RAPID_MOVEMENT,547733.88,Funds moved through intermediary C1193292930 to C396751828 within 9 hours,2
+C1061924142,RAPID_MOVEMENT,96339.15,Funds moved through intermediary C1590899092 to C959671606 within 21 hours,2
+C1361802395,RAPID_MOVEMENT,49592.04,Funds moved through intermediary C1237732869 to C576860953 within 3 hours,2
+C809301792,RAPID_MOVEMENT,216477.27,Funds moved through intermediary C741190221 to C1223936728 within 21 hours,2
+C1369250320,RAPID_MOVEMENT,177808.82,Funds moved through intermediary C1299730751 to C422851994 within 8 hours,2
+C162404670,RAPID_MOVEMENT,207600.65,Funds moved through intermediary C883794020 to C1838843018 within 20 hours,2
+C106999010,RAPID_MOVEMENT,358295.4,Funds moved through intermediary C731416306 to C1550730470 within 15 hours,2
+C221645357,RAPID_MOVEMENT,44280.68,Funds moved through intermediary C411945430 to C595199306 within 23 hours,2
+C2080439327,RAPID_MOVEMENT,272396.86,Funds moved through intermediary C1205108866 to C450970010 within 18 hours,2
+C1816660545,RAPID_MOVEMENT,212548.52,Funds moved through intermediary C1193292930 to C396751828 within 1 hours,2
+C1816610777,RAPID_MOVEMENT,183673.48,Funds moved through intermediary C1701266292 to C924787590 within 12 hours,2
+C1537569086,RAPID_MOVEMENT,62216.74,Funds moved through intermediary C1670445471 to C2120183747 within 7 hours,2
+C1264604892,RAPID_MOVEMENT,177436.28,Funds moved through intermediary C1045096191 to C1737299595 within 11 hours,2
+C1236876718,RAPID_MOVEMENT,406781.18,Funds moved through intermediary C1261701662 to C524594813 within 6 hours,2
+C829820560,RAPID_MOVEMENT,307741.47,Funds moved through intermediary C1701114059 to C1059152032 within 4 hours,2
+C1462975269,RAPID_MOVEMENT,341757.4,Funds moved through intermediary C678000776 to C1144067902 within 7 hours,2
+C2135552749,RAPID_MOVEMENT,348569.27,Funds moved through intermediary C1205108866 to C450970010 within 2 hours,2
+C1744189234,RAPID_MOVEMENT,105571.85,Funds moved through intermediary C883794020 to C1838843018 within 2 hours,2
+C531607051,RAPID_MOVEMENT,265224.1,Funds moved through intermediary C883794020 to C1838843018 within 1 hours,2
+C1215826751,RAPID_MOVEMENT,428574.48,Funds moved through intermediary C1760300120 to C1286928684 within 6 hours,2
+C612429961,RAPID_MOVEMENT,6664.26,Funds moved through intermediary C1519343930 to C62408822 within 22 hours,2
+C1248090928,RAPID_MOVEMENT,76424.66,Funds moved through intermediary C678000776 to C1144067902 within 4 hours,2
+C1581408510,RAPID_MOVEMENT,353016.35,Funds moved through intermediary C1045096191 to C1737299595 within 3 hours,2
+C1608472823,RAPID_MOVEMENT,234475.16,Funds moved through intermediary C396904042 to C824397896 within 5 hours,2
+C341833398,RAPID_MOVEMENT,73097.96,Funds moved through intermediary C730494888 to C1596003284 within 22 hours,2
+C840806545,RAPID_MOVEMENT,107620.42,Funds moved through intermediary C2138142210 to C762286147 within 20 hours,2
+C458567757,RAPID_MOVEMENT,129189.11,Funds moved through intermediary C1472011724 to C1976779677 within 14 hours,2
+C897801764,RAPID_MOVEMENT,202817.67,Funds moved through intermediary C673574519 to C2090332897 within 8 hours,2
+C2092554699,RAPID_MOVEMENT,7094.08,Funds moved through intermediary C673574519 to C2090332897 within 7 hours,2
+C259852727,RAPID_MOVEMENT,157279.32,Funds moved through intermediary C827264530 to C1155466074 within 19 hours,2
+C985770128,RAPID_MOVEMENT,102261.98,Funds moved through intermediary C827264530 to C1155466074 within 19 hours,2
+C1857819974,RAPID_MOVEMENT,198401.86,Funds moved through intermediary C657540112 to C140937668 within 9 hours,2
+C1321383906,RAPID_MOVEMENT,335645.85,Funds moved through intermediary C885582848 to C320637366 within 24 hours,2
+C1535200260,RAPID_MOVEMENT,138975.98,Funds moved through intermediary C15732446 to C2146116499 within 2 hours,2
+C1271708118,RAPID_MOVEMENT,1319729.61,Funds moved through intermediary C636092700 to C377734662 within 9 hours,2
+C483567533,RAPID_MOVEMENT,172019.96,Funds moved through intermediary C636092700 to C377734662 within 8 hours,2
+C1328943302,RAPID_MOVEMENT,152748.54,Funds moved through intermediary C15732446 to C2146116499 within 1 hours,2
+C1260137558,RAPID_MOVEMENT,285653.92,Funds moved through intermediary C1476420078 to C43121577 within 14 hours,2
+C881667568,RAPID_MOVEMENT,409054.29,Funds moved through intermediary C1476420078 to C43121577 within 14 hours,2
+C1164560819,RAPID_MOVEMENT,1402.12,Funds moved through intermediary C1078555178 to C1406401674 within 8 hours,2
+C1871730221,RAPID_MOVEMENT,95879.05,Funds moved through intermediary C1168223128 to C1797185885 within 4 hours,2
+C1923160510,RAPID_MOVEMENT,1278572.49,Funds moved through intermediary C636092700 to C377734662 within 2 hours,2
+C1394363618,RAPID_MOVEMENT,51534.23,Funds moved through intermediary C1401817891 to C1667170918 within 1 hours,2
+C574564334,RAPID_MOVEMENT,126358.31,Funds moved through intermediary C1175080367 to C1888874532 within 18 hours,2
+C1374072714,RAPID_MOVEMENT,635743.9,Funds moved through intermediary C836860673 to C1430464123 within 2 hours,2
+C316757447,RAPID_MOVEMENT,221559.2,Funds moved through intermediary C1452222022 to C105645758 within 4 hours,2
+C1596678761,RAPID_MOVEMENT,147989.21,Funds moved through intermediary C1164117829 to C952260640 within 21 hours,2
+C171453197,RAPID_MOVEMENT,275084.69,Funds moved through intermediary C1655360824 to C1289358771 within 21 hours,2
+C2047211668,RAPID_MOVEMENT,12765.39,Funds moved through intermediary C1286608184 to C1337804005 within 9 hours,2
+C208439884,RAPID_MOVEMENT,315699.94,Funds moved through intermediary C1563365250 to C1073820805 within 5 hours,2
+C2006068173,RAPID_MOVEMENT,462062.72,Funds moved through intermediary C693873473 to C515053096 within 9 hours,2
+C1403816967,RAPID_MOVEMENT,207959.83,Funds moved through intermediary C388419372 to C19223238 within 2 hours,2
+C1870839163,RAPID_MOVEMENT,132105.58,Funds moved through intermediary C1665529708 to C1488009600 within 21 hours,2
+C2136141853,RAPID_MOVEMENT,297944.44,Funds moved through intermediary C1906572193 to C1258848461 within 6 hours,2
+C537286331,RAPID_MOVEMENT,314560.48,Funds moved through intermediary C1906572193 to C1258848461 within 6 hours,2
+C954674958,RAPID_MOVEMENT,206424.51,Funds moved through intermediary C2027399950 to C540274871 within 19 hours,2
+C1782783472,RAPID_MOVEMENT,52609.53,Funds moved through intermediary C294614513 to C79542395 within 18 hours,2
+C1026698273,RAPID_MOVEMENT,32239.33,Funds moved through intermediary C1959400230 to C1970589571 within 1 hours,2
+C1301117531,RAPID_MOVEMENT,19210.73,Funds moved through intermediary C387945272 to C1493725593 within 4 hours,2
+C378807414,RAPID_MOVEMENT,232301.08,Funds moved through intermediary C1286608184 to C1337804005 within 1 hours,2
+C823536082,RAPID_MOVEMENT,155554.56,Funds moved through intermediary C2067781565 to C1990615309 within 23 hours,2
+C1452451567,RAPID_MOVEMENT,431770.97,Funds moved through intermediary C279759786 to C2129983211 within 19 hours,2
+C981351751,RAPID_MOVEMENT,285812.68,Funds moved through intermediary C613124551 to C1938309274 within 21 hours,2
+C381628536,RAPID_MOVEMENT,194436.56,Funds moved through intermediary C1313876677 to C1385294013 within 16 hours,2
+C1229542985,RAPID_MOVEMENT,293789.96,Funds moved through intermediary C567298364 to C1088527068 within 18 hours,2
+C1467805976,RAPID_MOVEMENT,200761.76,Funds moved through intermediary C27414294 to C123981426 within 5 hours,2
+C3155861,RAPID_MOVEMENT,151730.1,Funds moved through intermediary C279759786 to C2129983211 within 2 hours,2
+C876227521,RAPID_MOVEMENT,87264.53,Funds moved through intermediary C27414294 to C123981426 within 2 hours,2
+C95597266,RAPID_MOVEMENT,45487.45,Funds moved through intermediary C1168413265 to C950430336 within 1 hours,2
+C1230402792,RAPID_MOVEMENT,543430.1,Funds moved through intermediary C819391019 to C1475849418 within 2 hours,2
+C1271329387,RAPID_MOVEMENT,168718.08,Funds moved through intermediary C1257189114 to C2090640897 within 20 hours,2
+C598268528,RAPID_MOVEMENT,92786.39,Funds moved through intermediary C1012006904 to C256127730 within 5 hours,2
+C1030038997,RAPID_MOVEMENT,3713.06,Funds moved through intermediary C1158705084 to C1620703012 within 3 hours,2
+C1216570900,RAPID_MOVEMENT,75040.96,Funds moved through intermediary C1572849704 to C2055436616 within 23 hours,2
+C221514348,RAPID_MOVEMENT,171381.76,Funds moved through intermediary C399710303 to C187727696 within 17 hours,2
+C1440535122,RAPID_MOVEMENT,175349.21,Funds moved through intermediary C700094565 to C31450281 within 24 hours,2
+C1439922772,RAPID_MOVEMENT,215015.59,Funds moved through intermediary C700094565 to C31450281 within 24 hours,2
+C322893228,RAPID_MOVEMENT,855539.29,Funds moved through intermediary C436378709 to C1924726171 within 20 hours,2
+C1534506434,RAPID_MOVEMENT,69135.5,Funds moved through intermediary C2094962524 to C1448189821 within 4 hours,2
+C265089369,RAPID_MOVEMENT,13821.11,Funds moved through intermediary C860243147 to C1967823187 within 19 hours,2
+C1087233529,RAPID_MOVEMENT,110108.54,Funds moved through intermediary C2081672577 to C1165861441 within 22 hours,2
+C1119068123,RAPID_MOVEMENT,168963.47,Funds moved through intermediary C862183513 to C385693064 within 16 hours,2
+C1900543733,RAPID_MOVEMENT,15749.55,Funds moved through intermediary C344611133 to C1450748271 within 20 hours,2
+C1883256647,RAPID_MOVEMENT,234926.39,Funds moved through intermediary C1445395724 to C557505592 within 19 hours,2
+C1905033493,RAPID_MOVEMENT,16504.47,Funds moved through intermediary C396036254 to C161636444 within 4 hours,2
+C1675140863,RAPID_MOVEMENT,453299.81,Funds moved through intermediary C1257189114 to C2090640897 within 1 hours,2
+C1476946785,RAPID_MOVEMENT,50397.61,Funds moved through intermediary C758858883 to C1527956657 within 23 hours,2
+C2069640494,RAPID_MOVEMENT,53848.17,Funds moved through intermediary C1063421032 to C659502366 within 7 hours,2
+C1852538022,RAPID_MOVEMENT,53245.97,Funds moved through intermediary C696359194 to C672662411 within 7 hours,2
+C1166887314,RAPID_MOVEMENT,231301.87,Funds moved through intermediary C1819141825 to C1358868707 within 5 hours,2
+C1902931444,RAPID_MOVEMENT,111044.6,Funds moved through intermediary C1819141825 to C1358868707 within 3 hours,2
+C127530819,RAPID_MOVEMENT,31853.0,Funds moved through intermediary C488209484 to C342881564 within 17 hours,2
+C255725010,RAPID_MOVEMENT,80459.75,Funds moved through intermediary C1647344325 to C1886579165 within 14 hours,2
+C1759482024,RAPID_MOVEMENT,219042.33,Funds moved through intermediary C1857462371 to C390611035 within 23 hours,2
+C398486990,RAPID_MOVEMENT,1478081.61,Funds moved through intermediary C727141163 to C814890317 within 7 hours,2
+C1406031253,RAPID_MOVEMENT,93569.31,Funds moved through intermediary C1290343541 to C7760129 within 7 hours,2
+C1016108224,RAPID_MOVEMENT,304459.66,Funds moved through intermediary C275000720 to C1903499149 within 6 hours,2
+C399129028,RAPID_MOVEMENT,296996.41,Funds moved through intermediary C1999303557 to C34667778 within 10 hours,2
+C38735809,RAPID_MOVEMENT,600971.5,Funds moved through intermediary C27998270 to C528668096 within 3 hours,2
+C2040579074,RAPID_MOVEMENT,156948.16,Funds moved through intermediary C1999303557 to C34667778 within 4 hours,2
+C1529200788,RAPID_MOVEMENT,537664.79,Funds moved through intermediary C1571136349 to C1485756609 within 2 hours,2
+C326853902,RAPID_MOVEMENT,48646.27,Funds moved through intermediary C1219505943 to C20695355 within 23 hours,2

@@ -31,18 +31,27 @@ def generate_alerts(df):
     return alerts
 
 
-def save_alerts(alerts, output_path="outputs/alerts/alerts.csv"):
+def save_alerts(alerts, output_path=None):
     """
     Saves the combined alerts DataFrame to a CSV file.
-    Creates the output directory if it does not already exist.
+    Anchors the output path to the location of this file using pathlib,
+    which handles Windows path resolution more reliably than os.path.
     """
+    from pathlib import Path
 
-    # Create the output directory if it doesn't exist yet
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    # Path(__file__) points to src/alerts.py
+    # .parent gives us src/
+    # .parent again gives us the project root
+    project_root = Path(__file__).resolve().parent.parent
 
+    if output_path is None:
+        output_path = project_root / "outputs" / "alerts" / "alerts.csv"
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    print(f"Saving to: {output_path}")
     alerts.to_csv(output_path, index=False)
-    print(f"Alerts saved to {output_path}")
-    print(f"Total alerts: {len(alerts)}")
+    print(f"Alerts saved successfully. Total alerts: {len(alerts)}")
 
 
 def run_alert_pipeline(df):
