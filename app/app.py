@@ -7,8 +7,13 @@ import pandas as pd
 import sys
 import os
 
-# Add project root to path so we can import from src/
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Walk up two levels from app/streamlit_app.py to reach the project root
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# Add project root to path so src/ imports work on Streamlit Cloud
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
 
 from src.kpis import get_alert_summary
 
