@@ -1,5 +1,8 @@
 # AML Transaction Monitoring Rule Engine
 
+## Responsible AI Use
+This project was developed with assistance from Claude, an AI assistant by Anthropic, used as a coding partner throughout the build. All rule logic, design decisions, and analytical judgments were made by me and grounded in my own understanding of AML typologies and the data. AI assistance was solely used to accelerate development and validate thinking in some occasions, not to replace it. The PaySim dataset is fully synthetic and contains no real customer data.
+
 ## Background
 
 The intention of this project was to deepen my technical foundation in financial crimes analytics. My prior work spans account takeover detection, enterprise fraud classification, and fraudulent application scoring across academic and consulting engagements. This project shifts that focus toward the BSA/AML space, specifically the rule-based transaction monitoring layer that sits at the front of most financial crimes programs.
