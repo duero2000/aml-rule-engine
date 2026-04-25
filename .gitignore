@@ -10,3 +10,6 @@ __pycache__/
 *.__pyc
 .vscode/
 README-copy.md
+
+#ignore Streamlit secrets file
+.streamlit/secrets.toml
