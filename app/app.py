@@ -67,6 +67,20 @@ st.markdown("""
         color: #e0e6f0;
         font-family: 'Courier New', monospace;
     }
+
+    /* Rule buttons — gold border and text, dark fill */
+    .stButton > button {
+        background-color: transparent;
+        border: 1px solid #f0a500;
+        color: #f0a500;
+        font-family: 'Courier New', monospace;
+        font-size: 0.85rem;
+    }
+
+    .stButton > button:hover {
+        background-color: #f0a500;
+        color: #0d1a2e;
+    }
     </style>
 """, unsafe_allow_html=True)
 
