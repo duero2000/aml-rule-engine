@@ -47,7 +47,7 @@ aml-rule-engine/
 │   ├── alerts.py                     # Alert generation and CSV export pipeline
 │   └── kpis.py                       # KPI aggregation for the dashboard
 ├── app/
-│   └── streamlit_app.py              # Two page Streamlit dashboard
+│   └── app.py              # Two page Streamlit dashboard
 ├── outputs/
 │   └── alerts/
 │       └── alerts.csv                # Generated alert output
@@ -117,7 +117,7 @@ The Streamlit dashboard has two pages.
 To run the dashboard from the project root:
 
 ```bash
-streamlit run app/streamlit_app.py
+streamlit run app/app.py
 ```
 
 ---
@@ -157,5 +157,5 @@ run_alert_pipeline(df)
 "
 
 # Launch dashboard
-streamlit run app/streamlit_app.py
+streamlit run app/app.py
 ```
