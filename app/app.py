@@ -98,7 +98,7 @@ def load_alerts():
 
 
 # Sidebar navigation
-st.sidebar.title("🔍 AML Monitor")
+st.sidebar.title("AML Monitor")
 st.sidebar.markdown("---")
 page = st.sidebar.radio(
     "Navigation",
@@ -114,7 +114,7 @@ summary = get_alert_summary(alerts)
 if page == "Overview":
     st.title("Transaction Monitoring Rule Engine")
     st.markdown(
-        "<p style='color:#7a9ab8; font-family:Courier New; font-size:0.85rem;'>"
+        "<p style='color:#4a6580; font-family:Courier New; font-size:0.95rem;'>"
         "FINANCIAL CRIMES ANALYTICS | PAYSIM SYNTHETIC DATASET</p>",
         unsafe_allow_html=True
     )
@@ -165,7 +165,7 @@ if page == "Overview":
 
     # Velocity spike threshold displayed once here instead of in every alert row
     st.markdown(
-        f"<p style='color:#7a9ab8; font-family:Courier New; font-size:0.85rem;'>"
+        f"<p style='color:#4a6580; font-family:Courier New; font-size:0.95rem;'>"
         f"VELOCITY SPIKE THRESHOLD (95TH PERCENTILE): "
         f"<span style='color:#f0a500;'>${VELOCITY_THRESHOLD:,.2f}</span></p>",
         unsafe_allow_html=True
