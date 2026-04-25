@@ -29,10 +29,6 @@ st.set_page_config(
 st.markdown("""
     <style>
     /* Main background and text */
-    .stApp {
-        background-color: #0a0f1e;
-        color: #e0e6f0;
-    }
 
     /* Sidebar styling */
     [data-testid="stSidebar"] {
