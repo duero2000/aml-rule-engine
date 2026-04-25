@@ -9,3 +9,4 @@ data/*.db
 __pycache__/
 *.__pyc
 .vscode/
+README-copy.md
