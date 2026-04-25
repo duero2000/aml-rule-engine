@@ -1,27 +1,15 @@
 # AML Transaction Monitoring Rule Engine
 
+🔗 **[Live Dashboard](https://aml-rule-engine.streamlit.app/)**
+
 ## Responsible AI Use
-This project was developed with assistance from Claude, an AI assistant by Anthropic, used as a coding partner throughout the build. All rule logic, design decisions, and analytical judgments were made by me and grounded in my own understanding of AML typologies and the data. AI assistance was solely used to accelerate development and validate thinking in some occasions, not to replace it. The PaySim dataset is fully synthetic and contains no real customer data.
+This project was developed with assistance from Claude, an AI assistant by Anthropic, used as a coding partner throughout the build. All rule logic, design decisions, and analytical judgments were made by me and grounded in my own understanding of AML typologies and the data. AI assistance was solely used to accelerate development and validate thinking where relevant, not to replace it. The PaySim dataset is fully synthetic and contains no real customer data.
 
 ## Background
 
 The intention of this project was to deepen my technical foundation in financial crimes analytics. My prior work spans account takeover detection, enterprise fraud classification, and fraudulent application scoring across academic and consulting engagements. This project shifts that focus toward the BSA/AML space, specifically the rule-based transaction monitoring layer that sits at the front of most financial crimes programs.
 
 The goal was to build a rule engine grounded in real AML typologies, designed the way an actual monitoring system would be designed, and honest about the limitations of the data it runs on.
-
----
-
-## Dashboard Preview
-
-**Overview**
-
-![Overview](screenshots/Overview_page_showing_all_6_KPI_cards.png)
-
-![Top 10 Accounts](screenshots/top_10_accounts_table.png)
-
-**Alerts Explorer**
-
-![Alerts Explorer](screenshots/Alerts_Explorer_with_a_filter_applied.png)
 
 ---
 
@@ -37,6 +25,8 @@ The stack is Python, SQLite, Jupyter, and Streamlit.
 
 ```
 aml-rule-engine/
+├── .streamlit/
+│   └── config.toml                   # Theme configuration
 ├── data/                             # PaySim CSV and SQLite database (not committed)
 ├── notebooks/
 │   ├── 01_ingest_and_explore.ipynb   # Data ingestion and full EDA
@@ -47,11 +37,10 @@ aml-rule-engine/
 │   ├── alerts.py                     # Alert generation and CSV export pipeline
 │   └── kpis.py                       # KPI aggregation for the dashboard
 ├── app/
-│   └── app.py              # Two page Streamlit dashboard
+│   └── app.py                        # Two page Streamlit dashboard
 ├── outputs/
 │   └── alerts/
 │       └── alerts.csv                # Generated alert output
-├── screenshots/                      # Dashboard preview images
 ├── requirements.txt
 └── README.md
 ```
@@ -99,10 +88,10 @@ All four rules produce a standardized alert DataFrame with the following columns
 | Rule | Alerts |
 |---|---|
 | Dormant Activity | 1,261 |
-| Velocity Spike | 228 |
+| Velocity Spike | 227 |
 | Rapid Movement | 190 |
 | Structuring | 0 (documented limitation) |
-| **Total** | **1,679** |
+| **Total** | **1,678** |
 
 ---
 
@@ -114,7 +103,7 @@ The Streamlit dashboard has two pages.
 
 **Alerts Explorer** provides a filterable view of all alerts with filters for rule type, alert amount range, and account ID search.
 
-To run the dashboard from the project root:
+To run the dashboard locally from the project root:
 
 ```bash
 streamlit run app/app.py
