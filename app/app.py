@@ -20,7 +20,7 @@ from src.kpis import get_alert_summary
 # Page configuration must be the first Streamlit command called
 st.set_page_config(
     page_title="AML Transaction Monitor",
-    page_icon="🔍",
+    page_icon="💰",
     layout="wide",
     initial_sidebar_state="expanded"
 )
